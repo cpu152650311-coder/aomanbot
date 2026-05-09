@@ -28,7 +28,7 @@ export function organizationSchema() {
     '@type': 'Organization' as const,
     name: 'AOMAN FUTURE',
     url: 'https://aomanbot.com',
-    logo: 'https://aomanbot.com/logo.png',
+    logo: 'https://aomanbot.com/logo.webp',
     email: 'info@aomanbot.com',
     telephone: '+8618928864959',
     address: {
@@ -126,7 +126,7 @@ export function blogPostingSchema(post: {
     publisher: {
       '@type': 'Organization',
       name: 'AOMAN FUTURE',
-      logo: { '@type': 'ImageObject', url: 'https://aomanbot.com/logo.png' },
+      logo: { '@type': 'ImageObject', url: 'https://aomanbot.com/logo.webp' },
     },
   }
 }

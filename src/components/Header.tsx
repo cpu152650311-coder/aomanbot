@@ -37,7 +37,7 @@ export default function Header() {
           <div className="flex-shrink-0">
             <Link href="/" className="block">
               <Image
-                src="/logo.png"
+                src="/logo.webp"
                 alt="AOMAN FUTURE"
                 width={280}
                 height={70}

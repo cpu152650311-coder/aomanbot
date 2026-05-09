@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next'
 import { getAllPostSlugs } from '@/lib/blog'
 
+export const dynamic = 'force-static'
+
 const staticRoutes = [
   { path: '', priority: 1, changeFreq: 'monthly' as const },
   { path: '/about', priority: 0.7, changeFreq: 'monthly' as const },

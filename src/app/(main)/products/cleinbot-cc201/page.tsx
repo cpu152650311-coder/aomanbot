@@ -20,10 +20,10 @@ const specs = [
 ]
 
 const scenarios = [
-  { title: 'Outdoor Plazas', img: '/images/products/cleinbot-cc201/scene-outdoor-plaza.jpg', points: ['Large area sweeping in a single pass', 'Leaf, debris, and fine dust removal', 'Night shift operation with obstacle lights'] },
-  { title: 'Parking Lots', img: '/images/products/cleinbot-cc201/scene-parking-lot.jpg', points: ['Navigate between parked vehicles', 'Deep gutter and curb cleaning', 'Completes 50,000 m² overnight'] },
-  { title: 'University Campuses', img: '/images/products/cleinbot-cc201/scene-university.jpg', points: ['Multi-path route programming', 'Auto-skip pedestrian zones by schedule', 'Audit-ready cleaning logs'] },
-  { title: 'Industrial Parks', img: '/images/products/cleinbot-cc201/scene-industrial-park.jpg', points: ['Heavy debris and construction dust', 'Integration with security gate systems', 'Reduces headcount by 70%'] },
+  { title: 'Outdoor Plazas', img: '/images/products/cleinbot-cc201/scene-outdoor-plaza.webp', points: ['Large area sweeping in a single pass', 'Leaf, debris, and fine dust removal', 'Night shift operation with obstacle lights'] },
+  { title: 'Parking Lots', img: '/images/products/cleinbot-cc201/scene-parking-lot.webp', points: ['Navigate between parked vehicles', 'Deep gutter and curb cleaning', 'Completes 50,000 m² overnight'] },
+  { title: 'University Campuses', img: '/images/products/cleinbot-cc201/scene-university.webp', points: ['Multi-path route programming', 'Auto-skip pedestrian zones by schedule', 'Audit-ready cleaning logs'] },
+  { title: 'Industrial Parks', img: '/images/products/cleinbot-cc201/scene-industrial-park.webp', points: ['Heavy debris and construction dust', 'Integration with security gate systems', 'Reduces headcount by 70%'] },
 ]
 
 const faqs = [

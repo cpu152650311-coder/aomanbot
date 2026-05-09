@@ -15,7 +15,7 @@ export default function Footer() {
 
           <div>
             <Image
-              src="/logo-white.png"
+              src="/logo-white.webp"
               alt="AOMAN FUTURE"
               width={240}
               height={70}

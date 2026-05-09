@@ -5,12 +5,12 @@ import { getAllPosts, getAllPostSlugs, getPostBySlug, getRelatedPosts, formatDat
 import type { BlogPostContent } from '@/lib/blog'
 
 export function generateStaticParams() {
-  return getAllPostSlugs().map((slug) => ({ slug: [slug] }))
+  return getAllPostSlugs().map((slug) => ({ slug }))
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string[] }> }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const awaitedParams = await params
-  const slug = awaitedParams.slug.join('/')
+  const slug = awaitedParams.slug
   const post = getPostBySlug(slug)
 
   if (!post) {
@@ -42,9 +42,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 }
 
-export default async function BlogPostPage({ params }: { params: Promise<{ slug: string[] }> }) {
+export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const awaitedParams = await params
-  const slug = awaitedParams.slug.join('/')
+  const slug = awaitedParams.slug
   const post = getPostBySlug(slug)
 
   if (!post) {
@@ -77,7 +77,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         publisher: {
           '@type': 'Organization',
           name: 'AOMAN FUTURE',
-          logo: { '@type': 'ImageObject', url: 'https://aomanbot.com/logo.png' },
+          logo: { '@type': 'ImageObject', url: 'https://aomanbot.com/logo.webp' },
         },
         mainEntityOfPage: { '@type': 'WebPage', '@id': `https://aomanbot.com/blog/${slug}` },
       },

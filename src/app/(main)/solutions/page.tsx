@@ -10,7 +10,7 @@ const solutions = [
     tagColor: 'bg-brand text-white',
     desc: 'Revolutionize restaurant operations with AI-powered delivery robots. Reduce labor costs by 60%, increase table turnover by 40%.',
     features: ['Autonomous navigation & obstacle avoidance', 'Multi-table delivery capacity', 'POS & kitchen system integration'],
-    img: '/images/solutions/smart-catering.jpg',
+    img: '/images/solutions/smart-catering.webp',
   },
   {
     title: 'Smart Cleaning Solution',
@@ -18,7 +18,7 @@ const solutions = [
     tagColor: 'bg-teal text-white',
     desc: '24/7 autonomous cleaning for airports, malls, offices. Cut cleaning costs by 50%, improve hygiene standards significantly.',
     features: ['Intelligent path planning & mapping', 'Multi-mode cleaning (scrub/vacuum/mop)', 'Cloud-based fleet management'],
-    img: '/images/solutions/smart-cleaning.jpg',
+    img: '/images/solutions/smart-cleaning.webp',
   },
   {
     title: 'Smart Exhibition Solution',
@@ -26,7 +26,7 @@ const solutions = [
     tagColor: 'bg-[#FF6B6B] text-white',
     desc: 'Enhance visitor experience with interactive guide robots. Multilingual support, AR content, 24/7 availability.',
     features: ['AI-powered voice interaction (10+ languages)', 'Guided tour & exhibition introduction', 'Visitor analytics & heat mapping'],
-    img: '/images/solutions/smart-exhibition.jpg',
+    img: '/images/solutions/smart-exhibition.webp',
   },
   {
     title: 'Smart Logistics Solution',
@@ -34,7 +34,7 @@ const solutions = [
     tagColor: 'bg-[#FF9F43] text-white',
     desc: 'Optimize warehouse operations with intelligent material handling. Boost efficiency by 3x, reduce errors by 95%.',
     features: ['Autonomous picking & transporting', 'WMS/ERP system integration', 'Multi-robot fleet coordination'],
-    img: '/images/solutions/smart-logistics.jpg',
+    img: '/images/solutions/smart-logistics.webp',
   },
   {
     title: 'Smart Healthcare Solution',
@@ -42,7 +42,7 @@ const solutions = [
     tagColor: 'bg-teal text-white',
     desc: 'Support medical staff with intelligent delivery & disinfection. Reduce infection risk, improve operational efficiency.',
     features: ['Medicine & medical supply delivery', 'UV-C disinfection capabilities', 'HIS/EMR system integration'],
-    img: '/images/solutions/smart-healthcare.jpg',
+    img: '/images/solutions/smart-healthcare.webp',
   },
   {
     title: 'Smart Retail Solution',
@@ -50,7 +50,7 @@ const solutions = [
     tagColor: 'bg-[#A29BFE] text-white',
     desc: 'Elevate shopping experience with interactive service robots. Product recommendations, inventory check, customer engagement.',
     features: ['AI-powered product recommendations', 'Customer behavior analytics', 'Promotional content display'],
-    img: '/images/solutions/smart-retail.jpg',
+    img: '/images/solutions/smart-retail.webp',
   },
 ]
 
@@ -74,7 +74,7 @@ const cases = [
     desc: 'Deployed 50+ CRUZR service robots for passenger guidance, info queries, and wayfinding.',
     metrics: [{ label: 'Passenger Satisfaction', value: '+35%' }, { label: 'Staff Workload', value: '-40%' }, { label: 'Languages Supported', value: '12+' }],
     color: 'from-brand to-brand-hover',
-    img: '/images/solutions/case-paris-airport.jpg',
+    img: '/images/solutions/case-paris-airport.webp',
   },
   {
     location: 'MANUFACTURING · SHENZHEN, CHINA',
@@ -82,7 +82,7 @@ const cases = [
     desc: 'Integrated 120+ logistics robots for material handling and inventory management.',
     metrics: [{ label: 'Operational Efficiency', value: '+250%' }, { label: 'Error Rate', value: '-95%' }, { label: 'ROI Achieved', value: '8 mo.' }],
     color: 'from-[#FF6B6B] to-[#FF9F43]',
-    img: '/images/solutions/case-byd-factory.jpg',
+    img: '/images/solutions/case-byd-factory.webp',
   },
   {
     location: 'HOSPITALITY · BEIJING, CHINA',
@@ -90,7 +90,7 @@ const cases = [
     desc: '30+ delivery robots serving 200+ tables daily in flagship location.',
     metrics: [{ label: 'Labor Cost Savings', value: '-60%' }, { label: 'Table Turnover', value: '+45%' }, { label: 'Satisfaction', value: '98.7%' }],
     color: 'from-teal to-teal-hover',
-    img: '/images/solutions/case-haidilao.jpg',
+    img: '/images/solutions/case-haidilao.webp',
   },
 ]
 

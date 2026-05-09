@@ -144,7 +144,7 @@ export default function TechnologyPage() {
             {/* Right: hero visual */}
             <div className="relative animate-fadeInUp" style={{ animationDelay: '0.2s' }}>
               <Image
-                src="/images/technology/hero-visual.jpg"
+                src="/images/technology/hero-visual.webp"
                 alt="AI Technology Visualization"
                 width={600}
                 height={700}
@@ -238,7 +238,7 @@ export default function TechnologyPage() {
 
             <div className="relative">
               <Image
-                src="/images/technology/rd-lab.jpg"
+                src="/images/technology/rd-lab.webp"
                 alt="AOMAN R&D Lab"
                 width={640}
                 height={720}

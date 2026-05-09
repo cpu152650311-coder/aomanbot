@@ -20,10 +20,10 @@ const specs = [
 ]
 
 const scenarios = [
-  { title: 'Shopping Malls', img: '/images/products/cleinbot-m79/scene-shopping-mall.jpg', points: ['Clean open concourses overnight', 'Automated multi-level scheduling', 'Reduce custodial headcount by 50%'] },
-  { title: 'International Airports', img: '/images/products/cleinbot-m79/scene-airport.jpg', points: ['24/7 terminal floor cleaning', 'Works alongside passengers safely', 'GPS-level tracking per zone'] },
-  { title: 'Hotels & Lobbies', img: '/images/products/cleinbot-m79/scene-hotel-lobby.jpg', points: ['Silent night cleaning mode', 'Auto-return to dock before opening', 'Hygiene audit logs for compliance'] },
-  { title: 'Hospitals & Clinics', img: '/images/products/cleinbot-m79/scene-hospital-clinic.jpg', points: ['Clinical-grade disinfection cycles', 'UV-C add-on module available', 'HIS-integrated scheduling'] },
+  { title: 'Shopping Malls', img: '/images/products/cleinbot-m79/scene-shopping-mall.webp', points: ['Clean open concourses overnight', 'Automated multi-level scheduling', 'Reduce custodial headcount by 50%'] },
+  { title: 'International Airports', img: '/images/products/cleinbot-m79/scene-airport.webp', points: ['24/7 terminal floor cleaning', 'Works alongside passengers safely', 'GPS-level tracking per zone'] },
+  { title: 'Hotels & Lobbies', img: '/images/products/cleinbot-m79/scene-hotel-lobby.webp', points: ['Silent night cleaning mode', 'Auto-return to dock before opening', 'Hygiene audit logs for compliance'] },
+  { title: 'Hospitals & Clinics', img: '/images/products/cleinbot-m79/scene-hospital-clinic.webp', points: ['Clinical-grade disinfection cycles', 'UV-C add-on module available', 'HIS-integrated scheduling'] },
 ]
 
 const faqs = [

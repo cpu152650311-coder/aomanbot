@@ -20,10 +20,10 @@ const specs = [
 ]
 
 const scenarios = [
-  { title: 'Restaurants & Cafés', img: '/images/products/cadebot-l100/scene-restaurant.jpg', points: ['Deliver food from kitchen to tables', 'Return dirty dishes to washing area', 'Reduce staff walking distance by 70%'] },
-  { title: 'Hotels & Resorts', img: '/images/products/cadebot-l100/scene-hotel.jpg', points: ['24/7 room service delivery', 'Linen & amenities transport', 'Enhance guest experience & ratings'] },
-  { title: 'Hospitals & Clinics', img: '/images/products/cadebot-l100/scene-hospital.jpg', points: ['Medicine & meal delivery to wards', 'Medical waste & linen collection', 'Reduce infection risk & nurse workload'] },
-  { title: 'Corporate Offices', img: '/images/products/cadebot-l100/scene-office.jpg', points: ['Inter-department document delivery', 'Cafeteria food distribution', 'Modern workplace image upgrade'] },
+  { title: 'Restaurants & Cafés', img: '/images/products/cadebot-l100/scene-restaurant.webp', points: ['Deliver food from kitchen to tables', 'Return dirty dishes to washing area', 'Reduce staff walking distance by 70%'] },
+  { title: 'Hotels & Resorts', img: '/images/products/cadebot-l100/scene-hotel.webp', points: ['24/7 room service delivery', 'Linen & amenities transport', 'Enhance guest experience & ratings'] },
+  { title: 'Hospitals & Clinics', img: '/images/products/cadebot-l100/scene-hospital.webp', points: ['Medicine & meal delivery to wards', 'Medical waste & linen collection', 'Reduce infection risk & nurse workload'] },
+  { title: 'Corporate Offices', img: '/images/products/cadebot-l100/scene-office.webp', points: ['Inter-department document delivery', 'Cafeteria food distribution', 'Modern workplace image upgrade'] },
 ]
 
 const faqs = [
@@ -242,7 +242,7 @@ export default function CadebotL100Page() {
             <div className="grid md:grid-cols-[1.65fr_1fr] gap-0 md:items-stretch">
               <div className="relative min-w-0 w-full aspect-[3/2]">
                 <Image
-                  src="/images/products/cadebot-l100/case-haidilao.jpg"
+                  src="/images/products/cadebot-l100/case-haidilao.webp"
                   alt="Haidilao Case Study"
                   fill
                   className="object-cover object-center"

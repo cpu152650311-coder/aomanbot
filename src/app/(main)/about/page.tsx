@@ -107,7 +107,7 @@ const aboutJsonLd = {
         '@type': 'Organization',
         name: 'AOMAN FUTURE',
         url: 'https://aomanbot.com',
-        logo: 'https://aomanbot.com/logo.png',
+        logo: 'https://aomanbot.com/logo.webp',
         email: 'info@aomanbot.com',
         telephone: '+8618928864959',
         foundingDate: '2012',

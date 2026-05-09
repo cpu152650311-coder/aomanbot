@@ -21,7 +21,7 @@ export default function ThanksPage() {
       {/* Logo */}
       <div className="mb-12">
         <Image
-          src="/logo.png"
+          src="/logo.webp"
           alt="AOMAN FUTURE"
           width={180}
           height={48}

@@ -20,10 +20,10 @@ const specs = [
 ]
 
 const scenarios = [
-  { title: 'Hotel Reception', img: '/images/products/cruzr/scene-hotel-reception.jpg', points: ['Check-in guidance & floor directions', 'Concierge FAQ in guest\'s language', 'Upsell services with personalized offers'] },
-  { title: 'Retail & Showrooms', img: '/images/products/cruzr/scene-retail-showroom.jpg', points: ['Product introduction & recommendations', 'Queue management & promotion display', 'CRM data integration for VIP customers'] },
-  { title: 'Exhibition Halls', img: '/images/products/cruzr/scene-exhibition-hall.jpg', points: ['Multilingual guided tours', 'Interactive exhibit explanations', 'Visitor flow analytics & heat maps'] },
-  { title: 'Corporate Lobbies', img: '/images/products/cruzr/scene-corporate-lobby.jpg', points: ['Visitor registration & badge printing', 'Meeting room wayfinding', 'Guest notification to host employee'] },
+  { title: 'Hotel Reception', img: '/images/products/cruzr/scene-hotel-reception.webp', points: ['Check-in guidance & floor directions', 'Concierge FAQ in guest\'s language', 'Upsell services with personalized offers'] },
+  { title: 'Retail & Showrooms', img: '/images/products/cruzr/scene-retail-showroom.webp', points: ['Product introduction & recommendations', 'Queue management & promotion display', 'CRM data integration for VIP customers'] },
+  { title: 'Exhibition Halls', img: '/images/products/cruzr/scene-exhibition-hall.webp', points: ['Multilingual guided tours', 'Interactive exhibit explanations', 'Visitor flow analytics & heat maps'] },
+  { title: 'Corporate Lobbies', img: '/images/products/cruzr/scene-corporate-lobby.webp', points: ['Visitor registration & badge printing', 'Meeting room wayfinding', 'Guest notification to host employee'] },
 ]
 
 const faqs = [
@@ -240,7 +240,7 @@ export default function CruzrPage() {
           <div className="max-w-5xl mx-auto hero-gradient rounded-3xl overflow-hidden shadow-2xl">
             <div className="grid md:grid-cols-[1.65fr_1fr] gap-0 md:items-stretch">
               <div className="relative min-w-0 w-full aspect-[3/2]">
-                <Image src="/images/products/cruzr/case-airport.jpg" alt="Paris Airport CRUZR" fill className="object-cover object-center" sizes="(max-width: 768px) 100vw, 62vw" />
+                <Image src="/images/products/cruzr/case-airport.webp" alt="Paris Airport CRUZR" fill className="object-cover object-center" sizes="(max-width: 768px) 100vw, 62vw" />
               </div>
               <div className="p-10 text-white flex flex-col justify-center">
                 <div className="inline-flex bg-white/20 px-4 py-1.5 rounded-full text-sm font-semibold mb-5 w-fit">✈️ Featured Case Study</div>

@@ -1,6 +1,19 @@
 {
   "updatedAt": "2026-05-10T00:00:00Z",
-  "posts": [],
+  "posts": [
+    {
+      "slug": "welcome-to-aoman-future-blog",
+      "title": "Welcome to AOMAN FUTURE Blog",
+      "excerpt": "Discover the latest in humanoid robots, autonomous cleaning solutions, and smart service robotics for the commercial world.",
+      "category": "industry-insights",
+      "author": "aoman-future-team",
+      "publishedAt": "2026-05-10T09:00:00Z",
+      "image": "/images/home/hero-robot.webp",
+      "imageAlt": "AOMAN FUTURE Humanoid Robot",
+      "tags": ["robotics", "automation", "ai"],
+      "content": "<h2>The Future of Service Robotics Starts Here</h2><p>Welcome to the AOMAN FUTURE blog — your source for cutting-edge insights on autonomous service robots, AI-powered cleaning solutions, and the evolving landscape of commercial robotics.</p><h2>What We Cover</h2><p>From industrial floor scrubbing robots like CLEINBOT to humanoid service robots like CRUZR, we explore how robotic automation is transforming industries worldwide.</p><h2>Stay Tuned</h2><p>New articles drop every week. Subscribe to stay informed about the latest innovations in service robotics.</p>"
+    }
+  ],
   "categories": [
     {"slug": "industry-insights", "name": "Industry Insights"},
     {"slug": "product-updates", "name": "Product Updates"},

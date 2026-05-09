@@ -80,19 +80,19 @@ const solutions = [
   {
     title: 'Hospitality',
     desc: 'Automate in-room delivery, concierge, and lobby service — reduce operating costs by up to 35%.',
-    img: '/images/home/solution-hospitality.jpg',
+    img: '/images/home/solution-hospitality.webp',
     icon: '🏨',
   },
   {
     title: 'Healthcare',
     desc: 'Contactless medication delivery, patient guidance, and cleaning in clinical environments.',
-    img: '/images/home/solution-healthcare.jpg',
+    img: '/images/home/solution-healthcare.webp',
     icon: '🏥',
   },
   {
     title: 'Commercial & Retail',
     desc: 'Boost customer experience with AI-powered product navigation and autonomous floor cleaning.',
-    img: '/images/home/solution-commercial.jpg',
+    img: '/images/home/solution-commercial.webp',
     icon: '🏢',
   },
 ]
@@ -131,21 +131,21 @@ const news = [
     tag: 'Product',
     title: 'CADEBOT L100 Gen 2 Launches with 60% Improved Battery Life',
     summary: 'The new generation features a 48V lithium pack and smart charging, enabling 20-hour continuous operation.',
-    img: '/images/home/news-cadebot-gen2.jpg',
+    img: '/images/home/news-cadebot-gen2.webp',
   },
   {
     date: 'Jan 2025',
     tag: 'Partnership',
     title: 'AOMAN Signs Strategic Partnership with Siemens Smart Infrastructure',
     summary: 'The collaboration will integrate AOMAN robots into Siemens building management systems across 30+ countries.',
-    img: '/images/home/news-siemens-partnership.jpg',
+    img: '/images/home/news-siemens-partnership.webp',
   },
   {
     date: 'Dec 2024',
     tag: 'Award',
     title: 'CLEINBOT M79 Wins CES 2025 Innovation Award in Robotics Category',
     summary: 'Recognized for breakthrough autonomous navigation and industry-leading cleaning efficiency.',
-    img: '/images/home/news-ces2025-award.jpg',
+    img: '/images/home/news-ces2025-award.webp',
   },
 ]
 
@@ -191,7 +191,7 @@ export default function WelcomePage() {
       <div className="bg-white border-b border-line py-4">
         <div className="container mx-auto px-6 flex items-center justify-between">
           <Image
-            src="/logo.png"
+            src="/logo.webp"
             alt="AOMAN FUTURE"
             width={200}
             height={52}
@@ -556,7 +556,7 @@ export default function WelcomePage() {
       <div className="bg-[#1A1A1A] py-6">
         <div className="container mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <Image
-            src="/logo-white.png"
+            src="/logo-white.webp"
             alt="AOMAN FUTURE"
             width={160}
             height={44}

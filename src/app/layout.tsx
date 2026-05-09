@@ -21,13 +21,13 @@ export const metadata: Metadata = {
 		url: "/",
 		siteName: "AOMAN FUTURE",
 		type: "website",
-		images: [{ url: "https://aomanbot.com/images/og-default.jpg", width: 1200, height: 630 }],
+		images: [{ url: "https://aomanbot.com/images/og-default.webp", width: 1200, height: 630 }],
 	},
 	twitter: {
 		card: "summary_large_image",
 		title: "AOMAN FUTURE | Humanoid & Smart Service Robots",
 		description: "AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions.",
-		images: ["https://aomanbot.com/images/og-default.jpg"],
+		images: ["https://aomanbot.com/images/og-default.webp"],
 	},
 	icons: {
 		icon: [
