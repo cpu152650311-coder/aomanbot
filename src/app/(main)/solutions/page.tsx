@@ -114,11 +114,30 @@ export const metadata: Metadata = {
     siteName: 'AOMAN FUTURE',
     type: 'website',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Robotics Solutions | AOMAN FUTURE',
+    description: 'Explore AOMAN FUTURE robotics solutions for hospitality, healthcare, logistics, retail, exhibitions, and commercial automation.',
+  },
 }
+
+import { pageJsonLd, breadcrumbSchema, organizationSchema } from '@/lib/schema'
+
+const solutionsJsonLd = pageJsonLd([
+  organizationSchema(),
+  breadcrumbSchema([
+    { name: 'Home', item: 'https://aomanbot.com' },
+    { name: 'Solutions', item: 'https://aomanbot.com/solutions' },
+  ]),
+])
 
 export default function SolutionsPage() {
   return (
     <main className="text-ink">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(solutionsJsonLd) }}
+      />
 
       {/* ─── HERO ───────────────────────────────────────────── */}
       <section className="relative hero-gradient text-white overflow-hidden">

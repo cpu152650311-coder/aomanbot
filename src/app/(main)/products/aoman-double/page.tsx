@@ -96,9 +96,33 @@ export const metadata: Metadata = {
   },
 }
 
+import { pageJsonLd, productSchema, breadcrumbSchema, faqSchema, organizationSchema } from '@/lib/schema'
+
+const aomanDoubleJsonLd = pageJsonLd([
+  organizationSchema(),
+  productSchema({
+    name: 'AOMAN DOUBLE',
+    description: '70L dual-cabin hotel transport robot with fingerprint unlock, voice interaction, UV disinfection, HDOS 2.0 integration for intelligent hotel logistics and room service.',
+    image: 'https://aomanbot.com/images/home/aoman-double.webp',
+    brand: 'AOMAN FUTURE',
+    category: 'Hotel Transport Robot',
+    url: 'https://aomanbot.com/products/aoman-double',
+  }),
+  breadcrumbSchema([
+    { name: 'Home', item: 'https://aomanbot.com' },
+    { name: 'Products', item: 'https://aomanbot.com/products' },
+    { name: 'AOMAN DOUBLE', item: 'https://aomanbot.com/products/aoman-double' },
+  ]),
+  faqSchema(faqs.map(f => ({ question: f.q, answer: f.a }))),
+])
+
 export default function AomanDoublePage() {
   return (
     <main className="text-ink">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(aomanDoubleJsonLd) }}
+      />
 
       {/* ─── HERO ───────────────────────────────────────────── */}
       <section className="relative product-hero-bg text-ink overflow-hidden">

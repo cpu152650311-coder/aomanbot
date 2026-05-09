@@ -88,11 +88,48 @@ export const metadata: Metadata = {
     siteName: 'AOMAN FUTURE',
     type: 'website',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'About AOMAN FUTURE | Robotics Company Overview',
+    description: 'Learn about AOMAN FUTURE, our robotics history, R&D milestones, global deployment footprint, and the values behind our intelligent service robots.',
+  },
+}
+
+const aboutJsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'AboutPage',
+      name: 'About AOMAN FUTURE',
+      url: 'https://aomanbot.com/about',
+      description: 'AOMAN FUTURE is a global leader in humanoid robots and intelligent service robots, founded in 2012 in Shenzhen, China. 1,800+ patents, 50,000+ robots deployed across 70+ countries.',
+      about: {
+        '@type': 'Organization',
+        name: 'AOMAN FUTURE',
+        url: 'https://aomanbot.com',
+        logo: 'https://aomanbot.com/logo.png',
+        email: 'info@aomanbot.com',
+        telephone: '+8618928864959',
+        foundingDate: '2012',
+      },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://aomanbot.com' },
+        { '@type': 'ListItem', position: 2, name: 'About Us', item: 'https://aomanbot.com/about' },
+      ],
+    },
+  ],
 }
 
 export default function AboutPage() {
   return (
     <main className="text-ink">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutJsonLd) }}
+      />
 
       {/* ─── HERO ─────────────────────────────────────────────────────── */}
       <section className="relative hero-gradient text-white py-28 overflow-hidden">

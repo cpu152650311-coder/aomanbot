@@ -76,11 +76,30 @@ export const metadata: Metadata = {
     siteName: 'AOMAN FUTURE',
     type: 'website',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Robotics Technology | AOMAN FUTURE',
+    description: 'Discover AOMAN FUTURE core robotics technologies including SLAM navigation, computer vision, voice AI, cloud fleet management, and intelligent control.',
+  },
 }
+
+import { pageJsonLd, breadcrumbSchema, organizationSchema } from '@/lib/schema'
+
+const techJsonLd = pageJsonLd([
+  organizationSchema(),
+  breadcrumbSchema([
+    { name: 'Home', item: 'https://aomanbot.com' },
+    { name: 'Technology', item: 'https://aomanbot.com/technology' },
+  ]),
+])
 
 export default function TechnologyPage() {
   return (
     <main className="text-ink">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(techJsonLd) }}
+      />
 
       {/* ─── HERO ───────────────────────────────────────────── */}
       <section className="relative bg-[#0F172A] text-white overflow-hidden">

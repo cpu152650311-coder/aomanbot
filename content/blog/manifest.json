@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-05-10T00:00:00Z",
+  "posts": [],
+  "categories": [
+    {"slug": "industry-insights", "name": "Industry Insights"},
+    {"slug": "product-updates", "name": "Product Updates"},
+    {"slug": "technology-deep-dives", "name": "Technology Deep Dives"},
+    {"slug": "case-studies", "name": "Case Studies"}
+  ],
+  "authors": [
+    {"slug": "aoman-future-team", "name": "AOMAN FUTURE Team", "avatar": "/images/blog/authors/team.webp"}
+  ]
+}

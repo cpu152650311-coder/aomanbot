@@ -60,9 +60,33 @@ export const metadata: Metadata = {
   },
 }
 
+import { pageJsonLd, productSchema, breadcrumbSchema, faqSchema, organizationSchema } from '@/lib/schema'
+
+const cadebotJsonLd = pageJsonLd([
+  organizationSchema(),
+  productSchema({
+    name: 'CADEBOT L100',
+    description: 'Autonomous restaurant delivery robot with 60 kg payload, 4-layer tray system, SLAM 3.0 navigation, 8-language voice, and 8-12h battery life.',
+    image: 'https://aomanbot.com/images/home/cadebot-l100.webp',
+    brand: 'AOMAN FUTURE',
+    category: 'Delivery Robot',
+    url: 'https://aomanbot.com/products/cadebot-l100',
+  }),
+  breadcrumbSchema([
+    { name: 'Home', item: 'https://aomanbot.com' },
+    { name: 'Products', item: 'https://aomanbot.com/products' },
+    { name: 'CADEBOT L100', item: 'https://aomanbot.com/products/cadebot-l100' },
+  ]),
+  faqSchema(faqs.map(f => ({ question: f.q, answer: f.a }))),
+])
+
 export default function CadebotL100Page() {
   return (
     <main className="text-ink">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(cadebotJsonLd) }}
+      />
 
       {/* ─── HERO ───────────────────────────────────────────── */}
       <section className="relative product-hero-bg text-ink overflow-hidden">

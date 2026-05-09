@@ -60,9 +60,33 @@ export const metadata: Metadata = {
   },
 }
 
+import { pageJsonLd, productSchema, breadcrumbSchema, faqSchema, organizationSchema } from '@/lib/schema'
+
+const cruzrJsonLd = pageJsonLd([
+  organizationSchema(),
+  productSchema({
+    name: 'CRUZR',
+    description: 'Humanoid service robot with natural voice interaction, facial recognition, app ecosystem for retail, hospitality, exhibitions, and corporate reception.',
+    image: 'https://aomanbot.com/images/products/cruzr/hero-robot.webp',
+    brand: 'AOMAN FUTURE',
+    category: 'Service Robot',
+    url: 'https://aomanbot.com/products/cruzr',
+  }),
+  breadcrumbSchema([
+    { name: 'Home', item: 'https://aomanbot.com' },
+    { name: 'Products', item: 'https://aomanbot.com/products' },
+    { name: 'CRUZR', item: 'https://aomanbot.com/products/cruzr' },
+  ]),
+  faqSchema(faqs.map(f => ({ question: f.q, answer: f.a }))),
+])
+
 export default function CruzrPage() {
   return (
     <main className="text-ink">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(cruzrJsonLd) }}
+      />
 
       {/* ─── HERO ───────────────────────────────────────────── */}
       <section className="relative product-hero-bg text-ink overflow-hidden">

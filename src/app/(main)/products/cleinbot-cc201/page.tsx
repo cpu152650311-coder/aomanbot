@@ -59,9 +59,33 @@ export const metadata: Metadata = {
   },
 }
 
+import { pageJsonLd, productSchema, breadcrumbSchema, faqSchema, organizationSchema } from '@/lib/schema'
+
+const cleinbotCC201JsonLd = pageJsonLd([
+  organizationSchema(),
+  productSchema({
+    name: 'CLEINBOT CC201',
+    description: 'Autonomous commercial sweeping robot with AI path planning, auto dust-bin emptying, weather-resistant design for outdoor and indoor areas.',
+    image: 'https://aomanbot.com/images/home/cleinbot-cc201.webp',
+    brand: 'AOMAN FUTURE',
+    category: 'Sweeping Robot',
+    url: 'https://aomanbot.com/products/cleinbot-cc201',
+  }),
+  breadcrumbSchema([
+    { name: 'Home', item: 'https://aomanbot.com' },
+    { name: 'Products', item: 'https://aomanbot.com/products' },
+    { name: 'CLEINBOT CC201', item: 'https://aomanbot.com/products/cleinbot-cc201' },
+  ]),
+  faqSchema(faqs.map(f => ({ question: f.q, answer: f.a }))),
+])
+
 export default function CleinbotCC201Page() {
   return (
     <main className="text-ink">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(cleinbotCC201JsonLd) }}
+      />
 
       {/* ─── HERO ───────────────────────────────────────────── */}
       <section className="relative product-hero-bg text-ink overflow-hidden">

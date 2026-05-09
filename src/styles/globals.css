@@ -572,3 +572,55 @@ textarea.modal-input { resize: vertical; min-height: 100px; line-height: 1.6; pa
 }
 .modal-submit-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0, 102, 255, 0.35); }
 .modal-submit-btn:active { transform: translateY(0); }
+
+/* ============================================================
+   ACCESSIBILITY (a11y)
+   ============================================================ */
+
+/* Screen-reader-only utility */
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Skip-to-content link (add to layout) */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 16px;
+  z-index: 10000;
+  padding: 12px 20px;
+  background: var(--color-brand);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.875rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: top 0.2s ease;
+}
+.skip-link:focus {
+  top: 16px;
+  box-shadow: 0 4px 16px rgba(0, 102, 255, 0.35);
+}
+
+/* Visible focus styles for keyboard navigation */
+:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

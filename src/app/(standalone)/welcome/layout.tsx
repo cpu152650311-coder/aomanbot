@@ -13,6 +13,11 @@ export const metadata: Metadata = {
     siteName: 'AOMAN FUTURE',
     type: 'website',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Welcome | AOMAN FUTURE',
+    description: 'Welcome to AOMAN FUTURE. Explore our intelligent service robot lineup, product highlights, and automation capabilities.',
+  },
 }
 
 export default function WelcomeLayout({

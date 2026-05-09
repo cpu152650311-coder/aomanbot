@@ -150,6 +150,7 @@ export default function Header() {
 
             <li><Link href="/solutions" className="nav-link">Solutions</Link></li>
             <li><Link href="/technology" className="nav-link">Technology</Link></li>
+            <li><Link href="/blog" className="nav-link">Blog</Link></li>
             <li><Link href="/about" className="nav-link">About Us</Link></li>
           </ul>
 
@@ -204,6 +205,7 @@ export default function Header() {
                 </li>
                 <li><Link href="/solutions" className="block py-2.5 text-sm font-medium text-gray-700 border-b border-black/[0.04] hover:text-[#0066FF] transition-colors">Solutions</Link></li>
                 <li><Link href="/technology" className="block py-2.5 text-sm font-medium text-gray-700 border-b border-black/[0.04] hover:text-[#0066FF] transition-colors">Technology</Link></li>
+                <li><Link href="/blog" className="block py-2.5 text-sm font-medium text-gray-700 border-b border-black/[0.04] hover:text-[#0066FF] transition-colors">Blog</Link></li>
                 <li><Link href="/about" className="block py-2.5 text-sm font-medium text-gray-700 border-b border-black/[0.04] hover:text-[#0066FF] transition-colors">About Us</Link></li>
                 <li className="pt-2">
                   <button onClick={openModal} className="w-full header-cta-btn text-center">
