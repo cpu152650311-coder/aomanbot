@@ -6,7 +6,7 @@
 	"author": "AOMAN FUTURE",
 	"type": "module",
 	"scripts": {
-		"build": "next build && node scripts/deploy-static.cjs",
+		"build": "SKIP_ENV_VALIDATION=1 next build && node scripts/deploy-static.cjs",
 		"check": "biome check .",
 		"check:unsafe": "biome check --write --unsafe .",
 		"check:write": "biome check --write .",
