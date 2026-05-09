@@ -1,10 +1,18 @@
 // Post-build: copy static export to public_html/
-// Hostinger dir layout:  nodejs/ (repo)  |  public_html/ (Apache root)
+// Hostinger sandbox layout:
+//   public_html/                    ← Apache document root (REAL)
+//     .builds/source/
+//       repository/                 ← repo (npm runs here)
+//         scripts/deploy-static.cjs ← this script
 const fs = require('fs');
 const path = require('path');
 
 const repoDir = path.resolve(__dirname, '..');
-const publicDir = path.resolve(repoDir, '..', 'public_html');
+// Go up 3 levels from repo: repository → source → .builds → public_html
+const publicDir = path.resolve(repoDir, '..', '..', '..');
+
+console.log(`Repo: ${repoDir}`);
+console.log(`Target public_html: ${publicDir}`);
 
 // Auto-detect output directory (out/ for export, .next/ for standard build)
 let srcDir = null;
@@ -49,6 +57,21 @@ function copyDir(src, dest) {
 // Copy all files to public_html/
 console.log(`Copying ${srcDir} → ${publicDir} ...`);
 copyDir(srcDir, publicDir);
+
+// Also copy .next/static/ → public_html/_next/static/ for JS/CSS assets
+const staticSrc = path.join(repoDir, '.next', 'static');
+const staticDest = path.join(publicDir, '_next', 'static');
+if (fs.existsSync(staticSrc)) {
+  console.log(`Copying ${staticSrc} → ${staticDest} ...`);
+  copyDir(staticSrc, staticDest);
+} else {
+  // For output: 'export' builds, static assets are in out/_next/static/
+  const outStaticSrc = path.join(repoDir, 'out', '_next', 'static');
+  if (fs.existsSync(outStaticSrc)) {
+    console.log(`Copying ${outStaticSrc} → ${staticDest} ...`);
+    copyDir(outStaticSrc, staticDest);
+  }
+}
 console.log('✓ Files deployed');
 
 // Write .htaccess WITHOUT Passenger proxy
