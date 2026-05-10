@@ -1,70 +1,48 @@
-import "@/styles/globals.css";
-
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+```tsx
+import type { Metadata, Viewport } from "next";
+import "./globals.css";
 import Script from "next/script";
-import { Toaster } from "sonner";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
-export const metadata: Metadata = {
-	metadataBase: new URL("https://aomanbot.com"),
-	title: {
-		template: "%s | AOMAN FUTURE",
-		default: "AOMAN FUTURE | Humanoid & Smart Service Robots",
-	},
-	description: "AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions.",
-	alternates: {
-		canonical: "/",
-	},
-	openGraph: {
-		title: "AOMAN FUTURE | Humanoid & Smart Service Robots",
-		description: "AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions.",
-		url: "/",
-		siteName: "AOMAN FUTURE",
-		type: "website",
-		images: [{ url: "https://aomanbot.com/images/home/hero-robot.webp", width: 1280, height: 720 }],
-	},
-	twitter: {
-		card: "summary_large_image",
-		title: "AOMAN FUTURE | Humanoid & Smart Service Robots",
-		description: "AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions.",
-		images: ["https://aomanbot.com/images/home/hero-robot.webp"],
-	},
-	icons: {
-		icon: [
-			{ url: "/favicon.ico", sizes: "any" },
-			{ url: "/favicon.png", type: "image/png" },
-		],
-	},
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
 };
 
-const inter = Inter({
-	subsets: ["latin"],
-	variable: "--font-inter",
-});
+export const metadata: Metadata = {
+  title: {
+    default: "Robotics Solutions",
+    template: "%s | Robotics Solutions",
+  },
+  description: "Advanced robotics for industrial and commercial needs.",
+};
 
 export default function RootLayout({
-	children,
-}: Readonly<{ children: React.ReactNode }>) {
-	return (
-		<html lang="en" className={inter.variable}>
-			<head>
-				<Script
-					src="https://www.googletagmanager.com/gtag/js?id=AW-18040004274"
-					strategy="beforeInteractive"
-				/>
-				<Script id="google-ads-gtag" strategy="beforeInteractive">
-					{`
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=AW-XXXXXXXXXX"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'AW-18040004274');
+            gtag('config', 'AW-XXXXXXXXXX');
           `}
-				</Script>
-			</head>
-			<body className="bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]">
-				{children}
-				<Toaster position="top-center" richColors />
-			</body>
-		</html>
-	);
+        </Script>
+        <Navbar />
+        <main>{children}</main>
+        <Footer />
+      </body>
+    </html>
+  );
 }
+```
