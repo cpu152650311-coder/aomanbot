@@ -13,11 +13,13 @@ export const metadata: Metadata = {
     url: '/blog',
     type: 'website',
     siteName: 'AOMAN FUTURE',
+    images: [{ url: 'https://aomanbot.com/images/home/hero-robot.webp', width: 1280, height: 720 }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Blog | AOMAN FUTURE — AI & Robotics Insights',
     description: 'Explore the latest insights, product updates, and technology deep-dives from AOMAN FUTURE.',
+    images: ['https://aomanbot.com/images/home/hero-robot.webp'],
   },
 }
 
