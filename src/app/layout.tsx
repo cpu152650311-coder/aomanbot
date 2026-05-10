@@ -1,29 +1,40 @@
-import type { Metadata } from 'next'
-import './globals.css'
+import type { Metadata } from 'next';
+import Script from 'next/script';
 
 export const metadata: Metadata = {
-  title: {
-    default: 'Aoman Future',
-    template: '%s | Aoman Future'
-  },
-  description: 'Aoman Future official website',
-  // alternates removed – language subdirectories do not exist
-  openGraph: {
-    type: 'website',
-    locale: 'en_US',
-    url: 'https://www.aomanfuture.com',
-    siteName: 'Aoman Future',
-  },
-}
+  title: 'Products',
+  description:
+    'Browse Aoman Future’s fleet of autonomous mobile robots, intelligent workstations, and integrated automation suites.',
+};
 
-export default function RootLayout({
+export default function ProductsLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
+  // Note: Replace any hardcoded 'https://aomanbot.com' with 'https://aomanfuture.com'
+  const productsJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Products',
+    url: 'https://aomanfuture.com/products',
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: [], // populate dynamically if possible
+    },
+  };
+
   return (
-    <html lang="en">
-      <body>{children}</body>
-    </html>
-  )
+    <>
+      <Script
+        id="products-structured-data"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(productsJsonLd),
+        }}
+        strategy="beforeInteractive"
+      />
+      {children}
+    </>
+  );
 }
