@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-05-10T00:00:00Z",
+  "updatedAt": "2026-05-10",
   "posts": [
+    {
+      "slug": "commercial-service-robot-priorities-2026",
+      "title": "Commercial Service Robotics in 2026: What IFR Data Signals for Logistics, Hotels, and Cleaning",
+      "description": "World Robotics 2025 service-robot takeaways: logistics dominance, hospitality trends, professional cleaning growth, and RaaS adoption for property fleets.",
+      "category": "industry-insights",
+      "author": "aoman-future-editorial",
+      "publishedAt": "2026-05-10",
+      "modifiedAt": "2026-05-10",
+      "featuredImage": "/images/blog/commercial-service-robot-priorities-2026-header.jpg",
+      "tags": [
+        "robotics",
+        "automation",
+        "service-robots",
+        "hospitality-tech",
+        "cleaning-robots",
+        "delivery-robots",
+        "warehouse-automation"
+      ],
+      "readingTime": 7,
+      "seoKeywords": [
+        "service robots",
+        "IFR World Robotics 2025",
+        "professional cleaning robots",
+        "hospitality robotics",
+        "intralogistics",
+        "robot-as-a-service",
+        "AOMAN FUTURE"
+      ]
+    },
     {
       "slug": "welcome-to-aoman-future-blog",
       "title": "Welcome to AOMAN FUTURE Blog",
@@ -23,6 +52,7 @@
     {"slug": "case-studies", "name": "Case Studies"}
   ],
   "authors": [
+    {"slug": "aoman-future-editorial", "name": "AOMAN FUTURE Editorial", "avatar": "/images/blog/authors/team.webp"},
     {"slug": "aoman-future-team", "name": "AOMAN FUTURE Team", "avatar": "/images/blog/authors/team.webp"}
   ]
 }
