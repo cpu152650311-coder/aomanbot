@@ -1,48 +1,70 @@
-import type { Metadata } from 'next'
-import './globals.css'
+import "@/styles/globals.css";
+
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import Script from "next/script";
+import { Toaster } from "sonner";
 
 export const metadata: Metadata = {
-  title: {
-    template: '%s | AOMAN FUTURE',
-    default: 'AOMAN FUTURE – Advanced Service Robots',
-  },
-  description: 'AOMAN FUTURE designs and builds intelligent service robots for hospitality, healthcare, retail, and beyond.',
-  openGraph: {
-    title: 'AOMAN FUTURE – Advanced Service Robots',
-    description: 'Intelligent service robots for hospitality, healthcare, retail, and beyond.',
-    url: 'https://aomanbot.com',
-    siteName: 'AOMAN FUTURE',
-    locale: 'en_US',
-    type: 'website',
-    images: [
-      {
-        url: 'https://aomanbot.com/og-default.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'AOMAN FUTURE robots',
-      },
-    ],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'AOMAN FUTURE – Advanced Service Robots',
-    description: 'Intelligent service robots for hospitality, healthcare, retail, and beyond.',
-    images: ['https://aomanbot.com/og-default.jpg'],
-  },
-  robots: {
-    index: true,
-    follow: true,
-  },
-}
+	metadataBase: new URL("https://aomanbot.com"),
+	title: {
+		template: "%s | AOMAN FUTURE",
+		default: "AOMAN FUTURE | Humanoid & Smart Service Robots",
+	},
+	description: "AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions.",
+	alternates: {
+		canonical: "/",
+	},
+	openGraph: {
+		title: "AOMAN FUTURE | Humanoid & Smart Service Robots",
+		description: "AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions.",
+		url: "/",
+		siteName: "AOMAN FUTURE",
+		type: "website",
+		images: [{ url: "https://aomanbot.com/images/home/hero-robot.webp", width: 1280, height: 720 }],
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "AOMAN FUTURE | Humanoid & Smart Service Robots",
+		description: "AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions.",
+		images: ["https://aomanbot.com/images/home/hero-robot.webp"],
+	},
+	icons: {
+		icon: [
+			{ url: "/favicon.ico", sizes: "any" },
+			{ url: "/favicon.png", type: "image/png" },
+		],
+	},
+};
+
+const inter = Inter({
+	subsets: ["latin"],
+	variable: "--font-inter",
+});
 
 export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
-  return (
-    <html lang="en">
-      <body>{children}</body>
-    </html>
-  )
+	children,
+}: Readonly<{ children: React.ReactNode }>) {
+	return (
+		<html lang="en" className={inter.variable}>
+			<head>
+				<Script
+					src="https://www.googletagmanager.com/gtag/js?id=AW-18040004274"
+					strategy="beforeInteractive"
+				/>
+				<Script id="google-ads-gtag" strategy="beforeInteractive">
+					{`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'AW-18040004274');
+          `}
+				</Script>
+			</head>
+			<body className="bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]">
+				{children}
+				<Toaster position="top-center" richColors />
+			</body>
+		</html>
+	);
 }
