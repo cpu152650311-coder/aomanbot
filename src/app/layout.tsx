@@ -1,42 +1,48 @@
-import type { Metadata, Viewport } from "next";
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
 import "./globals.css";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
-export const viewport: Viewport = {
-  width: "device-width",
-  initialScale: 1,
-};
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  charset: "utf-8",
+  metadataBase: new URL("https://www.aomanbot.com"),
   title: {
-    template: "%s | Your Robotics Company",
-    default: "Your Robotics Company – Advanced Service Robots",
+    default: "AOMAN FUTURE – Advanced Service Robots",
+    template: "%s | AOMAN FUTURE",
   },
   description:
-    "We design and manufacture autonomous service robots for cleaning, logistics, and hospitality.",
+    "AOMAN FUTURE designs and manufactures advanced service robots for delivery, hospitality, healthcare, and industrial applications. Discover our L, S, and CADE series.",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://www.yourroboticscompany.com",
-    siteName: "Your Robotics Company",
-    title: "Your Robotics Company – Advanced Service Robots",
+    url: "https://www.aomanbot.com",
+    siteName: "AOMAN FUTURE",
+    title: "AOMAN FUTURE – Advanced Service Robots",
     description:
-      "We design and manufacture autonomous service robots for cleaning, logistics, and hospitality.",
+      "AOMAN FUTURE designs and manufactures advanced service robots for delivery, hospitality, healthcare, and industrial applications. Discover our L, S, and CADE series.",
     images: [
       {
-        url: "/images/og-default.jpg",
+        url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Your Robotics Company robots in action",
+        alt: "AOMAN FUTURE Robots",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Your Robotics Company – Advanced Service Robots",
+    site: "@aomanfuture",
+    creator: "@aomanfuture",
+    title: "AOMAN FUTURE – Advanced Service Robots",
     description:
-      "We design and manufacture autonomous service robots for cleaning, logistics, and hospitality.",
-    images: ["/images/og-default.jpg"],
+      "AOMAN FUTURE designs and manufactures advanced service robots for delivery, hospitality, healthcare, and industrial applications. Discover our L, S, and CADE series.",
+    images: ["/og-image.jpg"],
+  },
+  robots: {
+    index: true,
+    follow: true,
   },
 };
 
@@ -47,7 +53,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-white text-gray-900 antialiased">{children}</body>
+      <body className={inter.className}>
+        <Header />
+        <main>{children}</main>
+        <Footer />
+      </body>
     </html>
   );
 }
