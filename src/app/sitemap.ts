@@ -1,5 +1,4 @@
 import type { MetadataRoute } from 'next'
-import { getAllPostSlugs } from '@/lib/blog'
 
 export const dynamic = 'force-static'
 
@@ -14,7 +13,6 @@ const staticRoutes = [
   { path: '/products/cleinbot-c2pro', priority: 0.8, changeFreq: 'weekly' as const },
   { path: '/products/cruzr', priority: 0.8, changeFreq: 'weekly' as const },
   { path: '/products/aoman-double', priority: 0.8, changeFreq: 'weekly' as const },
-  { path: '/blog', priority: 0.9, changeFreq: 'weekly' as const },
   { path: '/welcome', priority: 0.5, changeFreq: 'monthly' as const },
 ]
 
@@ -28,15 +26,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority,
   }))
 
-  const blogSlugs = getAllPostSlugs()
-  const blogEntries = blogSlugs.map((slug) => ({
-    url: `https://aomanbot.com/blog/${slug}`,
-    lastModified,
-    changeFrequency: 'weekly' as const,
-    priority: 0.7,
-  }))
-
-  // /thanks intentionally excluded (noindex)
-
-  return [...staticEntries, ...blogEntries]
+  return staticEntries
 }
