@@ -99,7 +99,7 @@ export default function TechnologyPage() {
         if (cancelled) return;
         setManifest(data);
         if (data.posts?.length > 0) {
-          setSelectedSlug(data.posts[0].slug);
+          setSelectedSlug(data.posts?.[0]?.slug);
         }
       } catch (e: unknown) {
         if (!cancelled) setError(e instanceof Error ? e.message : "Failed to load");
