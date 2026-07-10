@@ -61,14 +61,38 @@ export default function InquiryModal() {
         {/* Form Body */}
         <div className="modal-body">
           <form
-            action="https://formsubmit.co/3ad82ea13d809fc02ae68f17c2ef5603"
-            method="POST"
+            onSubmit={async (e) => {
+              e.preventDefault();
+              const form = e.currentTarget;
+              const formData = new FormData(form);
+              const data = {
+                name: formData.get('name'),
+                email: formData.get('email'),
+                phone: formData.get('phone'),
+                company: formData.get('company') || '',
+                message: formData.get('message') || '',
+                product: 'Robotics',
+                source: 'aomanbot.com',
+              };
+              try {
+                const res = await fetch('http://43.161.222.16:8080/inquiry', {
+                  method: 'POST',
+                  headers: { 'Content-Type': 'application/json' },
+                  body: JSON.stringify(data),
+                });
+                const result = await res.json();
+                if (result.success) {
+                  window.location.href = '/thanks';
+                } else {
+                  alert(result.message || '提交失败，请稍后重试');
+                }
+              } catch {
+                alert('网络错误，请稍后重试');
+              }
+            }}
           >
-            {/* FormSubmit hidden config */}
-            <input type="hidden" name="_subject" value="New Robotics Inquiry"/>
-            <input type="hidden" name="_template" value="table"/>
-            {nextUrl && <input type="hidden" name="_next" value={nextUrl}/>}
-            <input type="text" name="_honey" style={{ display: 'none', visibility: 'hidden', position: 'absolute' }}/>
+            {/* Honeypot */}
+            <input type="text" name="_honey" style={{ display: 'none' }} />
 
             {/* Name + Company */}
             <div className="modal-row">
