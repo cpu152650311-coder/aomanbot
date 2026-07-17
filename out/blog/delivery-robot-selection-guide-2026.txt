@@ -1,0 +1,149 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/157f22ef74dab67c.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"32oLr775WH6ytbyONTgLl","p":"","c":["","blog","delivery-robot-selection-guide-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","delivery-robot-selection-guide-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/157f22ef74dab67c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","delivery-robot-selection-guide-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T2ca1,<p>Hotel general managers evaluating service robots face the same question: single cabin or dual cabin? The answer determines how many deliveries one robot handles per trip, whether it fits through narrow service corridors, and how quickly the investment pays for itself. A hotel sending 200 room-service orders daily needs a different robot than a restaurant running 400 table deliveries per shift — and cabin architecture is the variable that makes or breaks the math.</p>
+<p>This guide compares the two dominant delivery robot architectures with real specifications from the <a href="/products">AOMAN FUTURE</a> lineup: the 4-tray single-cabin <a href="/products/cadebot-l100">CADEBOT L100</a> and the 70-liter dual-cabin <a href="/products/aoman-double">AOMAN DOUBLE</a>.</p>
+<p><img src="/blog-images/delivery-robot-selection-guide-2026/diagram.webp" alt="Delivery route comparison — single-stop vs multi-stop configurations"></p>
+<h2>Single Cabin: Maximum Throughput per Trip</h2>
+<p>Single-cabin robots carry multiple trays stacked vertically inside one open body. Think of a waiter carrying 4 plates at once, all going to the same section. This architecture prioritizes trip density — more items per run, fewer total runs.</p>
+<p>The <strong>CADEBOT L100</strong> exemplifies this approach: 4 independent trays, each rated for 15 kg. A busy hotpot restaurant in Chengdu runs 6 of these units, each completing 200+ delivery trips daily. Kitchen staff load all 4 trays at the kitchen station; the robot distributes to 4 tables in sequence, then returns empty. Total payload capacity: <strong>60 kg</strong> across all trays. Battery endurance of 8–12 hours covers double shifts without recharging, and a 3-hour auto-dock charge cycle slots into the overnight cleaning window.</p>
+<p>For operations where every trip should carry maximum volume — high-turnover restaurants, hospital meal services, corporate cafeteria distribution — the single-cabin 4-tray design delivers the highest throughput per unit.</p>
+<h3>When Single Cabin Wins</h3>
+<table>
+<thead>
+<tr>
+<th>Scenario</th>
+<th>Why Single Cabin</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Restaurant table service</td>
+<td>4 trays deliver 4 tables per trip; kitchen-to-floor distance is short</td>
+</tr>
+<tr>
+<td>Hospital meal distribution</td>
+<td>60 kg payload carries 20 patient meals per run</td>
+</tr>
+<tr>
+<td>Corporate cafeteria</td>
+<td>Bulk food transport between kitchen and service stations</td>
+</tr>
+<tr>
+<td>High-volume short-haul</td>
+<td>Frequent short trips where loading time per tray is negligible</td>
+</tr>
+</tbody></table>
+<p><img src="/blog-images/delivery-robot-selection-guide-2026/section-1.webp" alt="Automated delivery route between restaurant tables"></p>
+<h2>Dual Cabin: Multi-Destination Flexibility</h2>
+<p>Dual-cabin robots split payload into two physically separate, independently lockable compartments. The architecture solves a different problem: delivering to two different destinations in one trip, or separating items that should not mix — clean linens and used towels; food and cleaning supplies; guest amenities and maintenance tools.</p>
+<p>The <strong>AOMAN DOUBLE</strong> is built around this concept: a 70-liter total volume split into an upper cabin (40L, 320×315×409mm) and lower cabin (30L, 320×235×409mm). The upper cabin accommodates a 2-inch pizza box or 67 bottles of 550ml water; the lower cabin handles smaller items like toiletries, documents, or medical supplies. Each cabin locks independently with fingerprint authentication — a feature that single-cabin robots cannot replicate without adding external lockers.</p>
+<p>A 300-room business hotel in Shenzhen runs 3 AOMAN DOUBLE units on the night shift. Housekeeping staff load fresh linens into the upper cabin and guest-requested amenities into the lower cabin. The robot navigates to a guest floor, delivers linens to room 1208 (upper cabin fingerprint unlock), then delivers a toothbrush kit to room 1215 (lower cabin unlock) — two stops, one trip. Before dual-cabin robots, this required two separate runs. The hotel measured a 38% reduction in nightly delivery trips within the first month of deployment.</p>
+<h3>When Dual Cabin Wins</h3>
+<table>
+<thead>
+<tr>
+<th>Scenario</th>
+<th>Why Dual Cabin</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hotel room service</td>
+<td>Separate compartments for different guests on same floor; fingerprint security</td>
+</tr>
+<tr>
+<td>Hospital supply delivery</td>
+<td>Clean supplies (upper) and soiled returns (lower) never mix</td>
+</tr>
+<tr>
+<td>Multi-tenant office buildings</td>
+<td>Deliver to two different companies on one floor in one trip</td>
+</tr>
+<tr>
+<td>Operations requiring item separation</td>
+<td>Food + documents; linens + amenities; chemicals + consumables</td>
+</tr>
+</tbody></table>
+<p><img src="/blog-images/delivery-robot-selection-guide-2026/section-2.webp" alt="Automated amenity delivery route in a hotel corridor"></p>
+<h2>Space Requirements: The Overlooked Constraint</h2>
+<p>Cabin architecture directly determines minimum passing width — and older buildings often fail this test.</p>
+<p>The CADEBOT L100 measures 400mm wide, passing through 50cm doorways with ease. The AOMAN DOUBLE at 420mm wide passes through 55cm minimum corridors — still slim, but older hotels with 52cm bathroom doorways may require the single-cabin form factor. Both robots handle elevator navigation autonomously: the DOUBLE&#39;s 420mm width means it enters and exits elevators without turning, a practical advantage in buildings where elevator depth is limited.</p>
+<p>Beyond width, consider overhead clearance and turning radius. The DOUBLE&#39;s 55cm minimum passage handles 25mm floor hurdles, 40mm ditch crossings (threshold transitions), and 13° ramp slopes — no secondary environment modifications needed. For buildings constructed before 2000 with narrow service elevators or stepped thresholds, request a site survey before committing to cabin architecture.</p>
+<h2>Navigation and Autonomy: SLAM 3.0 Across Both</h2>
+<p>Both robots share the same core navigation stack — LiDAR plus RGB-D camera fusion, 360° environment perception with 1cm positioning accuracy. The difference is not in <em>if</em> they navigate well, but <em>how</em> navigation patterns differ by cabin design.</p>
+<p>Single-cabin robots tend to run hub-and-spoke patterns: kitchen → tables → kitchen. Each trip is a loop. The SLAM system optimizes for the shortest path through a known floor plan, and 4-tray loading means fewer loops overall. For an in-depth look at how SLAM navigation works in service environments, see our <a href="/blog/robot-navigation-slam-2026">guide to robot navigation and SLAM technology</a>.</p>
+<p>Dual-cabin robots run more complex route trees: loading dock → room A (upper tray) → room B (lower tray) → loading dock. The HDOS 2.0 Hotel Digital Operation System handles this multi-stop scheduling — the operator assigns destinations per cabin, and the robot sequences the route. Over 1 billion elevator rides and 41 million kilometers traveled across the installed base provide the training data for these routing algorithms.</p>
+<h2>Total Cost of Ownership: What Changes with Cabin Count</h2>
+<p>Purchase price varies by configuration, but the meaningful cost difference is operational throughput, not sticker price.</p>
+<p>A single-cabin CADEBOT L100 completing 200 trips/day at 4 trays per trip delivers 800 tray-destinations daily. A dual-cabin AOMAN DOUBLE completing 150 trips/day at 2 destinations per trip delivers 300 destination-stops daily — but each stop handles a different recipient, which single-cabin robots cannot do in one pass.</p>
+<p>The ROI math depends on what &quot;one trip&quot; is worth in your operation. If value equals <em>items moved</em>, single cabin wins on raw throughput. If value equals <em>destinations served per trip</em>, dual cabin wins on operational flexibility. Our <a href="/blog/service-robot-roi-guide-2026">service robot ROI guide</a> covers the full calculation framework including labor cost displacement, maintenance, and financing options.</p>
+<p>Both robots carry CE, FCC, RoHS, and ISO 13482 (service robot safety) certifications. Warranty coverage spans 2 years with lifetime technical support — amortized over a 5-year service life, the hardware cost per delivery trip falls below $0.15 for high-utilization deployments.</p>
+<h2>Decision Framework</h2>
+<table>
+<thead>
+<tr>
+<th>Your Operation</th>
+<th>Recommended Architecture</th>
+<th>AOMAN Model</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Restaurant / cafeteria: 300+ table deliveries/day</td>
+<td>Single cabin, 4 trays</td>
+<td>CADEBOT L100</td>
+</tr>
+<tr>
+<td>Hotel: 150+ room service orders/day, multi-floor</td>
+<td>Dual cabin</td>
+<td>AOMAN DOUBLE</td>
+</tr>
+<tr>
+<td>Hospital: clean + soiled separation required</td>
+<td>Dual cabin</td>
+<td>AOMAN DOUBLE</td>
+</tr>
+<tr>
+<td>Corporate office: inter-department document delivery</td>
+<td>Single cabin</td>
+<td>CADEBOT L100</td>
+</tr>
+<tr>
+<td>Mixed-use: hotel + restaurant in same property</td>
+<td>Both — CADEBOT for F&amp;B, DOUBLE for rooms</td>
+<td>Both</td>
+</tr>
+</tbody></table>
+<p><img src="/blog-images/delivery-robot-selection-guide-2026/section-3.webp" alt="Automated medical supply delivery route in a hospital corridor"></p>
+<h2>Beyond the Cabin: What Else to Evaluate</h2>
+<p>Cabin count is one variable. Before finalizing, also evaluate:</p>
+<p><strong>Integration depth.</strong> The AOMAN DOUBLE&#39;s HDOS 2.0 integration means it talks to the hotel&#39;s property management system — it knows when a guest checks in and can pre-stage amenities. The CADEBOT L100 integrates with POS systems (Toast, Square, Lightspeed) so kitchen staff dispatch orders directly from the ordering terminal. Read about <a href="/blog/service-robots-hospitality-2026">how service robots are transforming hospitality operations</a>.</p>
+<p><strong>Interaction modalities.</strong> The DOUBLE adds fingerprint authentication and 6-microphone voice positioning — features that matter when untrained guests (not staff) interact with the robot. The CADEBOT L100 uses a 13.3-inch touchscreen with 8-language support, optimized for staff workflows in multilingual kitchens.</p>
+<p><strong>Fleet management.</strong> Both models support multi-unit coordination. If you deploy 5 robots, they negotiate routes and charging schedules among themselves. For warehouse-scale AMR deployments, see our <a href="/blog/warehouse-delivery-robots-guide-2026">guide to warehouse delivery robots</a>.</p>
+<p><strong>Future-proofing.</strong> The hardware you buy today runs the same SLAM 3.0 stack that receives over-the-air updates. Cabin architecture won&#39;t change, but navigation intelligence, scheduling algorithms, and integration APIs improve continuously. For a look at where service robot technology is heading, read our <a href="/blog/humanoid-service-robots-retail-business-2026">analysis of humanoid service robots in retail</a>.</p>
+<hr>
+<p><em>Choosing between single and dual cabin is ultimately about your delivery topology: hub-and-spoke loops favor single cabin; multi-stop routes with recipient separation favor dual cabin. Both the CADEBOT L100 and AOMAN DOUBLE run the same navigation intelligence and carry the same certifications — the right answer depends on your floor plan, not the spec sheet.</em></p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Delivery Robot Selection Guide 2026: Single Cabin vs. Dual Cabin — Which Design Fits Your Operation?\",\"description\":\"A practical comparison of single-cabin and dual-cabin delivery robots for restaurants, hotels, hospitals, and corporate facilities. Covers payload, space requirements, multi-destination delivery, and total cost of ownership with real product data from the AOMAN FUTURE lineup.\",\"image\":\"https://aomanbot.com/blog-images/delivery-robot-selection-guide-2026/cover.webp\",\"datePublished\":\"2026-07-17\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/delivery-robot-selection-guide-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Logistics"}],["$","span",null,{"children":"2026-07-17"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Delivery Robot Selection Guide 2026: Single Cabin vs. Dual Cabin — Which Design Fits Your Operation?"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/delivery-robot-selection-guide-2026/cover.webp","alt":"Delivery Robot Selection Guide 2026: Single Cabin vs. Dual Cabin — Which Design Fits Your Operation?","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/delivery-robot-selection-guide-2026/diagram.webp","alt":"Delivery Robot Selection Guide 2026: Single Cabin vs. Dual Cabin — Which Design Fits Your Operation? diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Delivery Robot Selection Guide 2026: Single Cabin vs. Dual Cabin — Which Design Fits Your Operation? | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"A practical comparison of single-cabin and dual-cabin delivery robots for restaurants, hotels, hospitals, and corporate facilities. Covers payload, space requirements, multi-destination delivery, and total cost of ownership with real product data from the AOMAN FUTURE lineup."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/delivery-robot-selection-guide-2026"}],["$","meta","3",{"property":"og:title","content":"Delivery Robot Selection Guide 2026: Single Cabin vs. Dual Cabin — Which Design Fits Your Operation?"}],["$","meta","4",{"property":"og:description","content":"A practical comparison of single-cabin and dual-cabin delivery robots for restaurants, hotels, hospitals, and corporate facilities. Covers payload, space requirements, multi-destination delivery, and total cost of ownership with real product data from the AOMAN FUTURE lineup."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/delivery-robot-selection-guide-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/delivery-robot-selection-guide-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Delivery Robot Selection Guide 2026: Single Cabin vs. Dual Cabin — Which Design Fits Your Operation?"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"

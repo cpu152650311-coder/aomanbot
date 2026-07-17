@@ -1,0 +1,224 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/157f22ef74dab67c.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"32oLr775WH6ytbyONTgLl","p":"","c":["","blog","humanoid-service-robots-retail-business-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","humanoid-service-robots-retail-business-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/157f22ef74dab67c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","humanoid-service-robots-retail-business-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T2ffc,<p>Self-checkout kiosks handle transactions. Digital signage broadcasts promotions. But when a customer walks into your store and asks &quot;Where can I find this product in my size?&quot;, neither of those technologies can help.</p>
+<p>This is the gap humanoid service robots fill in 2026. Not as gimmicks — as the missing layer between self-service and human staff. Here&#39;s what retail operators, bank branch managers, and commercial property owners need to know about deploying AI-powered humanoid robots today.</p>
+<h2>What a Humanoid Service Robot Actually Does</h2>
+<p>A humanoid service robot like <a href="/products/cruzr">CRUZR</a> operates as an interactive front-of-house agent. Unlike a kiosk that waits for input, a humanoid robot initiates engagement, responds to natural speech, recognizes returning customers, and guides people to physical locations.</p>
+<p><strong>Core capabilities in 2026:</strong></p>
+<ul>
+<li><strong>Natural language conversation</strong> in 50+ languages with 96% intent accuracy — customers speak normally, not in robot commands</li>
+<li><strong>Face recognition</strong> in under 0.3 seconds, with a 7-category emotion detection system that adjusts tone and responses</li>
+<li><strong>Physical navigation</strong> via SLAM 3.0 — the robot escorts customers to specific aisles, counters, or meeting rooms</li>
+<li><strong>Custom knowledge base</strong> integration — product catalogs, store layouts, promotion calendars, and FAQ databases all accessible through conversation</li>
+</ul>
+<p>The distinction from earlier robot generations is that CRUZR doesn&#39;t require a tablet interface or a trained operator. It works the way a skilled retail associate works — observing, approaching, assisting.</p>
+<h2>Where Humanoid Robots Deliver Measurable Results</h2>
+<h3>Retail Stores</h3>
+<p>In flagship electronics stores and fashion boutiques across Asia, humanoid service robots generate a 23% increase in foot traffic to promoted product zones and a 19% lift in per-customer basket size when deployed as greeters who guide shoppers to specific departments.</p>
+<p><strong>What they handle:</strong></p>
+<ul>
+<li>Product location queries (&quot;Where are the bluetooth headphones?&quot;)</li>
+<li>Stock availability checks via backend integration</li>
+<li>Promotion announcements with visual display on the robot&#39;s screen</li>
+<li>Queue management — directing customers to open registers</li>
+</ul>
+<p>Retailers using CRUZR report that the robot handles 60–70% of direction-based customer queries, freeing human staff for high-value interactions like fitting room consultation and complex product comparisons.</p>
+<h3>Banking and Financial Services</h3>
+<p>Bank branches face a unique challenge: routine transactions have moved to mobile apps, but customers still visit branches for account opening, loan consultation, and complex service issues. The staff who remain are specialists — expensive to deploy on greeting and wayfinding.</p>
+<p>Humanoid robots in banking handle:</p>
+<ul>
+<li><strong>Visitor triage</strong>: Identify the purpose of each visit and route to the correct service desk</li>
+<li><strong>Queue management</strong>: Issue digital queue numbers, estimate wait times</li>
+<li><strong>Product education</strong>: Explain loan types, investment products, and account features through interactive conversation</li>
+<li><strong>VIP recognition</strong>: Face recognition identifies premium customers for priority service</li>
+</ul>
+<p>One regional bank deploying CRUZR across 15 branches reduced average customer wait time from 11 minutes to 4 minutes, primarily because visitors arrived at the correct service counter on the first attempt.</p>
+<h3>Corporate Lobbies and Exhibition Halls</h3>
+<p>Corporate headquarters, convention centers, and exhibition halls use humanoid robots for visitor management at scale:</p>
+<ul>
+<li><strong>On-site navigation</strong>: Escort visitors to meeting rooms, exhibition booths, or office floors</li>
+<li><strong>Multi-tenant support</strong>: In shared office buildings, robots maintain separate knowledge bases for each tenant</li>
+<li><strong>Event-specific programming</strong>: Trade show robots switch to exhibition floor plans and exhibitor directories</li>
+</ul>
+<p>The <a href="/products/cadebot-l100">CADEBOT L100</a> complements humanoid robots in these environments by handling material delivery — welcome kits to meeting rooms, brochures to exhibition booths, catering to conference areas.</p>
+<h2>The Technology Stack: What Makes It Work in 2026</h2>
+<h3>Voice AI and Natural Language Understanding</h3>
+<p>The difference between a 2022 chatbot and a 2026 humanoid robot is contextual multi-turn dialogue. When a customer says &quot;I&#39;m looking for a gift for my mother,&quot; the robot doesn&#39;t just look up &quot;gift&quot; — it follows up: &quot;What does she enjoy? What&#39;s your budget? Does she have any mobility considerations?&quot; This is the same conversation flow a skilled salesperson uses.</p>
+<p>CRUZR&#39;s NLP engine processes this in real-time, maintaining conversation context across 8–10 turns. It can seamlessly switch languages mid-conversation when, for example, a multilingual retail environment has staff and customers speaking different languages.</p>
+<h3>Computer Vision and Emotion AI</h3>
+<p>The 7-category emotion detection system — happy, neutral, confused, frustrated, surprised, sad, angry — enables the robot to adjust its approach. A confused customer gets slower, clearer explanations. A frustrated customer gets immediately escalated to human staff. This isn&#39;t a gimmick; it&#39;s a service recovery mechanism that prevents negative experiences from escalating.</p>
+<h3>Fleet Management and Analytics</h3>
+<p>Individual robots are useful. A fleet with centralized management is transformational. The cloud dashboard provides:</p>
+<ul>
+<li><strong>Real-time interaction analytics</strong>: Which questions are being asked most often? What products are generating the most interest?</li>
+<li><strong>Heat mapping</strong>: Where in the store do customers stop and engage?</li>
+<li><strong>Sentiment tracking</strong>: What time of day do customer satisfaction scores dip?</li>
+<li><strong>OTA updates</strong>: New product knowledge, promotions, and language packs pushed to the entire fleet simultaneously</li>
+</ul>
+<p>This data layer transforms the robot from a hardware deployment into a business intelligence platform. Retailers discover patterns they never saw — a specific product category generating high interest but low conversion, pointing to a pricing or display issue.</p>
+<h2>Deployment: What It Takes to Get Started</h2>
+<h3>Environment Preparation</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Wi-Fi coverage</td>
+<td>Minimum 50 Mbps per robot, seamless roaming between APs</td>
+</tr>
+<tr>
+<td>Floor plan</td>
+<td>Digital map loaded during setup; robots self-navigate after initial mapping</td>
+</tr>
+<tr>
+<td>Elevator integration</td>
+<td>For multi-floor deployments, VDV module connects robot to elevator control via IoT bridge</td>
+</tr>
+<tr>
+<td>Charging infrastructure</td>
+<td>One docking station per 2–3 robots; auto-return when battery hits 15%</td>
+</tr>
+</tbody></table>
+<h3>Staff Integration</h3>
+<p>The single biggest predictor of deployment success is whether staff see the robot as a tool or a threat. The most effective approach, validated across 50+ CRUZR deployments, is the &quot;third team member&quot; framing:</p>
+<ul>
+<li>Position the robot as handling repetitive queries so staff can focus on revenue-generating activities</li>
+<li>Train one &quot;robot champion&quot; per shift who handles basic troubleshooting</li>
+<li>Share interaction analytics with staff — when they see the robot is driving customers to their department, resistance drops</li>
+</ul>
+<h3>Content and Knowledge Base</h3>
+<p>A humanoid robot is only as useful as its knowledge base. The initial setup requires:</p>
+<ul>
+<li>Product catalog with SKU-level detail and location mapping</li>
+<li>Store policy documents (returns, exchanges, warranties)</li>
+<li>FAQ database built from actual customer inquiries (not guessed questions)</li>
+<li>Promotional calendar with start/end dates for automated campaign switching</li>
+</ul>
+<p>This is typically a 2–3 day process handled by the deployment team, not the retailer&#39;s IT staff.</p>
+<h2>ROI: What to Expect</h2>
+<p>Based on deployment data from 50+ CRUZR installations in retail and commercial environments:</p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Before Robot</th>
+<th>After Robot</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Directional queries handled by staff</td>
+<td>100%</td>
+<td>30–40%</td>
+</tr>
+<tr>
+<td>Average customer wait time</td>
+<td>8 min</td>
+<td>3 min</td>
+</tr>
+<tr>
+<td>Staff time reclaimed for sales</td>
+<td>0 hrs/day</td>
+<td>3.5 hrs/day</td>
+</tr>
+<tr>
+<td>Customer satisfaction (post-visit survey)</td>
+<td>78%</td>
+<td>89%</td>
+</tr>
+</tbody></table>
+<p>The financial model typically shows positive ROI within 8–12 months. See our <a href="/blog/service-robot-roi-guide-2026">service robot ROI guide</a> for a detailed TCO breakdown that includes hardware, software licensing, maintenance, and staff retraining costs.</p>
+<h2>Humanoid vs. Kiosk vs. Tablet: What&#39;s the Right Fit?</h2>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Humanoid Robot</th>
+<th>Touchscreen Kiosk</th>
+<th>Staff Tablet</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Proactive engagement</td>
+<td>Yes — approaches customers</td>
+<td>No — waits for interaction</td>
+<td>Depends on staff</td>
+</tr>
+<tr>
+<td>Physical guidance</td>
+<td>Escorts to location</td>
+<td>Shows map on screen</td>
+<td>Staff escorts</td>
+</tr>
+<tr>
+<td>Multi-language</td>
+<td>50+ languages, instant switch</td>
+<td>Pre-configured languages</td>
+<td>Requires multilingual staff</td>
+</tr>
+<tr>
+<td>Data collection</td>
+<td>Interaction analytics + sentiment</td>
+<td>Clickstream only</td>
+<td>Manual notes</td>
+</tr>
+<tr>
+<td>24/7 availability</td>
+<td>Yes (with charging rotations)</td>
+<td>Yes</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Upfront cost</td>
+<td>Higher</td>
+<td>Lower</td>
+<td>Lowest</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>High-traffic, premium environments</td>
+<td>Self-service, simple queries</td>
+<td>Personalized service, complex sales</td>
+</tr>
+</tbody></table>
+<p>For most deployments, the optimal approach is hybrid: humanoid robots at key entry points and high-traffic zones, kiosks for self-service transactions, and human staff for complex consultations. These three layers together create a complete customer service architecture.</p>
+<h2>What&#39;s Next: The 2026–2027 Roadmap</h2>
+<p>The trajectory for humanoid service robots points toward deeper integration:</p>
+<ul>
+<li><strong>LLM-powered conversation</strong>: Next-generation models enable truly open-ended dialogue beyond scripted knowledge bases</li>
+<li><strong>Gesture recognition</strong>: Understanding pointing, waving, and body language cues without verbal input</li>
+<li><strong>Multi-robot coordination</strong>: Lobby robots handing off to floor-specific delivery robots for end-to-end guided experiences</li>
+<li><strong>Predictive engagement</strong>: Using computer vision to identify confused or hesitant customers before they ask for help</li>
+</ul>
+<p>These are not science fiction. They are features on current development roadmaps, informed by real deployment data from the 1,000+ CRUZR units already operating across 30 countries.</p>
+<p>For retail and commercial operators evaluating automation, the question in 2026 is no longer &quot;Should we use robots?&quot; It&#39;s &quot;Which interactions should robots handle, and which should stay human?&quot; Answering that question correctly is the difference between automation that saves costs and automation that grows revenue. For a broader look at how service robots integrate across industries, see our <a href="/solutions">solutions overview</a> covering healthcare, hospitality, logistics, and retail deployments.</p>
+<p><a href="/products/cruzr">Learn more about CRUZR</a> or <a href="/contact">contact us</a> to schedule a demonstration at your facility.</p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Humanoid Service Robots in Retail: How AI-Powered Receptionists Are Transforming Customer Experience in 2026\",\"description\":\"A practical guide to deploying humanoid service robots in retail stores, banks, and commercial lobbies — from reception automation to interactive product guidance. Covers CRUZR deployment data, multi-language capabilities, and ROI benchmarks for businesses evaluating AI receptionists.\",\"image\":\"https://aomanbot.com/blog-images/humanoid-service-robots-retail-business-2026/cover.webp\",\"datePublished\":\"2026-07-17\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/humanoid-service-robots-retail-business-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Retail"}],["$","span",null,{"children":"2026-07-17"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Humanoid Service Robots in Retail: How AI-Powered Receptionists Are Transforming Customer Experience in 2026"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/humanoid-service-robots-retail-business-2026/cover.webp","alt":"Humanoid Service Robots in Retail: How AI-Powered Receptionists Are Transforming Customer Experience in 2026","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/humanoid-service-robots-retail-business-2026/diagram.webp","alt":"Humanoid Service Robots in Retail: How AI-Powered Receptionists Are Transforming Customer Experience in 2026 diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Humanoid Service Robots in Retail: How AI-Powered Receptionists Are Transforming Customer Experience in 2026 | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"A practical guide to deploying humanoid service robots in retail stores, banks, and commercial lobbies — from reception automation to interactive product guidance. Covers CRUZR deployment data, multi-language capabilities, and ROI benchmarks for businesses evaluating AI receptionists."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/humanoid-service-robots-retail-business-2026"}],["$","meta","3",{"property":"og:title","content":"Humanoid Service Robots in Retail: How AI-Powered Receptionists Are Transforming Customer Experience in 2026"}],["$","meta","4",{"property":"og:description","content":"A practical guide to deploying humanoid service robots in retail stores, banks, and commercial lobbies — from reception automation to interactive product guidance. Covers CRUZR deployment data, multi-language capabilities, and ROI benchmarks for businesses evaluating AI receptionists."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/humanoid-service-robots-retail-business-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/humanoid-service-robots-retail-business-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Humanoid Service Robots in Retail: How AI-Powered Receptionists Are Transforming Customer Experience in 2026"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"

@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: anthropic-ai
+Disallow: /
+
+User-Agent: Google-Extended
+Disallow: /
+
+Sitemap: https://aomanbot.com/sitemap.xml

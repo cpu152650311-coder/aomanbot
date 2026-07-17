@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/157f22ef74dab67c.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"32oLr775WH6ytbyONTgLl","p":"","c":["","blog","robot-navigation-slam-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","robot-navigation-slam-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/157f22ef74dab67c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","robot-navigation-slam-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T21dc,<p>When a delivery robot glides through a hotel lobby, dodges a suitcase, waits for an elevator, and arrives precisely at room 1217 — it&#39;s executing one of the hardest problems in robotics: autonomous navigation in an unstructured, human-populated environment.</p>
+<p>The engineering behind this seemingly simple behavior draws on decades of research in simultaneous localization and mapping (SLAM), sensor fusion, path planning, and edge AI. Here&#39;s what&#39;s inside the stack.</p>
+<h2>The Core Problem: Where Am I, and Where Is Everything Else?</h2>
+<p>Autonomous navigation boils down to three questions, asked continuously at 10–30 Hz:</p>
+<ol>
+<li><strong>Localization</strong>: Where am I right now, within an error margin of &lt; 5 cm?</li>
+<li><strong>Mapping</strong>: What does the environment look like, including obstacles I&#39;ve never seen before?</li>
+<li><strong>Planning</strong>: What&#39;s the safest, most efficient path to my destination, given what I know?</li>
+</ol>
+<p>These three problems are interdependent — you can&#39;t localize without a map, and you can&#39;t build a map without accurate localization. The solution is SLAM: solving both problems simultaneously.</p>
+<h2>The Sensor Suite: More Than Just Cameras</h2>
+<p>A production service robot like the <a href="/products/cadebot-l100">CADEBOT L100</a> carries a multi-modal sensor package that costs more than the motors and chassis combined:</p>
+<h3>Lidar (Light Detection and Ranging)</h3>
+<p>The primary navigation sensor. A typical unit uses a 360° scanning laser with:</p>
+<ul>
+<li><strong>Range</strong>: 25–40 meters for indoor models</li>
+<li><strong>Resolution</strong>: Angular resolution of 0.1°–0.3°, generating 1,200–3,600 points per rotation</li>
+<li><strong>Update rate</strong>: 10–15 Hz</li>
+<li><strong>Accuracy</strong>: ±2–3 cm at 10 meters</li>
+</ul>
+<p>Lidar excels at geometric mapping — walls, doors, furniture — but struggles with transparent surfaces (glass walls, windows) and featureless corridors (long empty hallways where every scan looks similar).</p>
+<h3>Depth Cameras (RGB-D)</h3>
+<p>Stereo or time-of-flight depth cameras complement lidar by capturing:</p>
+<ul>
+<li><strong>Visual features</strong>: Textures, patterns, signage — essential for place recognition and loop closure</li>
+<li><strong>Short-range depth</strong>: 0.3–5 meter range at millimeter precision for obstacle detection</li>
+<li><strong>Object classification</strong>: Identifying people, luggage, carts, and other dynamic objects</li>
+</ul>
+<p>Most service robots use 2–4 depth cameras for 360° short-range coverage, with the forward-facing pair providing the highest resolution for path planning.</p>
+<h3>Ultrasonic and Infrared</h3>
+<p>Low-cost proximity sensors fill the gaps that lidar and cameras miss:</p>
+<ul>
+<li><strong>Glass detection</strong>: Ultrasonic sensors reflect off glass surfaces that lidar passes through</li>
+<li><strong>Cliff detection</strong>: Infrared sensors prevent robots from driving down stairs or off ledges</li>
+<li><strong>Low-profile objects</strong>: Detecting items below lidar scan height (pets, cables, low furniture)</li>
+</ul>
+<h3>IMU (Inertial Measurement Unit)</h3>
+<p>A 9-axis IMU (accelerometer + gyroscope + magnetometer) provides:</p>
+<ul>
+<li><strong>Odometry between scans</strong>: Bridging the 50–100 ms gaps between lidar frames</li>
+<li><strong>Elevator detection</strong>: Sensing vertical movement to confirm floor changes</li>
+<li><strong>Bump detection</strong>: Identifying collisions that visual sensors might miss</li>
+</ul>
+<h2>SLAM: The Mathematical Core</h2>
+<p>SLAM algorithms process sensor data into two outputs that update simultaneously:</p>
+<h3>Graph-based SLAM (Modern Approach)</h3>
+<p>Most commercial service robots use graph-based SLAM, which represents the robot&#39;s trajectory and observed landmarks as a graph optimization problem:</p>
+<ol>
+<li><strong>Nodes</strong>: Robot poses at different timestamps (x, y, θ)</li>
+<li><strong>Edges</strong>: Spatial constraints between poses — derived from odometry (how far did I move?) and loop closures (have I been here before?)</li>
+<li><strong>Optimization</strong>: The algorithm minimizes the error across all constraints using sparse linear algebra (typically Levenberg-Marquardt or Gauss-Newton methods)</li>
+</ol>
+<p>The breakthrough that made graph-based SLAM practical was the realization that the constraint matrix is sparse — most poses constrain only a few others — reducing computational complexity from O(n³) to near O(n).</p>
+<h3>Visual SLAM (vSLAM)</h3>
+<p>An alternative approach using primarily camera data, vSLAM tracks visual features (corners, edges, textures) across frames. The advantage is lower sensor cost; the disadvantage is sensitivity to lighting changes and feature-poor environments. Most commercial robots use a hybrid approach: lidar for geometric mapping, visual features for place recognition and loop closure.</p>
+<h2>Path Planning: From Global to Local</h2>
+<p>Once a robot knows where it is, it needs to decide how to move. Modern robots use a two-tier planning architecture:</p>
+<h3>Global Planning (The Route)</h3>
+<p>A global planner computes the optimal route from current position to destination across the full map, using algorithms like A* or Dijkstra on a costmap — a grid representation where each cell has a traversal cost. Dynamic obstacles (people, temporary objects) are added as high-cost regions in real-time.</p>
+<h3>Local Planning (The Execution)</h3>
+<p>A local planner executes the global route in 1–3 second windows, handling:</p>
+<ul>
+<li><strong>Dynamic obstacle avoidance</strong>: Re-routing around moving people using velocity obstacle algorithms</li>
+<li><strong>Social navigation</strong>: Following culturally appropriate passing distances (typically 50–80 cm) and yielding to pedestrians in narrow corridors</li>
+<li><strong>Smooth trajectories</strong>: Generating velocity commands that minimize jerk for passenger comfort (important for robots carrying food or liquids)</li>
+</ul>
+<h2>Edge AI: Running the Stack On-Board</h2>
+<p>All of the above — sensor fusion, SLAM, path planning — runs on an edge computing module inside the robot, typically an NVIDIA Jetson or Qualcomm RB5 platform:</p>
+<ul>
+<li><strong>Inference</strong>: 10–30 TOPS for real-time object detection and scene understanding</li>
+<li><strong>Power budget</strong>: 15–30W for the compute module, 60–120W total including motors and sensors</li>
+<li><strong>Latency requirement</strong>: &lt; 100 ms end-to-end from sensor input to motor command</li>
+</ul>
+<p>Cloud connectivity is used for fleet coordination, remote monitoring, and map sharing — but navigation decisions remain local. A robot that needs an internet connection to avoid a pedestrian is not robust enough for deployment.</p>
+<h2>What This Means for Buyers</h2>
+<p>When evaluating service robots, navigation capability should be a primary criteria — not an afterthought. Key questions to ask vendors:</p>
+<ul>
+<li><strong>What sensors does the robot use?</strong> Lidar + depth cameras + ultrasonic is the gold standard. Single-sensor systems (camera-only or lidar-only) have known failure modes</li>
+<li><strong>What&#39;s the mapping process?</strong> Look for robots that can map a new floor in under 30 minutes with a single walkthrough</li>
+<li><strong>How does it handle glass walls and atriums?</strong> This is the #1 failure mode for lidar-only systems. The robot should have ultrasonic or camera-based glass detection</li>
+<li><strong>What&#39;s the recovery behavior?</strong> When the robot gets confused (and all robots do occasionally), does it stop safely and call for help, or does it guess and risk a collision?</li>
+<li><strong>Multi-floor support</strong>: VDV (vertical delivery vehicle) integration for elevators requires specific protocols. Ask for a compatibility assessment with your building&#39;s elevator system</li>
+</ul>
+<p>The navigation stack is the single most important engineering investment in any service robot — more than the chassis, more than the battery, more than the interface. It&#39;s what separates robots that work reliably in production from robots that work in demos.</p>
+<p><a href="/technology">AOMAN FUTURE</a> robots use a proprietary multi-sensor SLAM stack with lidar, stereo depth, ultrasonic, and 9-axis IMU fusion, running on an edge AI module that handles all navigation decisions locally at sub-100ms latency.</p>
+<p><a href="/contact">Contact us</a> for a technical deep-dive or on-site navigation demonstration.</p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How Service Robots Navigate: SLAM, Sensor Fusion, and the AI Stack Behind Autonomous Movement\",\"description\":\"A deep dive into the navigation technology stack that powers modern service robots — from lidar and depth cameras to SLAM algorithms and edge AI decision-making in dynamic environments.\",\"image\":\"https://aomanbot.com/images/home/hero-robot.webp\",\"datePublished\":\"2026-07-13\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/robot-navigation-slam-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Technology"}],["$","span",null,{"children":"2026-07-13"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"How Service Robots Navigate: SLAM, Sensor Fusion, and the AI Stack Behind Autonomous Movement"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/images/home/hero-robot.webp","alt":"How Service Robots Navigate: SLAM, Sensor Fusion, and the AI Stack Behind Autonomous Movement","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/images/products/aoman-double/tech-drawing.webp","alt":"How Service Robots Navigate: SLAM, Sensor Fusion, and the AI Stack Behind Autonomous Movement diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"How Service Robots Navigate: SLAM, Sensor Fusion, and the AI Stack Behind Autonomous Movement | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"A deep dive into the navigation technology stack that powers modern service robots — from lidar and depth cameras to SLAM algorithms and edge AI decision-making in dynamic environments."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/robot-navigation-slam-2026"}],["$","meta","3",{"property":"og:title","content":"How Service Robots Navigate: SLAM, Sensor Fusion, and the AI Stack Behind Autonomous Movement"}],["$","meta","4",{"property":"og:description","content":"A deep dive into the navigation technology stack that powers modern service robots — from lidar and depth cameras to SLAM algorithms and edge AI decision-making in dynamic environments."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/robot-navigation-slam-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"How Service Robots Navigate: SLAM, Sensor Fusion, and the AI Stack Behind Autonomous Movement"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/sitemap.xml",
+    "/robots.txt",
+    "/llms.txt",
+    "/favicon.ico",
+    "/favicon.png",
+    "/logo.webp",
+    "/_next/*",
+    "/images/*",
+    "/fonts/*",
+    "/blog-images/*"
+  ]
+}

@@ -1,0 +1,18 @@
+# llms.txt — aomanbot.com
+> AOMAN FUTURE: AI-powered service robots for delivery, cleaning, and humanoid interaction.
+
+## Core Pages
+- [Home](https://aomanbot.com/): Service robots overview
+- [Products](https://aomanbot.com/products/cruzr): CRUZR service robot, CLEINBOT cleaning robots, CADEBOT delivery robots
+- [Solutions](https://aomanbot.com/solutions): Industry solutions for hospitality, healthcare, retail
+- [Technology](https://aomanbot.com/technology): SLAM navigation, computer vision, voice AI
+- [Blog](https://aomanbot.com/blog): Robotics industry insights
+- [About](https://aomanbot.com/about): Company info, partners
+
+## Key Facts
+- Founded: 2015
+- Patents: 1,800+
+- Countries: 100+
+- Robots Deployed: 50,000+
+- Certification: ISO 13482 safety certified
+- Partners: Tencent, Huawei, Siemens, Marriott, BYD
