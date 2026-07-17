@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { getAllSlugs, getPost } from '@/lib/blog';
 import { marked } from 'marked';
 import type { Metadata } from 'next';
+import OpenInquiryButton from '@/components/OpenInquiryButton';
 
 export function generateStaticParams() {
   return getAllSlugs().map(slug => ({ slug }));
@@ -130,13 +131,12 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           <p className="text-white/80 mb-6 max-w-xl mx-auto">
             Get a free consultation on the right robot solution for your business.
           </p>
-          <Link
-            href="/contact"
-            className="inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl"
+          <OpenInquiryButton
+            className="inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer"
             style={{ color: '#0066FF' }}
           >
             Contact Us →
-          </Link>
+          </OpenInquiryButton>
         </div>
       </section>
     </main>

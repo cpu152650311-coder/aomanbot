@@ -4,6 +4,7 @@
   "exclude": [
     "/sitemap.xml",
     "/robots.txt",
+    "/llms.txt",
     "/favicon.ico",
     "/favicon.png",
     "/logo.webp",
