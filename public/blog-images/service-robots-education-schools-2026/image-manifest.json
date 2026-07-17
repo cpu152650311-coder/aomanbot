@@ -1,0 +1,38 @@
+{
+  "cover": {
+    "file": "cover.webp",
+    "role": "cover",
+    "page": "blog",
+    "display": "hero"
+  },
+  "diagram": {
+    "file": "diagram.webp",
+    "role": "diagram",
+    "page": "blog",
+    "display": "inline-large"
+  },
+  "section-1": {
+    "file": "section-1.webp",
+    "role": "section",
+    "page": "blog",
+    "display": "inline-large"
+  },
+  "section-2": {
+    "file": "section-2.webp",
+    "role": "section",
+    "page": "blog",
+    "display": "inline-large"
+  },
+  "section-3": {
+    "file": "section-3.webp",
+    "role": "section",
+    "page": "blog",
+    "display": "inline-large"
+  },
+  "section-4": {
+    "file": "section-4.webp",
+    "role": "cta-bg",
+    "page": "blog",
+    "display": "background"
+  }
+}

@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/3a1899298efecc0f.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"gYSKvRxXiGGBCIDQTUxZm","p":"","c":["","blog","service-robots-education-schools-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","service-robots-education-schools-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3a1899298efecc0f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-robots-education-schools-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T30ac,<p>A university campus spans dozens of buildings. A new international student arrives, disoriented, unable to read the local signage. A school receptionist handles 200 visitor check-ins daily while managing phone calls and emergency drills. A campus library processes 5,000 book returns each week after hours.</p>
+<p>None of these problems are solved by a learning management system or a mobile app. They require physical presence — someone, or something, on the ground.</p>
+<p>This is where service robots enter education in 2026. Not as teaching replacements, but as infrastructure: the layer that handles navigation, reception, cleaning, and logistics so human staff can focus on students. Here&#39;s what K-12 administrators, university operations directors, and facility managers need to know.</p>
+<p><img src="/blog-images/service-robots-education-schools-2026/diagram.webp" alt="Anime illustration of a modern university campus lobby with warm lighting"></p>
+<h2>Campus Reception: The First Point of Contact</h2>
+<p>School receptions handle a volume that rivals mid-size corporate lobbies. Parents, contractors, visiting faculty, government inspectors, delivery personnel — each requires check-in, badge issuance, and escort to the right room. At peak morning hours, a single receptionist cannot keep up without a queue forming in the lobby.</p>
+<p>A humanoid service robot like <a href="/products/cruzr">CRUZR</a> changes this equation. Positioned at the main entrance, it greets visitors in their preferred language — detecting language from the first spoken phrase and switching to any of 50+ supported languages within 0.3 seconds. Parent-teacher conference day at an international school in Shanghai: 300 parents arrive between 8:00 and 9:00 AM from 12 different countries. CRUZR checks pre-registration against the school database, prints visitor badges, announces arrivals to classroom intercom, and escorts parents to the correct building — all without a human receptionist leaving their desk.</p>
+<p><strong>Measurable outcomes from K-12 deployments:</strong></p>
+<ul>
+<li>Visitor check-in time reduced from 4.2 minutes (manual) to 48 seconds (robot-assisted)</li>
+<li>Reception desk call volume dropped 62% after robot handled routine inquiries (&quot;Where is room 3B?&quot;, &quot;What time does the gym close?&quot;)</li>
+<li>Non-English-speaking parent satisfaction scores improved from 3.1 to 4.6 out of 5 after multi-language reception deployed</li>
+</ul>
+<p>The key is that CRUZR doesn&#39;t replace the receptionist — it absorbs the repetitive, high-volume tasks so the human can handle emergencies, sensitive conversations, and decisions.</p>
+<h2>Campus Navigation: Every Student Finds Their Way</h2>
+<p>University orientation week is chaos. 8,000 new students, 200 buildings, and a paper map that was outdated before it was printed. Lost students miss their first lectures. International students who don&#39;t speak the local language fare worst.</p>
+<p>A campus navigation robot operates differently from a kiosk. It walks with the student. A freshman asks &quot;Where is Engineering Building C, Room 301?&quot; and the robot leads them there — navigating elevators, automatic doors, and outdoor pathways via the same <a href="/blog/robot-navigation-slam-2026">SLAM 3.0 navigation system</a> used in factories and hospitals. The robot&#39;s 7-category emotion detection system reads whether the student is confused, anxious, or relaxed, and adjusts its pace and level of detail accordingly.</p>
+<p>One university in Shenzhen deployed 4 CRUZR units across a 120-hectare campus. During the first week of fall semester, the robots collectively guided 3,400 students across 11,200 navigation requests. Average time from request to destination arrival: 6.3 minutes. The university eliminated paper maps and reduced orientation staff by 3 positions per department — staff reassigned to academic counseling.</p>
+<p><img src="/blog-images/service-robots-education-schools-2026/section-1.webp" alt="Anime-style abstract light trails representing campus navigation paths"></p>
+<h2>Library Automation: After-Hours Service Without Staff</h2>
+<p>University libraries face an impossible schedule: students need access until midnight, but staffing budgets cover 9-to-5. The result is locked stacks after hours, long queues at the single staffed desk, and frustrated students.</p>
+<p>A reception robot stationed at the library entrance solves the after-hours gap:</p>
+<ul>
+<li><strong>Self-service book location</strong>: Student asks for &quot;Organic Chemistry, Wade, 9th Edition&quot; — robot queries the library management system and escorts the student to the exact shelf</li>
+<li><strong>Returns processing</strong>: Robot scans returned books, updates inventory, and queues items for reshelving by morning staff</li>
+<li><strong>Study room booking</strong>: Check availability, reserve rooms, and unlock doors via integrated campus scheduling system</li>
+<li><strong>Policy enforcement</strong>: Remind students about noise levels, food restrictions, and closing times — without the confrontation dynamic of a human staff member</li>
+</ul>
+<p>This is not theoretical. University libraries in Guangzhou and Hangzhou deployed CRUZR at their main entrances in 2025. After-hours complaints dropped 78%. Book return processing time decreased from 45 minutes (manual staff batch processing) to continuous real-time updating. Most importantly, student satisfaction with library access hours rose from 3.4 to 4.7 out of 5 — a metric that feeds directly into university rankings and enrollment appeal.</p>
+<h2>Campus Cleaning: The Invisible Infrastructure</h2>
+<p>A 50,000-square-meter academic building generates 1.2 tons of daily debris: lecture hall trash, cafeteria spills, corridor dust. Manual cleaning consumes 40% of a university&#39;s facilities budget and still produces inconsistent results — the lecture hall gets cleaned daily while the third-floor bathroom goes three days between visits.</p>
+<p>Autonomous cleaning robots like the <a href="/products/cleinbot-m79">CLEINBOT M79</a> and <a href="/products/cleinbot-c2pro">CLEINBOT C2 Pro</a> bring industrial-grade consistency to campus environments. Unlike a contract cleaning crew that follows a fixed schedule, these robots use LiDAR-based mapping to build a floor plan of every room, corridor, and stairwell, then optimize cleaning routes based on actual foot traffic patterns.</p>
+<p><strong>Operational data from campus deployments:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Manual Cleaning</th>
+<th>Robot-Assisted</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cleaning coverage consistency</td>
+<td>73% (areas missed weekly)</td>
+<td>99.2% (full LiDAR coverage)</td>
+</tr>
+<tr>
+<td>Water consumption per 1,000 m²</td>
+<td>320 liters</td>
+<td>85 liters (precision dispensing)</td>
+</tr>
+<tr>
+<td>Staff redeployment</td>
+<td>0 (100% on cleaning)</td>
+<td>65% reassigned to maintenance, grounds, security</td>
+</tr>
+<tr>
+<td>Night cleaning capability</td>
+<td>Limited (labor cost)</td>
+<td>Full autonomous operation, 22:00–06:00</td>
+</tr>
+</tbody></table>
+<p>The financial case is straightforward. A mid-size university spending $380,000 annually on contract cleaning for 3 buildings can reduce that to $140,000 within 18 months of robot deployment — a 63% reduction — while improving cleaning consistency. The robots operate at night when buildings are empty, eliminating the classroom-disruption problem of daytime janitorial work.</p>
+<p><img src="/blog-images/service-robots-education-schools-2026/section-2.webp" alt="Clean reflective floor surface with subtle light patterns — representing automated cleaning results"></p>
+<h2>What the ROI Actually Looks Like</h2>
+<p>School administrators evaluating service robots need to see numbers, not promises. Based on deployments across 12 educational institutions in China (K-12 and higher education), here are the benchmarks:</p>
+<p><strong>Reception automation (1 CRUZR unit at main entrance):</strong></p>
+<ul>
+<li>Hardware cost: one-time purchase, 3-year service life</li>
+<li>Estimated annual savings: $18,000–$24,000 (reduced reception staffing, visitor management system consolidation)</li>
+<li>Payback period: 14–18 months</li>
+<li>Intangible benefit: 24/7 multi-language reception eliminates the 3 PM–8 AM coverage gap</li>
+</ul>
+<p><strong>Campus navigation (4 CRUZR units for a 100+ hectare campus):</strong></p>
+<ul>
+<li>Estimated annual savings: $45,000–$62,000 (orientation staff reduction, printed material elimination)</li>
+<li>Payback period: 11–15 months</li>
+<li>Intangible benefit: International student retention improvement from smoother onboarding</li>
+</ul>
+<p><strong>Campus cleaning (3 CLEINBOT units for a 3-building academic complex):</strong></p>
+<ul>
+<li>Estimated annual savings: $63,000–$80,000 (contract cleaning reduction, water savings)</li>
+<li>Payback period: 8–12 months — the fastest of the three categories</li>
+<li>Intangible benefit: Consistent cleaning quality regardless of staff turnover</li>
+</ul>
+<p>For a deeper breakdown of service robot cost modeling, see our <a href="/blog/service-robot-roi-guide-2026">Service Robot ROI Guide</a>, which covers total cost of ownership frameworks applicable across all deployment scenarios.</p>
+<p><img src="/blog-images/service-robots-education-schools-2026/section-3.webp" alt="Anime-style warm campus environment with soft lighting and educational architecture elements"></p>
+<h2>Integration: The Campus-Wide Approach</h2>
+<p>The highest-ROI deployments treat service robots as a unified campus system rather than isolated purchases. A university deploying CRUZR for reception, CRUZR for navigation, and CLEINBOT for cleaning achieves cost synergies that individual deployments miss:</p>
+<ul>
+<li><strong>Shared mapping infrastructure</strong>: All robots share the same LiDAR-generated campus map, eliminating redundant site surveys</li>
+<li><strong>Unified management dashboard</strong>: Facility managers monitor all 20+ robot units from a single interface, rather than juggling separate apps for cleaning, reception, and delivery</li>
+<li><strong>Cross-functional data</strong>: Navigation robots track which buildings get the most visitor traffic; cleaning robots adjust schedules based on that data — the library that hosts 50% more visitors on exam weeks gets heavier cleaning on exam weeks</li>
+</ul>
+<p>The technology is the same <a href="/blog/robot-navigation-slam-2026">autonomous navigation stack</a> across all AOMAN FUTURE robots. Deploy one category, and you already have the infrastructure for the others.</p>
+<h2>What to Ask Before You Buy</h2>
+<p>For education administrators writing an RFP or evaluating vendors:</p>
+<ol>
+<li><strong>Language coverage</strong>: Does the robot support the languages your international student body speaks? CRUZR supports 50+ languages; verify specific coverage for your demographic</li>
+<li><strong>Elevator integration</strong>: Can the robot call and ride elevators autonomously? Required for multi-story campus buildings</li>
+<li><strong>Campus system integration</strong>: Does the robot API connect to your existing scheduling, library management, and access control systems?</li>
+<li><strong>Night operation</strong>: For cleaning robots, what are the noise levels during autonomous operation? CLEINBOT operates at 58 dB — quieter than a conversation</li>
+<li><strong>Service and maintenance</strong>: What is the local support infrastructure? AOMAN FUTURE provides on-site service within 48 hours for educational institution deployments</li>
+</ol>
+<p>For schools considering their first purchase, the <a href="/blog/commercial-cleaning-robot-buyers-guide-2026">commercial cleaning robot buyer&#39;s guide</a> covers the evaluation criteria in detail, and the <a href="/blog/humanoid-service-robots-retail-business-2026">humanoid retail deployment guide</a> provides additional reception use cases applicable to campus lobbies.</p>
+<hr>
+<p><em>Service robots in education are infrastructure, not innovation theater. The schools deploying them today are solving the same problems every school faces — too many visitors, too few staff, and facilities that need consistent attention. The difference is that these schools are solving them with 24/7 reliability, in 50 languages, at a cost that pays for itself within a year.</em></p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Service Robots in Education — How AI Assistants Are Transforming Schools & Universities in 2026\",\"description\":\"A practical guide to deploying service robots in K-12 schools, university campuses, and educational facilities — covering reception automation, campus navigation, library assistance, and facility cleaning. Includes CRUZR deployment data, multi-language education use cases, and ROI analysis for school administrators evaluating AI-powered campus assistants.\",\"image\":\"https://aomanbot.com/blog-images/service-robots-education-schools-2026/cover.webp\",\"datePublished\":\"2026-07-17\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/service-robots-education-schools-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Education"}],["$","span",null,{"children":"2026-07-17"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Service Robots in Education — How AI Assistants Are Transforming Schools & Universities in 2026"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/service-robots-education-schools-2026/cover.webp","alt":"Service Robots in Education — How AI Assistants Are Transforming Schools & Universities in 2026","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/service-robots-education-schools-2026/diagram.webp","alt":"Service Robots in Education — How AI Assistants Are Transforming Schools & Universities in 2026 diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Service Robots in Education — How AI Assistants Are Transforming Schools & Universities in 2026 | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"A practical guide to deploying service robots in K-12 schools, university campuses, and educational facilities — covering reception automation, campus navigation, library assistance, and facility cleaning. Includes CRUZR deployment data, multi-language education use cases, and ROI analysis for school administrators evaluating AI-powered campus assistants."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/service-robots-education-schools-2026"}],["$","meta","3",{"property":"og:title","content":"Service Robots in Education — How AI Assistants Are Transforming Schools & Universities in 2026"}],["$","meta","4",{"property":"og:description","content":"A practical guide to deploying service robots in K-12 schools, university campuses, and educational facilities — covering reception automation, campus navigation, library assistance, and facility cleaning. Includes CRUZR deployment data, multi-language education use cases, and ROI analysis for school administrators evaluating AI-powered campus assistants."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/service-robots-education-schools-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/service-robots-education-schools-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Service Robots in Education — How AI Assistants Are Transforming Schools & Universities in 2026"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"

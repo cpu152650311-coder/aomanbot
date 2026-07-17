@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/3a1899298efecc0f.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"gYSKvRxXiGGBCIDQTUxZm","p":"","c":["","blog","service-robots-manufacturing-industrial-automation-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","service-robots-manufacturing-industrial-automation-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3a1899298efecc0f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-robots-manufacturing-industrial-automation-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T312b,<p>Manufacturing output per worker in the US has grown 2.1% annually since 2019. Labor costs have risen 4.7% per year over the same period. The gap widens every quarter. For plant managers, the question is no longer whether to automate — it&#39;s which processes, with what technology, and in what sequence.</p>
+<p>Industrial robots have handled welding, assembly, and pick-and-place for decades. But those are fixed-automation systems: bolted to the floor, caged off from workers, programmed once and left alone. Service robots — autonomous mobile robots (AMRs) and AI-powered humanoids — represent a fundamentally different category. They move. They navigate around people. They handle the 70% of factory workflows that traditional industrial robots never touched: material transport, floor maintenance, quality walkthroughs, and safety inspections.</p>
+<p>Here&#39;s what manufacturing operations leaders need to know about deploying service robots on the factory floor in 2026.</p>
+<h2>The Three Manufacturing Workflows Service Robots Handle Today</h2>
+<p>Service robots in manufacturing cluster around three high-impact workflows that collectively account for roughly 40% of shop-floor labor hours:</p>
+<h3>1. Autonomous Material Transport</h3>
+<p>Moving raw materials, work-in-progress, and finished goods between workstations is the single largest non-value-add activity in most factories. Forklift operators spend 30–40% of their shift traveling empty. Conveyor systems cost $2,000–4,000 per linear meter and lock in a fixed layout for years.</p>
+<p>AMRs replace both. The <a href="/products/cadebot-l100">CADEBOT L100</a> carries 40 kg per trip across factory floors with no fixed infrastructure — no magnetic tape, no QR codes on the floor, no ceiling markers. Its SLAM 3.0 navigation builds a live map of the facility in under 2 hours and adapts within seconds when pallets or equipment block a planned route.</p>
+<p><img src="/blog-images/service-robots-manufacturing-industrial-automation-2026/section-1.webp" alt="Factory material transport workflow with autonomous delivery robots"></p>
+<p>For heavier loads between production zones, the <a href="/products/aoman-double">AOMAN DOUBLE</a> handles 70L dual-cabin payloads — delivering components to Line A while simultaneously returning finished subassemblies to the warehouse, cutting empty-return trips to zero.</p>
+<p><strong>Deployment data from electronics manufacturing</strong>: A Shenzhen PCB fabricator deployed 6 CADEBOT L100 units for inter-process material movement across 8,000 sq m. Results at 90 days:</p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Before AMRs</th>
+<th>After AMRs</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Material wait time per workstation</td>
+<td>22 min</td>
+<td>4 min</td>
+<td>−82%</td>
+</tr>
+<tr>
+<td>Forklift operator hours/day</td>
+<td>48</td>
+<td>16</td>
+<td>−67%</td>
+</tr>
+<tr>
+<td>Line stoppages from material shortage</td>
+<td>14/week</td>
+<td>2/week</td>
+<td>−86%</td>
+</tr>
+<tr>
+<td>AMR fleet utilization</td>
+<td>—</td>
+<td>91%</td>
+<td>—</td>
+</tr>
+</tbody></table>
+<h3>2. Industrial Floor Maintenance</h3>
+<p>Factory floors accumulate dust, metal shavings, oil residue, and chemical traces that affect both product quality and worker safety. Traditional floor cleaning in manufacturing is manual, scheduled (not condition-based), and often skipped during peak production.</p>
+<p>Autonomous cleaning robots change this. The <a href="/products/cleinbot-m79">CLEINBOT M79</a> scrubs 1,200 sq m per hour on a single charge, navigating around forklifts, pallets, and workers without disrupting operations. Its 7-sensor array detects floor contamination in real time — oil spills trigger immediate spot-cleaning while routine dust gets deferred to the next scheduled pass.</p>
+<p><img src="/blog-images/service-robots-manufacturing-industrial-automation-2026/section-2.webp" alt="Clean industrial factory floor with overhead lighting reflections"></p>
+<p>For outdoor manufacturing areas — loading docks, raw material yards, truck staging zones — the <a href="/products/cleinbot-cc201">CLEINBOT CC201</a> handles 3,000 sq m per hour on uneven surfaces. It operates in temperatures from −10°C to 50°C and navigates rain or shine, which matters when outdoor material staging areas can&#39;t wait for a dry day to get cleaned.</p>
+<p><strong>Why this matters for quality</strong>: In precision machining and electronics assembly, airborne particulate above 10µm directly correlates with product defect rates. A single autonomous cleaning robot running 3 passes per shift maintains ISO 14644-1 Class 8 cleanliness in open production areas — previously achievable only with sealed cleanrooms and HVAC overhauls costing $500K+.</p>
+<h3>3. Safety Inspection and Worker Assistance</h3>
+<p>OSHA recorded 2.8 non-fatal injuries per 100 manufacturing workers in 2025. The top three causes — overexertion, contact with objects, and slips — are all detectable before they happen. The problem is that human safety inspectors can&#39;t be everywhere simultaneously.</p>
+<p>The <a href="/products/cruzr">CRUZR</a> humanoid service robot patrols factory aisles on programmable routes, using its 7-category vision system to detect:</p>
+<ul>
+<li>Spills and debris in walkways (slip hazards)</li>
+<li>Unlabeled chemical containers (compliance violations)</li>
+<li>Missing PPE — hard hat, safety glasses, steel-toe boots</li>
+<li>Unauthorized personnel in restricted zones (access anomalies)</li>
+</ul>
+<p>Each detection triggers an immediate alert to the shift supervisor&#39;s dashboard with a timestamped photo and location tag. Over a 3-month pilot in an automotive parts plant, one CRUZR unit patrolling 12 hours/day identified 47 safety violations that human inspectors missed, including 8 that would have resulted in OSHA-reportable incidents.</p>
+<p>Beyond inspection, CRUZR serves as a mobile knowledge terminal on the factory floor. Workers scan a QR code on any machine to pull up SOPs, maintenance history, and troubleshooting guides on CRUZR&#39;s chest display — eliminating walks to the supervisor&#39;s office or the shared workstation terminal.</p>
+<h2>Integration: Where Most Deployments Stall</h2>
+<p>The robots themselves work. The failure point is connecting them to the factory&#39;s digital backbone.</p>
+<p>A manufacturing AMR fleet generates approximately 2 GB of telemetry per robot per day: location logs, battery cycles, task completion rates, obstacle encounters, sensor readings. Without integration into existing systems, that data sits in the robot vendor&#39;s cloud dashboard — useful for the vendor&#39;s quarterly review, useless for the plant manager who needs to know why Station 7 keeps running out of components.</p>
+<p>Three integration points determine whether a service robot deployment pays back:</p>
+<p><strong>MES Integration</strong>: The Manufacturing Execution System tracks every work order through every workstation. When an AMR fleet talks to MES, material delivery triggers automatically when a workstation completes its current batch — no human dispatcher, no radio call, no downtime. REST API integration between the CADEBOT fleet manager and common MES platforms (Siemens Opcenter, SAP ME, Rockwell FactoryTalk) typically takes 3–5 engineering days.</p>
+<p><strong>WMS/ERP Integration</strong>: For factories that pull raw materials from an internal warehouse, AMRs connected to the Warehouse Management System receive pick lists directly and optimize delivery routes by combining multiple workstations&#39; needs into single trips. When integrated with ERP inventory modules, the system auto-generates replenishment orders when bin levels drop below threshold — closing the loop from consumption to reorder without a purchasing manager manually checking stock.</p>
+<p><strong>Safety System Integration</strong>: CRUZR&#39;s safety inspection findings should feed into the same incident management system (Gensuite, Intelex, Enablon) that EHS teams already use. Without this integration, safety data from the robot exists in a parallel universe — actionable, but divorced from the compliance reporting workflow that actually drives corrective actions.</p>
+<p>The common thread: robots deployed as standalone hardware deliver 30–40% of their potential value. Robots integrated into the factory&#39;s digital systems deliver 80–90%. The integration work is not optional.</p>
+<h2>The Manufacturing Service Robot Selection Checklist</h2>
+<p>Not every factory needs every type of service robot. Use this decision framework to prioritize:</p>
+<ol>
+<li><p><strong>Map your material flow first</strong> — If non-value-add transport exceeds 25% of total process time, start with delivery AMRs (CADEBOT L100, AOMAN DOUBLE). This is the fastest-ROI deployment in 90% of factories.</p>
+</li>
+<li><p><strong>Audit your floor condition</strong> — If particulate contamination correlates with defect rates, or if EHS reports show slip hazards clustering in specific zones, deploy cleaning robots (CLEINBOT M79 indoors, CC201 outdoors).</p>
+</li>
+<li><p><strong>Count your safety walkthroughs</strong> — If supervisors spend more than 8 hours/week on manual safety inspections, a CRUZR patrol unit pays back in reduced incidents alone — plus it frees supervisors for higher-value work.</p>
+</li>
+<li><p><strong>Check your integration readiness</strong> — Before ordering robots, confirm your MES and WMS platforms have REST APIs. If they don&#39;t, budget 2–4 weeks for middleware or plan a phased approach where robots run standalone for Phase 1 (still valuable — see the <a href="/blog/service-robot-roi-guide-2026">ROI guide</a>).</p>
+</li>
+<li><p><strong>Start with one workflow, one shift</strong> — The factories that succeed deploy 2–3 robots on a single shift for a single workflow, prove the numbers in 60 days, then scale. The factories that fail order 15 robots for 3 shifts and wonder why adoption stalls.</p>
+</li>
+</ol>
+<h2>What Manufacturing Service Robots Cost — And What They Return</h2>
+<p>Service robot pricing in 2026 follows a hardware + software subscription model:</p>
+<table>
+<thead>
+<tr>
+<th>Robot Type</th>
+<th>Unit Cost (USD)</th>
+<th>Annual Software</th>
+<th>Typical Fleet Size</th>
+<th>Break-Even</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Delivery AMR (CADEBOT L100)</td>
+<td>$12,000–18,000</td>
+<td>$2,400/unit</td>
+<td>4–12 units</td>
+<td>8–14 months</td>
+</tr>
+<tr>
+<td>Dual-Cabin AMR (AOMAN DOUBLE)</td>
+<td>$18,000–25,000</td>
+<td>$3,000/unit</td>
+<td>2–6 units</td>
+<td>10–16 months</td>
+</tr>
+<tr>
+<td>Indoor Cleaning (CLEINBOT M79)</td>
+<td>$8,000–12,000</td>
+<td>$1,800/unit</td>
+<td>1–3 units</td>
+<td>6–10 months</td>
+</tr>
+<tr>
+<td>Outdoor Cleaning (CLEINBOT CC201)</td>
+<td>$14,000–20,000</td>
+<td>$2,200/unit</td>
+<td>1–2 units</td>
+<td>9–14 months</td>
+</tr>
+<tr>
+<td>Safety/Inspection (CRUZR)</td>
+<td>$15,000–22,000</td>
+<td>$2,800/unit</td>
+<td>1–2 units</td>
+<td>10–15 months</td>
+</tr>
+</tbody></table>
+<p>The break-even calculation accounts for reduced labor hours, fewer OSHA incidents, lower material waste, and increased throughput — not just headcount reduction. For a deeper dive into service robot economics, see our <a href="/blog/service-robot-roi-guide-2026">comprehensive ROI analysis</a>.</p>
+<h2>The Factory Floor Is the Next Frontier</h2>
+<p>Manufacturing is the largest unautomated labor market in developed economies. Over 12 million workers in US and European factories spend more than half their shift on tasks that service robots can handle today: moving things, cleaning things, checking things.</p>
+<p>The factories adopting service robots in 2026 aren&#39;t replacing workers — they&#39;re closing the gap between rising labor costs and flat productivity growth. The robot handles the walking, the scrubbing, the patrolling. The worker handles the decisions, the exceptions, the improvements that only human judgment can make.</p>
+<p>For a deeper look at the technologies powering these systems, read our guide on <a href="/blog/robot-navigation-slam-2026">SLAM navigation and autonomous robot perception</a>. For a comparison of delivery robot options across use cases, see our <a href="/blog/delivery-robot-selection-guide-2026">delivery robot selection framework</a>. And if you&#39;re evaluating cleaning automation specifically, our <a href="/blog/commercial-cleaning-robot-buyers-guide-2026">commercial cleaning robot buyer&#39;s guide</a> covers the full landscape.</p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Service Robots in Manufacturing — How AMRs and Cobots Are Reshaping Factory Floors in 2026\",\"description\":\"A practical guide to deploying service robots in manufacturing facilities — from autonomous material transport and industrial floor maintenance to AI-powered safety inspection. Covers CADEBOT L100, CLEINBOT M79/CC201, and CRUZR deployment data, MES/WMS integration requirements, and ROI benchmarks for plant managers evaluating factory automation.\",\"image\":\"https://aomanbot.com/blog-images/service-robots-manufacturing-industrial-automation-2026/cover.webp\",\"datePublished\":\"2026-07-18\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/service-robots-manufacturing-industrial-automation-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Manufacturing"}],["$","span",null,{"children":"2026-07-18"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Service Robots in Manufacturing — How AMRs and Cobots Are Reshaping Factory Floors in 2026"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/service-robots-manufacturing-industrial-automation-2026/cover.webp","alt":"Service Robots in Manufacturing — How AMRs and Cobots Are Reshaping Factory Floors in 2026","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/service-robots-manufacturing-industrial-automation-2026/diagram.webp","alt":"Service Robots in Manufacturing — How AMRs and Cobots Are Reshaping Factory Floors in 2026 diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Service Robots in Manufacturing — How AMRs and Cobots Are Reshaping Factory Floors in 2026 | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"A practical guide to deploying service robots in manufacturing facilities — from autonomous material transport and industrial floor maintenance to AI-powered safety inspection. Covers CADEBOT L100, CLEINBOT M79/CC201, and CRUZR deployment data, MES/WMS integration requirements, and ROI benchmarks for plant managers evaluating factory automation."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/service-robots-manufacturing-industrial-automation-2026"}],["$","meta","3",{"property":"og:title","content":"Service Robots in Manufacturing — How AMRs and Cobots Are Reshaping Factory Floors in 2026"}],["$","meta","4",{"property":"og:description","content":"A practical guide to deploying service robots in manufacturing facilities — from autonomous material transport and industrial floor maintenance to AI-powered safety inspection. Covers CADEBOT L100, CLEINBOT M79/CC201, and CRUZR deployment data, MES/WMS integration requirements, and ROI benchmarks for plant managers evaluating factory automation."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/service-robots-manufacturing-industrial-automation-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/service-robots-manufacturing-industrial-automation-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Service Robots in Manufacturing — How AMRs and Cobots Are Reshaping Factory Floors in 2026"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"

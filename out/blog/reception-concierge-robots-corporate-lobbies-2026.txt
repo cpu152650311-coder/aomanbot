@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/3a1899298efecc0f.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"gYSKvRxXiGGBCIDQTUxZm","p":"","c":["","blog","reception-concierge-robots-corporate-lobbies-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","reception-concierge-robots-corporate-lobbies-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3a1899298efecc0f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","reception-concierge-robots-corporate-lobbies-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T3f0e,<p>A corporate lobby in a Class A office building handles 800 to 2,400 visitor interactions per day. Every single one follows the same script: greet, verify identity, issue badge, notify host, provide directions. At 9:15 AM on a Tuesday, the queue at reception stretches past the turnstiles. Three visitors are late for meetings. One is a VIP client waiting to be acknowledged.</p>
+<p>A tablet kiosk cannot solve this. Neither can a mobile check-in app — visitors don&#39;t download apps for a one-time meeting. The bottleneck is physical presence in a physical space, and until recently, the only answer was more reception staff.</p>
+<p>In 2026, that equation has changed. Here is what facility managers, corporate real estate directors, and office building operators need to know about deploying reception and concierge robots today — grounded in deployment data, not speculation.</p>
+<p><img src="/blog-images/reception-concierge-robots-corporate-lobbies-2026/diagram.webp" alt="Anime-style abstract illustration of a modern corporate lobby with warm lighting and reflective marble floors"></p>
+<h2>What a Reception Robot Actually Handles</h2>
+<p>A reception robot like <a href="/products/cruzr">CRUZR</a> is not a kiosk on wheels. It is an autonomous front-of-house agent that initiates conversation, verifies identity, issues credentials, escorts visitors to their destination, and integrates with the building&#39;s existing security infrastructure.</p>
+<p><strong>Core functions deployed in active installations:</strong></p>
+<ul>
+<li><strong>Multi-tenant visitor management</strong>: In buildings with 20+ corporate tenants, the robot identifies which company the visitor is here to see, pulls that tenant&#39;s visitor policy (pre-registration required? badge photo? NDA signature?), and routes the visitor accordingly — all through natural conversation in the visitor&#39;s language</li>
+<li><strong>Badge issuance and access control integration</strong>: Robot integrates with building access systems (HID, SALTO, Lenel) to print temporary badges encoded with zone-specific permissions, valid only for the duration of the scheduled meeting</li>
+<li><strong>Host notification</strong>: Simultaneous notification via SMS, enterprise messaging (Slack/Teams/WeCom), and building intercom — with escalation logic if the host doesn&#39;t respond within 90 seconds</li>
+<li><strong>Physical escort</strong>: The robot navigates elevators, automatic doors, and security turnstiles via <a href="/blog/robot-navigation-slam-2026">SLAM 3.0 navigation</a>, escorting visitors to the correct floor and suite — no paper directions, no wrong turns</li>
+<li><strong>After-hours coverage</strong>: Buildings that staff reception from 8:00–18:00 leave 14 hours of visitor interactions unhandled. A robot provides continuous coverage, handling cleaning crew check-ins, delivery personnel, and late-working employees who lost their access cards</li>
+</ul>
+<p>The distinction from earlier automation attempts is that the robot doesn&#39;t require visitors to interact with a screen. 47% of people over 50 report discomfort with touchscreen check-in kiosks. A humanoid robot that speaks and listens eliminates this adoption barrier entirely.</p>
+<h2>The Multi-Tenant Challenge: One Lobby, Twenty Companies</h2>
+<p>Office buildings with multiple corporate tenants create a uniquely complex reception problem. Each tenant has different visitor policies, different security levels, and different host notification preferences. A law firm on floor 12 requires photo ID capture and NDA signature for every visitor. A tech company on floor 8 wants visitors waived through if pre-registered. A financial services tenant on floor 20 requires two-factor host confirmation.</p>
+<p>A human receptionist manages this by memory and a binder of tenant policies. When that receptionist is sick, on lunch, or handling an emergency, the system breaks.</p>
+<p><strong>How a reception robot handles multi-tenant lobbies:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tenant Requirement</th>
+<th>Manual Process</th>
+<th>Robot-Automated Process</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Photo ID capture</td>
+<td>Receptionist finds camera, takes photo, uploads</td>
+<td>Robot captures via built-in camera, auto-tags to tenant record</td>
+</tr>
+<tr>
+<td>NDA signature</td>
+<td>Print form, find pen, collect signature, scan, file</td>
+<td>Robot displays NDA on screen, captures digital signature, auto-files to tenant portal</td>
+</tr>
+<tr>
+<td>Pre-registration check</td>
+<td>Receptionist searches spreadsheet or email</td>
+<td>Robot queries tenant&#39;s visitor database via API integration</td>
+</tr>
+<tr>
+<td>VIP routing</td>
+<td>Receptionist calls executive assistant</td>
+<td>Robot identifies VIP via face recognition, notifies EA directly, escorts to private elevator</td>
+</tr>
+</tbody></table>
+<p>A 32-floor commercial tower in Shenzhen deployed two CRUZR units at its main lobby in 2025, serving 18 corporate tenants with approximately 1,100 daily visitors. Before deployment, the building operated 3 reception desks with 6 staff on rotation. After deployment: 2 reception desks with 4 staff, with robots handling 68% of routine visitor interactions. Average visitor processing time dropped from 4.1 minutes to 55 seconds. Tenant satisfaction with lobby services rose from 3.2 to 4.5 out of 5 in the annual building survey.</p>
+<p><img src="/blog-images/reception-concierge-robots-corporate-lobbies-2026/section-1.webp" alt="Abstract light trails across a dark reflective surface, suggesting automated reception flow"></p>
+<h2>The Security Dimension: Why Robots Reduce Risk</h2>
+<p>Office building security is built on a paradox: the reception desk is both the first line of defense and the weakest link. A distracted receptionist waves through a tailgater. An overwhelmed temp forgets to verify an ID. A visitor badge that should have expired at 3:00 PM still grants elevator access at 7:30 PM.</p>
+<p>A reception robot eliminates these failure modes systematically:</p>
+<ul>
+<li><strong>Zero tailgating</strong>: The robot physically positions itself between visitors and the secure zone, only moving aside after successful verification — no human judgment call, no social pressure to wave someone through</li>
+<li><strong>Time-bound credentials</strong>: Badge permissions are automatically revoked at the scheduled meeting end time, with no human action required — a receptionist simply cannot reliably track 300+ active badges across a workday</li>
+<li><strong>Full audit trail</strong>: Every visitor interaction — identity verification, host notification, badge issue time, escort route, departure scan — is logged with timestamps and retrievable for security reviews. Manual logs average 40% missing entries; automated logs capture 100%</li>
+<li><strong>Face recognition consistency</strong>: The robot&#39;s face recognition system (<a href="/products/cruzr">CRUZR</a> identifies individuals in under 0.3 seconds with 99.7% accuracy) does not degrade across a shift — unlike a human receptionist who can only visually recognize approximately 150 faces before fatigue and recency bias affect accuracy</li>
+</ul>
+<p>For buildings that host financial services, legal, or government tenants, this audit trail is often a compliance requirement. For insurance purposes, the reduction in tailgating incidents — the most common security breach in multi-tenant buildings — directly impacts liability premiums.</p>
+<h2>When the Receptionist Can&#39;t Be There: After-Hours and Overflow</h2>
+<p>The standard corporate lobby staffing model covers 10 hours (8:00–18:00) — approximately 42% of a 24-hour day. The other 58% is unstaffed. This is when:</p>
+<ul>
+<li>Cleaning crews arrive at 22:00 and need building access</li>
+<li>Employees return at 21:00 for a forgotten laptop and can&#39;t get past security</li>
+<li>International clients arrive at 6:30 AM for a 7:00 AM video conference with a different time zone</li>
+<li>Delivery drivers show up at 19:00 with urgent documents that need a signature</li>
+</ul>
+<p>Each of these interactions, if unhandled, creates friction that compounds. A reception robot provides continuous lobby coverage without adding headcount. For a building with a $180,000 annual reception staffing budget, adding overnight coverage would cost approximately $65,000 in additional shifts. A robot deployment amortizes to roughly $12,000–15,000 per year over a 3-year service life for the same expanded coverage window.</p>
+<p>One corporate campus in Guangzhou deployed a CRUZR for after-hours lobby coverage. Within the first quarter, visitor complaints about &quot;no one at reception&quot; dropped from an average of 14 per month to 2. The building&#39;s property manager reported that the robot handled 340 after-hours interactions per month — all of which would have previously gone to a security guard who had no access to the tenant directory or visitor pre-registration system.</p>
+<p><img src="/blog-images/reception-concierge-robots-corporate-lobbies-2026/section-2.webp" alt="Clean reflective lobby floor with abstract geometric light patterns — suggesting organized, automated space"></p>
+<h2>Elevator Integration: The Hardest Part, Solved</h2>
+<p>A reception robot that escorts a visitor to &quot;Floor 18, Suite 1802&quot; must physically enter an elevator and select the correct floor. This is the single hardest integration challenge in lobby automation — and it is solved in 2026.</p>
+<p>The robot communicates with building elevator controllers via:</p>
+<ul>
+<li><strong>BACnet/IP integration</strong>: Direct protocol communication with modern elevator control systems (Otis Compass, Schindler PORT, KONE Destination)</li>
+<li><strong>IoT relay for legacy elevators</strong>: For buildings with pre-2015 elevator infrastructure, a physical IoT relay module connects the robot to the elevator&#39;s call button circuit — no elevator controller upgrade required</li>
+</ul>
+<p>Once connected, the robot calls the elevator, enters, selects the destination floor, and announces &quot;Floor 18&quot; to the visitor. The return trip works identically — the robot calls the elevator from the tenant floor via building WiFi, escorts the departing visitor back to the lobby, and scans the visitor badge to close out the visit.</p>
+<p>This capability transforms the robot from a lobby kiosk into a true lobby-to-destination escort. Without elevator integration, the robot is a greeter that points. With it, the robot is a concierge that delivers.</p>
+<p>Buildings that have invested in elevator integration report a 41% reduction in &quot;I got lost&quot; calls to reception and a 28% reduction in elevator wait times — because the robot&#39;s navigation system communicates with the elevator controller to optimize car assignment, avoiding unnecessary stops.</p>
+<h2>What You Actually Need to Deploy</h2>
+<p>A reception robot deployment in a corporate lobby requires six components, and facility managers should evaluate each before procurement:</p>
+<ol>
+<li><strong>The robot hardware</strong>: One <a href="/products/cruzr">CRUZR</a> unit positioned at the main lobby entrance, with a clear 3-meter approach zone for visitors</li>
+<li><strong>Building access system integration</strong>: API or relay connection to the building&#39;s badge printing and door access control (HID, SALTO, Lenel, or equivalent)</li>
+<li><strong>Tenant visitor policy database</strong>: Each corporate tenant&#39;s visitor rules — pre-registration required, ID capture policy, NDA requirement, host notification method</li>
+<li><strong>Elevator controller integration</strong>: BACnet/IP for modern elevators or IoT relay module for legacy systems</li>
+<li><strong>Network infrastructure</strong>: Dedicated WiFi SSID for robot-building system communication, isolated from guest network</li>
+<li><strong>Staff training</strong>: 2-day onboarding for reception staff — the robot is a tool for them, not a replacement</li>
+</ol>
+<p>The deployment timeline from contract signing to operational go-live is typically 4–6 weeks, with elevator integration being the longest-lead item if the building has legacy controllers.</p>
+<h2>The Numbers: What ROI Looks Like</h2>
+<p>Based on deployments across 8 commercial office buildings in China (data aggregated from property management reports, Q4 2025–Q2 2026):</p>
+<p><strong>Visitor processing:</strong></p>
+<ul>
+<li>Pre-deployment: 4.1 minutes average per visitor (manual check-in)</li>
+<li>Post-deployment: 55 seconds (robot-assisted), 1.8 minutes (human-assisted for complex cases)</li>
+<li>Robot handles 68% of routine visitors independently</li>
+</ul>
+<p><strong>Staff optimization:</strong></p>
+<ul>
+<li>Average reduction: 1.5 FTE reception positions per building (staff reassigned to tenant relations and facility coordination)</li>
+<li>Overnight coverage gained: 14 hours previously unstaffed, now covered continuously</li>
+</ul>
+<p><strong>Security outcomes:</strong></p>
+<ul>
+<li>Tailgating incidents: reduced 76% (door sensor + robot positioning data)</li>
+<li>Visitor badge compliance: 92% (pre) → 99.4% (post) — badges returned and deactivated on schedule</li>
+<li>Audit trail completeness: 40% (manual logs) → 100% (automated)</li>
+</ul>
+<p><strong>Cost structure (per building, per 3-year period):</strong></p>
+<ul>
+<li>Hardware + installation: one-time</li>
+<li>Software + integration: annual license</li>
+<li>Maintenance: annual service contract</li>
+<li>Total 3-year cost: roughly equivalent to 0.8 FTE receptionist salary, for 24/7 coverage</li>
+</ul>
+<p>For a full ROI methodology and calculation framework, see our <a href="/blog/service-robot-roi-guide-2026">Service Robot ROI Guide</a>.</p>
+<h2>Making the Decision: A Pre-Deployment Checklist</h2>
+<p>Before issuing an RFP for a reception robot, facility managers should answer these questions:</p>
+<ul>
+<li><strong>Visitor volume</strong>: How many visitors per day, and what is the peak-hour surge (typically 8:30–10:00)?</li>
+<li><strong>Tenant count</strong>: How many corporate tenants, and do they have different visitor policies?</li>
+<li><strong>Current pain points</strong>: What percentage of visitor complaints cite long wait times? What is the current staff turnover rate at reception?</li>
+<li><strong>Access system</strong>: What building access control system is installed, and does it support API integration?</li>
+<li><strong>Elevator type</strong>: Modern (BACnet-capable) or legacy (requires IoT relay)?</li>
+<li><strong>Languages needed</strong>: What languages do your visitors speak? (CRUZR supports 50+ languages with sub-second switching)</li>
+<li><strong>After-hours gap</strong>: How many hours per day is the lobby unstaffed, and how many interactions occur during those hours?</li>
+</ul>
+<p>Walk the lobby at 9:30 AM on a Tuesday. Count the queue. Time three visitor interactions from entry to elevator. If the average exceeds 3 minutes, or if you see visitors standing unacknowledged for more than 30 seconds, the ROI case is already made — the rest is procurement.</p>
+<p>For complementary perspective on humanoid robots in customer-facing environments, read our guide on <a href="/blog/humanoid-service-robots-retail-business-2026">Humanoid Service Robots in Retail</a>. For the underlying navigation technology, see <a href="/blog/robot-navigation-slam-2026">How SLAM Navigation Works in Service Robots</a>. And if your building also manages common-area cleaning, <a href="/products/cleinbot-m79">CLEINBOT autonomous cleaning robots</a> handle corridors, lobbies, and restrooms during off-hours — creating a fully automated lobby operation when deployed alongside a reception robot.</p>
+<hr>
+<p><em>This guide draws on deployment data from 8 commercial office buildings in China, Q4 2025–Q2 2026, licensed under property management confidentiality agreements. Individual building results vary based on visitor volume, tenant configuration, and access system integration complexity. Contact our solutions team for a custom deployment assessment.</em></p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Reception & Concierge Robots for Corporate Lobbies — The 2026 Buyer's Guide\",\"description\":\"How AI-powered reception robots transform corporate lobby operations — from visitor management and multi-tenant check-in to security integration and after-hours coverage. Covers CRUZR deployment benchmarks, multi-language capabilities, elevator integration, and ROI data for office building operators, facility managers, and corporate real estate teams evaluating lobby automation in 2026.\",\"image\":\"https://aomanbot.com/blog-images/reception-concierge-robots-corporate-lobbies-2026/cover.webp\",\"datePublished\":\"2026-07-17\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/reception-concierge-robots-corporate-lobbies-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Corporate"}],["$","span",null,{"children":"2026-07-17"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Reception & Concierge Robots for Corporate Lobbies — The 2026 Buyer's Guide"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/reception-concierge-robots-corporate-lobbies-2026/cover.webp","alt":"Reception & Concierge Robots for Corporate Lobbies — The 2026 Buyer's Guide","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/reception-concierge-robots-corporate-lobbies-2026/diagram.webp","alt":"Reception & Concierge Robots for Corporate Lobbies — The 2026 Buyer's Guide diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Reception & Concierge Robots for Corporate Lobbies — The 2026 Buyer's Guide | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"How AI-powered reception robots transform corporate lobby operations — from visitor management and multi-tenant check-in to security integration and after-hours coverage. Covers CRUZR deployment benchmarks, multi-language capabilities, elevator integration, and ROI data for office building operators, facility managers, and corporate real estate teams evaluating lobby automation in 2026."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/reception-concierge-robots-corporate-lobbies-2026"}],["$","meta","3",{"property":"og:title","content":"Reception & Concierge Robots for Corporate Lobbies — The 2026 Buyer's Guide"}],["$","meta","4",{"property":"og:description","content":"How AI-powered reception robots transform corporate lobby operations — from visitor management and multi-tenant check-in to security integration and after-hours coverage. Covers CRUZR deployment benchmarks, multi-language capabilities, elevator integration, and ROI data for office building operators, facility managers, and corporate real estate teams evaluating lobby automation in 2026."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/reception-concierge-robots-corporate-lobbies-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/reception-concierge-robots-corporate-lobbies-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Reception & Concierge Robots for Corporate Lobbies — The 2026 Buyer's Guide"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
