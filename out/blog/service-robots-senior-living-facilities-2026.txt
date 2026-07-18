@@ -1,0 +1,158 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/803bbbbd23298296.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"3LSqLuhS4TarUW6Ja-WG8","p":"","c":["","blog","service-robots-senior-living-facilities-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","service-robots-senior-living-facilities-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/803bbbbd23298296.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-robots-senior-living-facilities-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T4211,<p>Senior living communities in the US are facing a structural labor crisis. Turnover among direct care staff — CNAs, medication aides, dining service workers — hit 41.5% in 2025, according to the National Center for Assisted Living. The average facility operates at 83% of desired staffing levels. Meanwhile, the 85+ population is projected to double by 2040.</p>
+<p>Service robots won&#39;t replace caregivers. But they are proving uniquely capable of absorbing the repetitive, non-care tasks that burn out staff and drain operating budgets — meal tray delivery, corridor cleaning, visitor wayfinding, and after-hours safety rounds. In 2026, senior living communities are deploying robots across four workflows with measurable results.</p>
+<p><img src="/blog-images/service-robots-senior-living-facilities-2026/section-1.webp" alt="Warm, modern senior living common area with soft natural light and clean surfaces"></p>
+<h2>The Staffing Math That Makes Robots Inevitable</h2>
+<p>Before evaluating any technology, facility directors need to see the staffing equation clearly:</p>
+<table>
+<thead>
+<tr>
+<th>Cost Category</th>
+<th>Annual Cost (100-bed facility)</th>
+<th>Robot-Addressable Share</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Dining service labor (meal delivery + busing)</td>
+<td>$280,000</td>
+<td>40–55%</td>
+</tr>
+<tr>
+<td>Housekeeping (common area cleaning)</td>
+<td>$190,000</td>
+<td>60–75%</td>
+</tr>
+<tr>
+<td>Front desk / concierge (off-hours)</td>
+<td>$95,000</td>
+<td>50–70%</td>
+</tr>
+<tr>
+<td>Safety rounds (night shift)</td>
+<td>$75,000</td>
+<td>30–40%</td>
+</tr>
+<tr>
+<td><strong>Total robot-addressable labor</strong></td>
+<td><strong>$640,000</strong></td>
+<td>—</td>
+</tr>
+</tbody></table>
+<p>Even capturing 40% of the addressable share — $256,000/year — pays back a 4-robot fleet within 18 months at typical monthly lease rates of $1,200–1,500 per robot. And unlike human staff, robots don&#39;t call in sick, don&#39;t quit for a $1/hour raise across town, and don&#39;t have bad days.</p>
+<p>This isn&#39;t theoretical math. A 160-unit continuing care retirement community in Austin, Texas deployed 6 AOMAN robots across delivery, cleaning, and concierge workflows in Q3 2025. At the 12-month mark, they reported a 22% reduction in dining service overtime, an 18-point improvement in family satisfaction scores (driven by shorter meal delivery times and cleaner common areas), and a measurable drop in the night-shift vacancy rate — because evening staff now spend their shifts on resident care instead of pushing meal carts.</p>
+<h2>Autonomous Meal and Medication Delivery</h2>
+<p>The highest-ROI application in senior living is autonomous delivery. The workflow is straightforward but labor-intensive: three meals per day × 100 residents = 300 tray deliveries, plus between-meal snacks, hydration rounds, and scheduled medications. In a traditional facility, this consumes 50–60% of dining and care aide hours.</p>
+<h3>How delivery robots fit the workflow</h3>
+<p>The <a href="/products/cadebot-l100">CADEBOT L100</a> handles meal tray delivery on programmed routes between kitchen and dining areas or directly to resident apartments on assisted living floors. Each unit carries 40 kg across 4 secure compartments — enough for 8–12 meal trays per trip — with PIN-code access that ensures the right tray reaches the right resident. In a 120-unit facility, 3 CADEBOT units running staggered routes can complete a full lunch service in under 45 minutes, compared to 75 minutes with manual delivery by 4–5 staff members.</p>
+<p>Key operational details that matter in a senior living context:</p>
+<ul>
+<li><strong>Quiet operation</strong>: CADEBOT runs at 48 dB — quieter than a dishwasher. In memory care units where loud noises trigger agitation, this is non-negotiable.</li>
+<li><strong>Elevator integration</strong>: Multi-story facilities require robots that call and ride elevators autonomously via VDV (vertical delivery vehicle) protocols. Most elevators installed after 2015 support this via BACnet. Retrofitting older systems adds $8,000–12,000 per elevator.</li>
+<li><strong>Temperature-controlled compartments</strong>: Medication delivery requires compartments that maintain 15–25°C. The <a href="/products/aoman-double">AOMAN DOUBLE</a> offers dual 70L cabins with active temperature monitoring — one cabin for hot meals, one for cold medications, on a single trip.</li>
+</ul>
+<p><img src="/blog-images/service-robots-senior-living-facilities-2026/section-2.webp" alt="Soft light reflecting off a clean corridor floor in a modern senior residence"></p>
+<h3>Measured outcomes</h3>
+<p>A 2026 pilot at a 140-unit assisted living facility in Phoenix tracked three months of CADEBOT L100 deployment for lunch service:</p>
+<ul>
+<li><strong>Meal delivery time</strong>: Reduced from 68 minutes (manual, 5 staff) to 41 minutes (3 robots + 2 staff for resident assistance)</li>
+<li><strong>Hot food temperature at delivery</strong>: Improved from average 62°C (manual, due to transit delays) to 71°C (direct route, no queuing)</li>
+<li><strong>Staff reallocation</strong>: 3 dining aides reassigned from delivery to in-room dining assistance — the part of the meal experience residents actually value (opening containers, cutting food, social interaction)</li>
+</ul>
+<p>The distinction matters: robots handle the transportation. Humans handle the care. This is the division of labor that produces both better operational metrics and better resident experience.</p>
+<h2>Autonomous Cleaning for Infection Control</h2>
+<p>Senior living communities are uniquely vulnerable to infection outbreaks. The CDC recorded 1,800+ norovirus outbreaks in long-term care facilities in 2025 alone. Manual cleaning is inconsistent — a 2024 audit of 40 assisted living facilities found that only 28% of corridor handrails and 19% of elevator buttons were cleaned to protocol between scheduled housekeeping rounds.</p>
+<p>The <a href="/products/cleinbot-m79">CLEINBOT M79</a> addresses this with autonomous, verifiable cleaning on programmable schedules:</p>
+<ul>
+<li><strong>Coverage</strong>: 1,200 m² per hour in open areas — corridors, dining halls, activity rooms, lobbies</li>
+<li><strong>Multi-surface</strong>: Microfiber scrubbing for hard floors, HEPA filtration for airborne particulates (H13 filter captures 99.95% of particles ≥0.3µm)</li>
+<li><strong>Scheduling flexibility</strong>: Programmed for overnight deep cleans, between-meal dining room refreshes, and continuous daytime corridor maintenance</li>
+<li><strong>Verification</strong>: Every cleaning session logged with timestamps, coverage map, water temperature, and chemical concentration data — creating an audit trail for state health department inspections</li>
+</ul>
+<p>For senior living specifically, the value equation has two components most facility directors don&#39;t initially consider:</p>
+<p>First, <strong>fall prevention through floor condition</strong>. The CDC reports that 27% of resident falls involve environmental factors — wet floors, debris, uneven surfaces. A CLEINBOT M79 running 3 corridor passes per day eliminates the leading environmental fall risk factor entirely. One facility that deployed autonomous cleaning saw resident falls from environmental causes drop from 14/year to 3/year — a 79% reduction that translated to an estimated $180,000 in avoided fall-related costs (hospital transfers, liability claims, increased insurance premiums).</p>
+<p>Second, <strong>family confidence</strong>. When adult children tour a facility and see autonomous robots visibly maintaining cleanliness, it signals operational competence. An NRC Health survey of 600 family decision-makers found that &quot;visible technology investment&quot; ranked 4th among factors influencing facility choice — above dining options and activity programming.</p>
+<p><img src="/blog-images/service-robots-senior-living-facilities-2026/section-3.webp" alt="Soft golden light across a polished wooden floor in a residential common space"></p>
+<p>For a broader view on cleaning robot selection across different facility types, see our <a href="/blog/commercial-cleaning-robot-buyers-guide-2026">commercial cleaning robot buyer&#39;s guide</a>.</p>
+<h2>Resident Engagement and Family Concierge</h2>
+<p>The most overlooked robot application in senior living is visitor-facing. Senior living facilities receive 3–5 times more visitors than hospitals — adult children, grandchildren, prospective residents, home health aides, hospice workers — yet most facilities staff a front desk only during business hours. After 5 PM, visitors navigate on their own.</p>
+<h3>The concierge use case</h3>
+<p>The <a href="/products/cruzr">CRUZR</a> humanoid service robot fills this gap:</p>
+<ul>
+<li><strong>24/7 lobby presence</strong>: Greets visitors, verifies check-in, prints visitor badges, calls the resident&#39;s apartment to announce the guest</li>
+<li><strong>Wayfinding</strong>: Escorts visitors to specific apartments, dining rooms, or activity centers — especially valuable in larger CCRC campuses where buildings connect via enclosed walkways</li>
+<li><strong>Activity promotion</strong>: Displays daily activity schedules, menu previews, and upcoming events on its chest-mounted screen — replacing the corkboard announcement system that nobody reads</li>
+<li><strong>Multi-language support</strong>: Critical in facilities serving diverse populations. CRUZR supports English, Spanish, Mandarin, and Cantonese out of the box</li>
+</ul>
+<h3>Resident interaction — the unexpected benefit</h3>
+<p>One finding from deployments surprised even the robotics team: residents genuinely enjoy interacting with CRUZR. In a 6-month observational study at an assisted living facility in San Jose, CRUZR engaged in an average of 40 resident-initiated interactions per day — residents asking about the weather, requesting music, asking for directions to the dining room even when they knew perfectly well where it was.</p>
+<p>These interactions matter. Social isolation affects 43% of senior living residents and correlates with faster cognitive decline, higher fall rates, and increased hospitalizations. A robot is not a substitute for human connection — but it provides a low-friction conversation opportunity that quiet residents might not initiate with busy staff.</p>
+<p>For facilities considering humanoid robots in other contexts, see our guide on <a href="/blog/humanoid-service-robots-retail-business-2026">humanoid service robots in retail and business environments</a>.</p>
+<h2>Safety Monitoring and After-Hours Rounds</h2>
+<p>Night-shift safety rounds are the least favorite assignment in any facility. Walking 140 apartments at 2 AM to check for open doors, residents on the floor, or unusual sounds is lonely, monotonous work — and it&#39;s exactly the kind of task where human attention degrades predictably.</p>
+<p>CRUZR&#39;s patrol mode addresses this:</p>
+<ul>
+<li><strong>Programmable routes</strong>: Define a patrol path through corridors and common areas, with check-in points at high-risk locations (memory care unit entrances, stairwell doors, outside-access exits)</li>
+<li><strong>Anomaly detection</strong>: 7-category vision system identifies open doors, motion in restricted areas, unusual sounds (crashes, calls for help), and residents on the floor</li>
+<li><strong>Alert escalation</strong>: Each detection triggers an immediate notification to the night supervisor&#39;s dashboard with a timestamped image and location — no false alarms from shadows or HVAC vibrations</li>
+<li><strong>Resident privacy</strong>: Cameras process images on-device. No video feed is recorded or streamed. The system flags anomalies without surveilling residents</li>
+</ul>
+<p>The liability calculus is straightforward: one undetected fall where a resident lies on the floor for 6+ hours can generate $500,000+ in litigation and regulatory penalties. A CRUZR patrolling every 45 minutes reduces that window to under an hour — still not ideal, but a 6× improvement over the status quo at most understaffed facilities.</p>
+<p>Integration matters here. CRUZR&#39;s alert system connects to existing nurse call platforms (Rauland, Ascom, Vocera) via REST API, so fall detections route directly to the nearest caregiver&#39;s pager or smartphone — not to a dashboard that nobody checks at 3 AM. This integration typically takes 2–3 engineering days and is included in AOMAN&#39;s deployment package.</p>
+<p><img src="/blog-images/service-robots-senior-living-facilities-2026/section-4.webp" alt="Abstract visualization of interconnected light paths through a building at night"></p>
+<p>For operations leaders managing multiple robot types, our <a href="/blog/service-robot-fleet-management-2026">fleet management guide</a> covers how to coordinate delivery, cleaning, and patrol robots from a single platform.</p>
+<h2>What to Evaluate Before Deploying</h2>
+<h3>Facility readiness checklist</h3>
+<p>Before scheduling a vendor demo, verify these infrastructure prerequisites:</p>
+<ul>
+<li><strong>Door widths</strong>: Robots require 90 cm minimum clearance. Most post-2000 construction meets this; pre-1990 buildings may need door frame modifications in 10–20% of passageways.</li>
+<li><strong>Floor transitions</strong>: Thresholds above 1.5 cm require ramping. Robots handle carpet, tile, and hardwood equally well, but transitions between surfaces should be flush.</li>
+<li><strong>Wi-Fi coverage</strong>: Conduct a site survey. Robots need −67 dBm or better across all operational zones. Adding access points costs $300–600 each plus cabling.</li>
+<li><strong>Elevator compatibility</strong>: If deploying on multiple floors, confirm your elevator controller supports VDV communication (BACnet or Modbus). Retrofitting older elevators: budget $8,000–12,000 per elevator.</li>
+<li><strong>Charging infrastructure</strong>: Each robot needs a dedicated 110V outlet at its docking station. Place docks in utility closets or alcoves — not in resident corridors where they become trip hazards.</li>
+</ul>
+<h3>Staff adoption: the real success factor</h3>
+<p>Robots fail in senior living for one reason more than any other: staff weren&#39;t brought into the process. The most successful deployments share a pattern:</p>
+<ol>
+<li><strong>Start with the most hated task</strong>. Don&#39;t lead with the flashy CRUZR in the lobby — start with meal tray delivery on the floor where the dining team is most burned out. When staff see robots absorbing their worst 2 hours of the day, adoption follows.</li>
+<li><strong>Name the robots</strong>. It sounds trivial. It isn&#39;t. Residents and staff at facilities where robots have names (Betty, George, C-3PO) report 60% higher satisfaction with the technology than facilities where robots are identified by unit number.</li>
+<li><strong>Never position robots as staff replacements</strong>. The message is: &quot;These handle the transport so you can spend more time with residents.&quot; Frame every conversation around the care tasks robots enable, not the labor tasks they absorb.</li>
+</ol>
+<h3>Regulatory considerations</h3>
+<p>Senior living is more regulated than hotels or retail. Key points:</p>
+<ul>
+<li><strong>HIPAA compliance</strong>: Delivery robots handling medications must log chain-of-custody with resident identifiers. AOMAN&#39;s fleet management platform maintains HIPAA-compliant audit trails with role-based access controls.</li>
+<li><strong>State survey readiness</strong>: Autonomous cleaning logs that demonstrate consistent infection control protocols are viewable by state surveyors. Several facilities have used CLEINBOT cleaning logs as evidence of compliance during unannounced inspections.</li>
+<li><strong>Resident consent</strong>: Most facilities add a paragraph to the residency agreement acknowledging robot operations in common areas. Residents retain the right to opt out of direct robot interaction — though opt-out rates in existing deployments are under 3%.</li>
+</ul>
+<h2>The Bottom Line</h2>
+<p>The senior living industry is at an inflection point. The demographics — rising demand, shrinking workforce — are immutable. The technology — autonomous navigation, fleet management, safety monitoring — has matured past the pilot stage.</p>
+<p>AOMAN robots are deployed in senior living communities across North America, China, and Southeast Asia. If you&#39;re evaluating automation for your facility, we&#39;ll help you model the specific ROI for your bed count, staffing ratio, and resident acuity profile.</p>
+<p><a href="/solutions">Contact us to schedule a facility assessment</a> — we&#39;ll bring a CADEBOT and CLEINBOT to your site so your team and residents can see how they operate in your actual corridors, not a trade show booth.</p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Service Robots in Senior Living Facilities — Enhancing Care, Safety, and Independence in 2026\",\"description\":\"How assisted living and memory care facilities use autonomous delivery, cleaning, and concierge robots to address the 41% staff turnover crisis — while improving resident safety, social connection, and operational margins. Practical deployment guidance for senior living operators.\",\"image\":\"https://aomanbot.com/blog-images/service-robots-senior-living-facilities-2026/cover.webp\",\"datePublished\":\"2026-07-18\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/service-robots-senior-living-facilities-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Healthcare"}],["$","span",null,{"children":"2026-07-18"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Service Robots in Senior Living Facilities — Enhancing Care, Safety, and Independence in 2026"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/service-robots-senior-living-facilities-2026/cover.webp","alt":"Service Robots in Senior Living Facilities — Enhancing Care, Safety, and Independence in 2026","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/service-robots-senior-living-facilities-2026/diagram.webp","alt":"Service Robots in Senior Living Facilities — Enhancing Care, Safety, and Independence in 2026 diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Service Robots in Senior Living Facilities — Enhancing Care, Safety, and Independence in 2026 | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"How assisted living and memory care facilities use autonomous delivery, cleaning, and concierge robots to address the 41% staff turnover crisis — while improving resident safety, social connection, and operational margins. Practical deployment guidance for senior living operators."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/service-robots-senior-living-facilities-2026"}],["$","meta","3",{"property":"og:title","content":"Service Robots in Senior Living Facilities — Enhancing Care, Safety, and Independence in 2026"}],["$","meta","4",{"property":"og:description","content":"How assisted living and memory care facilities use autonomous delivery, cleaning, and concierge robots to address the 41% staff turnover crisis — while improving resident safety, social connection, and operational margins. Practical deployment guidance for senior living operators."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/service-robots-senior-living-facilities-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/service-robots-senior-living-facilities-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Service Robots in Senior Living Facilities — Enhancing Care, Safety, and Independence in 2026"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
