@@ -1,0 +1,188 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/803bbbbd23298296.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"orQMrhbHLmBdBEWPO8RIz","p":"","c":["","blog","service-robots-airports-transportation-hubs-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","service-robots-airports-transportation-hubs-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/803bbbbd23298296.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-robots-airports-transportation-hubs-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T3d1e,<p>Global air passenger traffic reached 9.5 billion in 2025, surpassing pre-pandemic levels by 4%. Over the same period, airport ground staff headcount has declined 18% across major hubs — retirements, competitive labor markets, and the simple reality that cleaning 200,000 square meters of terminal flooring at 3 AM is not a job people line up for. Airport service robots have moved from pilot curiosity to operational necessity.</p>
+<p>Three forces are converging: 24/7 terminal operations with no downtime windows for manual cleaning, passenger expectations that now include contactless interactions, and the economic pressure to maintain service quality with fewer staff. The airports that deployed robots early — Singapore Changi T4, Incheon T2, Hamad International — are now operating at scale. The lesson from their experience is clear: the technology works. The challenge is getting the deployment architecture right.</p>
+<h2>Three Robot Categories Transforming Airport Operations</h2>
+<p>Airports are effectively small cities with unique constraints — security zones, passenger flow peaks, baggage logistics, and surfaces that must remain pristine at all hours. Three robot types address distinct operational layers:</p>
+<h3>Autonomous Cleaning: 200,000 sq m Per Shift</h3>
+<p>Terminal floors endure 50,000–100,000 passenger footsteps per day. Each footprint deposits approximately 0.5 grams of particulate — dust, rubber, food residue, and moisture — that accumulates into visible grime within hours. Manual cleaning crews can&#39;t keep pace during operating hours, and overnight windows are shrinking as red-eye flights increase.</p>
+<p>The <a href="/products/cleinbot-cc201">CLEINBOT CC201</a> handles 3,000 sq m per hour — roughly the floor area of a mid-size terminal concourse every 65 minutes. Its 7-sensor array detects spill hazards in real time: coffee near Gate 23 triggers immediate spot-cleaning within 90 seconds of detection, while routine dust on concourse walkways gets deferred to scheduled passes. For indoor terminal areas — check-in halls, baggage claim, departure lounges — the <a href="/products/cleinbot-m79">CLEINBOT M79</a> scrubs 1,200 sq m per hour. The C2 Pro variant handles tight spaces: retail corridors, restroom approaches, and elevator lobbies.</p>
+<p>For context on how autonomous cleaning performs in demanding environments, see our guide on <a href="/blog/outdoor-autonomous-cleaning-robots-2026">outdoor autonomous cleaning robots for large-scale facilities</a>.</p>
+<p><img src="/blog-images/service-robots-airports-transportation-hubs-2026/section-1.webp" alt="Polished airport terminal floor with overhead light reflections creating clean abstract patterns"></p>
+<h3>Delivery &amp; Logistics: From Baggage Handling to Gate-Side Food Service</h3>
+<p>Behind every smooth passenger experience is a frantic logistics operation. Gate-side meal delivery for crew, retail restocking across dozens of duty-free outlets, lost baggage routing to the correct carousel, and documents moving between operations offices — all happening simultaneously across terminals that can span 2 kilometers end to end.</p>
+<p>The <a href="/products/cadebot-l100">CADEBOT L100</a> carries 40 kg per trip with no fixed infrastructure. Its SLAM 3.0 navigation maps a new terminal section in under 2 hours and adapts instantly when temporary barriers or passenger crowds block a route. Airport deployment data from Asian hub operators shows 4 CADEBOT units replacing 2.5 FTE of manual cart-pushing labor per shift — with zero sick days and no overtime.</p>
+<p>For higher-volume routes — catering deliveries, baggage support during irregular operations, duty-free warehouse-to-shop replenishment — the <a href="/products/aoman-double">AOMAN DOUBLE</a> handles 70L dual-cabin payloads, combining outbound delivery and return logistics in a single trip. This cuts empty-return mileage to near zero.</p>
+<p><strong>Benchmark data</strong>: A Southeast Asian international airport deployed 8 CADEBOT L100 units for retail logistics across T3. Results at 6 months: stockout incidents down 73%, retail staff walking distance reduced 7.2 km per person per shift, and on-time gate catering delivery improved from 89% to 97%.</p>
+<p>For a deeper dive on choosing the right delivery robot, read our <a href="/blog/delivery-robot-selection-guide-2026">delivery robot selection guide</a>.</p>
+<p><img src="/blog-images/service-robots-airports-transportation-hubs-2026/section-2.webp" alt="Abstract light trails representing autonomous delivery paths through terminal architecture"></p>
+<h3>Passenger Service &amp; Wayfinding: The Humanoid Front Line</h3>
+<p>Navigation is the number one passenger pain point in large airports. Digital signage helps, but static displays can&#39;t answer follow-up questions. Gate changes, flight delays, and &quot;where&#39;s the nearest lounge with showers?&quot; require real-time, multilingual interaction that stretches staff thin during peak hours.</p>
+<p>The <a href="/products/cruzr">CRUZR</a> humanoid service robot handles these interactions at scale. Deployed at check-in zones, security exits, and concourse junctions, CRUZR provides:</p>
+<ul>
+<li><strong>Gate directions with real-time FIDS integration</strong>: Passenger scans boarding pass, CRUZR displays the correct gate with walking time estimate — factoring in current security queue lengths</li>
+<li><strong>Multilingual support</strong>: English, Mandarin, Japanese, Korean, Arabic, and 8 additional languages — critical for hubs where 40%+ of passengers don&#39;t speak the local language</li>
+<li><strong>Retail and amenity guidance</strong>: &quot;Where&#39;s the nearest pharmacy?&quot; → CRUZR maps the route and displays operating hours</li>
+</ul>
+<p>Incheon T2 reported that 2 CRUZR units at post-security junctions handled 1,200 passenger interactions per day, reducing information desk queue wait times by 34%.</p>
+<p>For more on deploying passenger-facing robots in commercial spaces, see our <a href="/blog/reception-concierge-robots-corporate-lobbies-2026">reception and concierge robots guide</a>.</p>
+<h2>Airport-Specific Deployment Requirements</h2>
+<p>Airports aren&#39;t just large buildings. They&#39;re regulated environments with security perimeters that don&#39;t exist in warehouses or shopping malls. Three deployment considerations are airport-specific:</p>
+<p><strong>Security Zone Boundaries</strong>: The line between landside (pre-security) and airside (post-security) is a hard boundary for robot navigation. Robots must never cross it unescorted, and fleet management software must enforce geofencing at the pixel level. AOMAN&#39;s fleet manager supports polygon-based exclusion zones that update in real-time if security boundaries shift — as they do during terminal construction or emergency protocols.</p>
+<p><strong>Elevator and Automatic Door Integration</strong>: A delivery robot that can&#39;t call an elevator is useless in a multi-level terminal. CADEBOT and AOMAN DOUBLE integrate with standard elevator control protocols (BACnet, Modbus) via the building&#39;s IoT gateway, enabling autonomous floor-to-floor movement without human escorts. Automatic door interfaces use standard RF triggers — the same protocol that opens doors for wheelchair users.</p>
+<p><strong>Public Network Reliability</strong>: Airport Wi-Fi is notoriously congested during peak hours. Service robots don&#39;t require continuous cloud connectivity for safety-critical functions — navigation and obstacle avoidance run on-device via SLAM 3.0. Cloud sync for fleet reporting and task dispatch uses 4G/5G cellular as primary with Wi-Fi fallback, ensuring a maintenance robot mid-scrub doesn&#39;t stop because a passenger is streaming 4K video nearby.</p>
+<p>For the underlying navigation technology that makes this possible, see our deep dive on <a href="/blog/robot-navigation-slam-2026">robot navigation and SLAM technology</a>.</p>
+<p><img src="/blog-images/service-robots-airports-transportation-hubs-2026/section-3.webp" alt="Abstract architectural perspective of terminal ceiling with geometric light patterns"></p>
+<h2>Fleet Orchestration: Managing Robots Across Multiple Terminals</h2>
+<p>A single-terminal pilot with 4 robots is straightforward. A full-airport deployment with 20+ robots of three different types — cleaning, delivery, and service — across multiple terminals is an orchestration problem.</p>
+<p>The fleet management layer handles:</p>
+<table>
+<thead>
+<tr>
+<th>Function</th>
+<th>Without Orchestration</th>
+<th>With Centralized Fleet Manager</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Task dispatch</td>
+<td>Manual per-robot scheduling</td>
+<td>Automated based on real-time demand signals</td>
+</tr>
+<tr>
+<td>Peak-hour routing</td>
+<td>Robots queue at choke points</td>
+<td>Dynamic rerouting to avoid congestion</td>
+</tr>
+<tr>
+<td>Charging rotation</td>
+<td>Robots idle when depleted</td>
+<td>Predictive charging — robots charge during forecasted low-demand windows</td>
+</tr>
+<tr>
+<td>Cross-type coordination</td>
+<td>Cleaning robot blocks delivery path</td>
+<td>Path reservation prevents conflicts</td>
+</tr>
+<tr>
+<td>Compliance reporting</td>
+<td>Manual log extraction</td>
+<td>Automated audit trails per security zone</td>
+</tr>
+</tbody></table>
+<p>The airport use case amplifies fleet management complexity because demand is highly cyclical: 5 AM–8 AM departure rush followed by a lull, then 4 PM–8 PM evening peak. A properly configured fleet manager pre-positions robots ahead of demand rather than reacting to it — sending cleaning robots to gate areas before the arrival bank and delivery robots to retail zones before the departure wave.</p>
+<p>For the full picture on multi-robot coordination, read our <a href="/blog/service-robot-fleet-management-2026">service robot fleet management guide</a>.</p>
+<h2>ROI Analysis for Airport Deployments</h2>
+<p>Airport operators evaluate automation investments against three metrics: labor cost displacement, service quality improvement, and operational risk reduction. Here&#39;s how service robot deployments stack up:</p>
+<table>
+<thead>
+<tr>
+<th>Deployment Type</th>
+<th align="center">Robot Count</th>
+<th align="right">Annual Labor Savings</th>
+<th align="right">Annual Operating Cost</th>
+<th align="right">Net Annual Savings</th>
+<th align="center">Payback Period</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Terminal cleaning (200K sq m)</td>
+<td align="center">6 CC201 + 4 M79</td>
+<td align="right">$380,000</td>
+<td align="right">$62,000</td>
+<td align="right">$318,000</td>
+<td align="center">14 months</td>
+</tr>
+<tr>
+<td>Retail/gate delivery</td>
+<td align="center">8 CADEBOT L100</td>
+<td align="right">$290,000</td>
+<td align="right">$41,000</td>
+<td align="right">$249,000</td>
+<td align="center">11 months</td>
+</tr>
+<tr>
+<td>Passenger service kiosks</td>
+<td align="center">4 CRUZR</td>
+<td align="right">$195,000</td>
+<td align="right">$28,000</td>
+<td align="right">$167,000</td>
+<td align="center">15 months</td>
+</tr>
+<tr>
+<td><strong>Integrated fleet (all 3)</strong></td>
+<td align="center"><strong>22 robots</strong></td>
+<td align="right"><strong>$865,000</strong></td>
+<td align="right"><strong>$131,000</strong></td>
+<td align="right"><strong>$734,000</strong></td>
+<td align="center"><strong>13 months</strong></td>
+</tr>
+</tbody></table>
+<p>Assumptions: US labor rates at $22/hr fully loaded, 20-hour daily robot utilization, 5-year depreciation. Actual payback accelerates in regions with higher labor costs (Western Europe, Gulf states, Singapore).</p>
+<p>Beyond direct labor savings, airports report 18–25% improvement in passenger satisfaction scores (ASQ) after deploying service robots — attributable to cleaner facilities, faster query resolution, and the perception of a technologically advanced terminal. For a deeper ROI methodology, see our <a href="/blog/service-robot-roi-guide-2026">service robot ROI guide</a>.</p>
+<h2>Safety, Compliance &amp; Public Perception</h2>
+<p>Deploying autonomous machines in spaces with 100,000+ daily occupants demands rigorous safety engineering:</p>
+<ul>
+<li><strong>360° obstacle detection</strong>: All AOMAN robots use LiDAR + depth cameras + ultrasonic sensors with redundant processing — a failure in any single sensor triggers an immediate safe stop within 0.3 seconds</li>
+<li><strong>Emergency protocols</strong>: Robots are programmed to clear pathways immediately when airport fire alarms activate — moving to pre-designated safe zones and remaining stationary</li>
+<li><strong>ADA compliance</strong>: Robot paths avoid blocking accessible routes; CRUZR&#39;s display height and interaction angle accommodate wheelchair users</li>
+<li><strong>Public comfort</strong>: Robots announce their presence with subtle audio cues in crowded areas; speed is automatically reduced to 0.5 m/s in zones with high pedestrian density</li>
+</ul>
+<p>For a complete breakdown of the safety framework, read our <a href="/blog/service-robot-safety-standards-compliance-guide-2026">service robot safety standards and compliance guide</a>.</p>
+<p><img src="/blog-images/service-robots-airports-transportation-hubs-2026/section-4.webp" alt="Soft glowing floor reflections in a vast terminal space with ambient blue light"></p>
+<h2>Implementation Roadmap: First 90 Days</h2>
+<p>Based on deployments across 6 international airports, here&#39;s a phased approach that minimizes operational disruption:</p>
+<p><strong>Days 1–14: Site Assessment</strong></p>
+<ul>
+<li>Map all terminal zones, identify security boundaries, catalog elevator/door interfaces</li>
+<li>Run Wi-Fi and cellular signal surveys along planned robot routes</li>
+<li>Define charging station locations (minimum 1 per 4 robots, within 50m of primary routes)</li>
+</ul>
+<p><strong>Days 15–30: Single-Terminal Pilot</strong></p>
+<ul>
+<li>Deploy 2–4 cleaning robots in one terminal&#39;s post-security area</li>
+<li>Run supervised for first week, then unsupervised with remote monitoring</li>
+<li>Collect utilization, incident, and passenger feedback data</li>
+</ul>
+<p><strong>Days 31–60: Expand to Delivery</strong></p>
+<ul>
+<li>Add 4–6 delivery robots for retail logistics in the same terminal</li>
+<li>Integrate fleet manager to coordinate cleaning + delivery paths</li>
+<li>Begin passenger service robot deployment at 1–2 key junctions</li>
+</ul>
+<p><strong>Days 61–90: Multi-Terminal Rollout</strong></p>
+<ul>
+<li>Expand to second terminal, replicating the cleaning → delivery → service sequence</li>
+<li>Enable cross-terminal fleet orchestration</li>
+<li>Transition to full autonomous operation — human oversight reduced to exception-handling only</li>
+</ul>
+<h2>The Airport of 2028</h2>
+<p>The airports leading on robotics today aren&#39;t just reducing labor costs — they&#39;re building the infrastructure for autonomous operations at scale. The integration layer — fleet management, building system interfaces, security zone enforcement — represents the real competitive moat. Robots are replaceable hardware. The orchestration stack that coordinates 30 autonomous units across 500,000 square meters of regulated space is not.</p>
+<p>For airport operations directors evaluating their first deployment, the recommendation is straightforward: start with cleaning in one terminal, measure for 30 days, then layer in delivery and service robots once the integration architecture is proven. The 13-month average payback on integrated fleets means the financial case closes itself — the operational case is about execution quality.</p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Service Robots in Airports — The Complete Guide to Terminal Automation in 2026\",\"description\":\"How airports deploy autonomous service robots for cleaning, delivery, and passenger service. Covers CADEBOT L100, CLEINBOT CC201, and CRUZR deployment data, security zone integration requirements, fleet orchestration across multiple terminals, and 12-month ROI benchmarks for airport operations directors evaluating terminal automation.\",\"image\":\"https://aomanbot.com/blog-images/service-robots-airports-transportation-hubs-2026/cover.webp\",\"datePublished\":\"2026-07-19\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/service-robots-airports-transportation-hubs-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Transportation"}],["$","span",null,{"children":"2026-07-19"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Service Robots in Airports — The Complete Guide to Terminal Automation in 2026"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/service-robots-airports-transportation-hubs-2026/cover.webp","alt":"Service Robots in Airports — The Complete Guide to Terminal Automation in 2026","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/service-robots-airports-transportation-hubs-2026/diagram.webp","alt":"Service Robots in Airports — The Complete Guide to Terminal Automation in 2026 diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Service Robots in Airports — The Complete Guide to Terminal Automation in 2026 | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"How airports deploy autonomous service robots for cleaning, delivery, and passenger service. Covers CADEBOT L100, CLEINBOT CC201, and CRUZR deployment data, security zone integration requirements, fleet orchestration across multiple terminals, and 12-month ROI benchmarks for airport operations directors evaluating terminal automation."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/service-robots-airports-transportation-hubs-2026"}],["$","meta","3",{"property":"og:title","content":"Service Robots in Airports — The Complete Guide to Terminal Automation in 2026"}],["$","meta","4",{"property":"og:description","content":"How airports deploy autonomous service robots for cleaning, delivery, and passenger service. Covers CADEBOT L100, CLEINBOT CC201, and CRUZR deployment data, security zone integration requirements, fleet orchestration across multiple terminals, and 12-month ROI benchmarks for airport operations directors evaluating terminal automation."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/service-robots-airports-transportation-hubs-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/service-robots-airports-transportation-hubs-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Service Robots in Airports — The Complete Guide to Terminal Automation in 2026"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
