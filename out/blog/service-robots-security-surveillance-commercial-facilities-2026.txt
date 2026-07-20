@@ -1,0 +1,176 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/803bbbbd23298296.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"wAgYRxTK6NXzqLr06Av0m","p":"","c":["","blog","service-robots-security-surveillance-commercial-facilities-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","service-robots-security-surveillance-commercial-facilities-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/803bbbbd23298296.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-robots-security-surveillance-commercial-facilities-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T3d36,<p>A security director managing a 500,000-square-foot corporate campus faces a math problem that doesn&#39;t add up: 168 hours of patrol coverage per week, but a guard shift covers 8 hours and costs $55–85 per hour in North America and €35–55 in Western Europe. The gap between the coverage you need and the coverage you can afford has never been wider — and autonomous security patrol robots are emerging as the bridge.</p>
+<p>This guide is written for procurement professionals and security directors evaluating whether autonomous patrol robots belong in their commercial security stack. It covers the technology, the use cases that actually deliver ROI, the integration requirements, and the procurement checklist that separates capable platforms from marketing demos.</p>
+<p><img src="/blog-images/service-robots-security-surveillance-commercial-facilities-2026/section-1.webp" alt="Abstract visualization of intersecting light beams forming a structured security grid pattern"></p>
+<h2>Why Security Patrol Robots Now</h2>
+<p>Three converging trends make 2026 the inflection point for autonomous security patrol:</p>
+<h3>1. Guard staffing has become structurally expensive</h3>
+<p>Across North America, security guard turnover exceeds 120% annually, according to ASIS International data. Hiring costs average $4,200 per officer, and vacancy rates in major metros run 15–25%. A single post requiring 24/7 coverage needs 4.2 FTE guards to account for shifts, weekends, sick leave, and vacation — an annual cost of $380,000–$650,000 depending on location. Compare that to a patrol robot with a 3-year lease at $3,500–6,000 per month: the robot covers the graveyard shift, weekends, and holidays for roughly 10–15% of the equivalent guard cost.</p>
+<h3>2. SLAM navigation matured past the &quot;escort required&quot; phase</h3>
+<p>Just three years ago, most security robot deployments required a human escort — defeating the cost argument. Today&#39;s robot navigation systems use multi-sensor SLAM (Simultaneous Localization and Mapping) with lidar, stereo cameras, and IMU fusion to achieve autonomous patrol across multi-floor facilities without human intervention. The underlying technology is the same <a href="/blog/robot-navigation-slam-2026">SLAM architecture powering warehouse AMRs</a> — but tuned for security patrol patterns rather than material transport.</p>
+<h3>3. VMS and access control systems now speak the same language</h3>
+<p>Modern Video Management Systems (VMS) from Genetec, Milestone, and Avigilon expose REST APIs that patrol robots can consume. A robot that detects an open door at 2 AM can query the access control system, confirm whether it&#39;s an authorized entry, and escalate only if the event is anomalous — eliminating the 90%+ false alarm rate that plagues motion-triggered camera alerts.</p>
+<p><img src="/blog-images/service-robots-security-surveillance-commercial-facilities-2026/section-2.webp" alt="Abstract golden light trails tracing a patrol path through a dark corridor with reflective surfaces"></p>
+<h2>Core Technologies: What&#39;s Inside a Patrol Robot</h2>
+<p>Procurement teams don&#39;t need to be roboticists, but they do need to know which specifications matter:</p>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>What to Look For</th>
+<th>Why It Matters</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Navigation SLAM</strong></td>
+<td>LiDAR + stereo vision + IMU; ≥20m range; 360° FOV</td>
+<td>Determines whether the robot can patrol autonomously or needs pre-mapped paths that break when furniture moves</td>
+</tr>
+<tr>
+<td><strong>Thermal Imaging</strong></td>
+<td>Radiometric thermal camera; 320×240 minimum resolution; ±2°C accuracy</td>
+<td>Enables the robot to detect overheating equipment, unauthorized human presence in dark areas, and water leaks — use cases that visible-light cameras miss entirely</td>
+</tr>
+<tr>
+<td><strong>PTZ Optical Camera</strong></td>
+<td>30× optical zoom minimum; 1080p/30fps; WDR for backlit areas</td>
+<td>Must read license plates at 30 meters and identify faces at 15 meters; WDR essential for patrolling building perimeters at sunrise/sunset</td>
+</tr>
+<tr>
+<td><strong>Anomaly Detection</strong></td>
+<td>On-device edge AI inference; customizable alert thresholds</td>
+<td>The difference between a useful security tool and an alert-spam generator. Edge processing avoids the latency and bandwidth cost of cloud-only architectures</td>
+</tr>
+<tr>
+<td><strong>Battery &amp; Runtime</strong></td>
+<td>8–12 hours continuous patrol; auto-docking recharge; hot-swappable battery option</td>
+<td>A robot that needs 4 hours of charging per 4 hours of patrol covers 12 hours per day — half the coverage. Auto-dock + hot-swap is the procurement benchmark</td>
+</tr>
+</tbody></table>
+<h2>Where Patrol Robots Deliver ROI</h2>
+<p>Not every facility benefits equally. The ROI curve is steepest where physical patrol involves large areas, repetitive routes, and off-hours coverage:</p>
+<h3>Warehouses and Distribution Centers</h3>
+<p>A 200,000-square-foot distribution center requires guard patrols to walk 12–18 km per shift to cover all aisles and perimeter checkpoints — leaving roughly 8 minutes per checkpoint. A patrol robot covers the same route 3–4 times more frequently, captures 1080p video at every checkpoint, and never gets distracted. Large logistics operators deploying autonomous patrol report a 70–80% reduction in after-hours guard staffing while <em>increasing</em> checkpoint frequency from once per shift to once per hour. For the underlying automation infrastructure, see our analysis of <a href="/blog/warehouse-delivery-robots-guide-2026">autonomous AMR fleets in warehouse environments</a>.</p>
+<h3>Data Centers</h3>
+<p>Data centers present a unique security profile: no public access, few personnel after hours, but extreme consequence for any breach. The average Tier III data center spends $1.2M annually on physical security staffing. Patrol robots equipped with thermal cameras add a capability human guards physically cannot provide: detecting a 2°C hotspot on a server rack before it becomes a $500,000 outage. Thermal patrol routes, executed every 60–90 minutes, turn the robot into a combined security + predictive maintenance asset.</p>
+<h3>Corporate Campuses</h3>
+<p>Multi-building corporate campuses with parking structures, landscaped perimeters, and connected lobbies create patrol routes that take 45–90 minutes on foot. A single patrol robot covering the exterior perimeter and parking structures from 18:00–06:00 replaces 1.5 FTE night guards. When integrated with the site&#39;s reception and access workflow — see our guide on <a href="/blog/reception-concierge-robots-corporate-lobbies-2026">reception and concierge robot deployments</a> — the patrol unit and lobby robot share a unified security dashboard.</p>
+<h3>Parking Structures</h3>
+<p>Parking garages are the highest-liability asset on most commercial properties — poorly lit, structurally repetitive, and statistically the location of 10–15% of workplace violent incidents according to OSHA data. A patrol robot with 360° cameras, license plate recognition, and two-way audio provides continuous documented presence at a cost of roughly $10–15 per hour (amortized over a 3-year lease) versus $55–85 for a human guard.</p>
+<p><img src="/blog-images/service-robots-security-surveillance-commercial-facilities-2026/section-3.webp" alt="Abstract blue and silver geometric patterns suggesting data streams converging on a monitoring hub"></p>
+<h2>Integration Requirements: The Checklist That Separates Pilots from Production</h2>
+<p>The most common failure mode in security robot deployments is not the robot hardware — it&#39;s integration. A robot that generates alerts in its own standalone app, disconnected from the security operations center (SOC) workflow, adds noise rather than value. Before evaluating any platform, confirm these five integration points:</p>
+<h3>1. VMS Integration</h3>
+<p>The patrol robot must push video and alert metadata into your existing VMS, not a separate dashboard. Ask the vendor: &quot;Can you stream an RTSP feed directly into Genetec Security Center / Milestone XProtect / Avigilon ACC?&quot; If the answer involves a separate browser tab, the robot creates a second monitoring surface — exactly what an understaffed SOC does not need.</p>
+<h3>2. Access Control System (ACS) Correlation</h3>
+<p>When the robot detects an open door at an unusual hour, it should query the ACS via REST API to determine whether the door was opened with an authorized credential. If yes — log and continue patrol. If no — escalate with video clip to the SOC. Without ACS correlation, every door a janitor opens at 3 AM becomes a false alarm.</p>
+<h3>3. Centralized Alert Management</h3>
+<p>Robot-generated alerts must flow into the same queue as camera motion alerts, access control violations, and fire panel events. Look for platforms that support SMTP alerts, Syslog forwarding, or direct API integration with PSIM (Physical Security Information Management) platforms.</p>
+<h3>4. Fleet-Wide Patrol Scheduling</h3>
+<p>If you deploy three patrol robots across two buildings, you need centralized scheduling — not three separate apps. Our guide on <a href="/blog/service-robot-fleet-management-2026">service robot fleet management systems</a> covers the orchestration layer that applies to security fleets as well as logistics ones.</p>
+<h3>5. Compliance-Ready Audit Trails</h3>
+<p>Every patrol checkpoint, every anomaly detected, and every escalated alert must be timestamped, geotagged within the facility map, and exportable. This is not optional — it&#39;s what your insurer and your legal counsel will ask for after an incident. See our <a href="/blog/service-robot-safety-standards-compliance-guide-2026">safety standards and compliance guide</a> for the regulatory framework that applies.</p>
+<p><img src="/blog-images/service-robots-security-surveillance-commercial-facilities-2026/section-4.webp" alt="Abstract pattern of concentric light rings radiating from a central point on a dark surface"></p>
+<h2>Total Cost of Ownership: Robot Patrol vs Human Guard</h2>
+<p>Here is the procurement math for a single post requiring 24/7 coverage over three years:</p>
+<table>
+<thead>
+<tr>
+<th>Cost Category</th>
+<th>4.2 FTE Guards (3-Year)</th>
+<th>Patrol Robot (3-Year Lease)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Personnel (salary + benefits + OT)</td>
+<td>$1,140,000–$1,950,000</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Training &amp; Certification</td>
+<td>$17,000–$25,000</td>
+<td>$3,000 (one-time operator training)</td>
+</tr>
+<tr>
+<td>Equipment (uniforms, radios, vehicle)</td>
+<td>$45,000–$90,000</td>
+<td>Lease included</td>
+</tr>
+<tr>
+<td>Robot Lease (1 unit, 3-year)</td>
+<td>N/A</td>
+<td>$126,000–$216,000</td>
+</tr>
+<tr>
+<td>Software &amp; Integration</td>
+<td>$12,000–$24,000 (VMS licenses)</td>
+<td>$18,000–$36,000</td>
+</tr>
+<tr>
+<td>Maintenance &amp; Support</td>
+<td>N/A</td>
+<td>$15,000–$27,000</td>
+</tr>
+<tr>
+<td><strong>3-Year Total</strong></td>
+<td><strong>$1,214,000–$2,089,000</strong></td>
+<td><strong>$162,000–$282,000</strong></td>
+</tr>
+</tbody></table>
+<p>The robot doesn&#39;t eliminate guards — it changes their role. Guards shift from walking repetitive patrol routes to responding to verified alerts, manning the SOC console, and handling situations that require human judgment. The typical outcome: 60–75% reduction in guard headcount for patrol functions, with remaining guards redeployed to higher-value tasks. For a deeper analysis of long-term ownership costs, see our <a href="/blog/service-robot-maintenance-tco-guide-2026">maintenance and TCO guide</a>.</p>
+<h2>10-Point Procurement Checklist</h2>
+<p>Before signing a purchase order, verify these ten items with written confirmation from the vendor:</p>
+<ol>
+<li><strong>Autonomous navigation validated in your facility type</strong> — request a reference deployment in a similar environment (warehouse, data center, campus, parking), not a demo in the vendor&#39;s office</li>
+<li><strong>Thermal camera specifications</strong> — radiometric, not just visual-spectrum IR; minimum 320×240 resolution</li>
+<li><strong>VMS integration tested</strong> — require a live demo of RTSP feed ingestion into your specific VMS platform, not a screen-share of the vendor&#39;s app</li>
+<li><strong>ACS API integration documented</strong> — request the API documentation for access control correlation and verify it supports your ACS vendor (Lenel, Honeywell, Genetec, etc.)</li>
+<li><strong>Alert filtering demonstrated</strong> — ask the vendor to replay 8 hours of patrol data and show the false-alarm-to-real-alert ratio</li>
+<li><strong>Auto-docking and self-charging</strong> — confirm the robot returns to dock autonomously below 15% battery and resumes patrol at 90% without human intervention</li>
+<li><strong>Indoor/outdoor transition capability</strong> — if your patrol route crosses building thresholds, verify that the robot&#39;s navigation handles the lighting change, threshold bump, and GPS-to-indoor-localization handoff</li>
+<li><strong>Cybersecurity certification</strong> — require SOC 2 Type II or ISO 27001 for the fleet management platform; the robot is a network-connected camera and microphone on wheels</li>
+<li><strong>Service-level agreement (SLA)</strong> — 4-hour remote response, 24-hour on-site for critical failures; verify that the vendor has a service presence in your geography</li>
+<li><strong>Total cost transparency</strong> — the proposal must break out hardware lease, software licensing, integration fees, maintenance, and any per-robot or per-building surcharges in a single line-item table</li>
+</ol>
+<p><img src="/blog-images/service-robots-security-surveillance-commercial-facilities-2026/section-5.webp" alt="Abstract visualization of a structured path made of light crossing through an architectural space"></p>
+<h2>The Implementation Timeline</h2>
+<p>A security robot deployment does not happen in a week. Realistic timeline for a single-facility deployment:</p>
+<ul>
+<li><strong>Weeks 1–2</strong>: Site survey, floor plan digitization, WiFi coverage audit, VMS/ACS integration scoping</li>
+<li><strong>Weeks 3–4</strong>: Robot mapping run (the robot is walked through the facility to build its SLAM map), patrol route configuration, alert rule definition</li>
+<li><strong>Weeks 5–6</strong>: Supervised autonomous patrol (robot operates autonomously but with a human monitor on standby), false alarm tuning, integration testing</li>
+<li><strong>Week 7</strong>: Go-live with 24/7 autonomous operation, first-week hypercare support</li>
+<li><strong>Month 2–3</strong>: Patrol route optimization, alert threshold refinement, integration of additional data sources (badge reader logs, environmental sensors)</li>
+<li><strong>Month 6</strong>: Full ROI review — compare actual guard hour reduction, incident detection rates, and false alarm volume against pre-deployment baseline</li>
+</ul>
+<p>The single most important success factor is executive sponsorship from the security director — not just the facilities or IT team. When the security operations center (SOC) owns the deployment, integration compliance happens. When IT drives it, the robot becomes another orphaned IoT device.</p>
+<hr>
+<p><em>Ready to evaluate autonomous patrol for your facility? <a href="/solutions">Contact our solutions team</a> to schedule a site assessment and reference call with a deployed security robot operator in your industry.</em></p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Autonomous Security Patrol Robots — The 2026 Buyer's Guide for Commercial Facilities | AOMAN FUTURE\",\"description\":\"Complete procurement guide to autonomous security patrol robots for commercial facilities. Covers SLAM-based navigation, thermal anomaly detection, CCTV/VMS integration, 24/7 patrol vs human guard cost comparison, and a 10-point evaluation checklist for security directors and facility managers.\",\"image\":\"https://aomanbot.com/images/home/cadebot-l100.webp\",\"datePublished\":\"2026-07-19\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/service-robots-security-surveillance-commercial-facilities-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Security"}],["$","span",null,{"children":"2026-07-19"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Autonomous Security Patrol Robots — The 2026 Buyer's Guide for Commercial Facilities | AOMAN FUTURE"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/images/home/cadebot-l100.webp","alt":"Autonomous Security Patrol Robots — The 2026 Buyer's Guide for Commercial Facilities | AOMAN FUTURE","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/service-robots-security-surveillance-commercial-facilities-2026/diagram.webp","alt":"Autonomous Security Patrol Robots — The 2026 Buyer's Guide for Commercial Facilities | AOMAN FUTURE diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Autonomous Security Patrol Robots — The 2026 Buyer's Guide for Commercial Facilities | AOMAN FUTURE | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"Complete procurement guide to autonomous security patrol robots for commercial facilities. Covers SLAM-based navigation, thermal anomaly detection, CCTV/VMS integration, 24/7 patrol vs human guard cost comparison, and a 10-point evaluation checklist for security directors and facility managers."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/service-robots-security-surveillance-commercial-facilities-2026"}],["$","meta","3",{"property":"og:title","content":"Autonomous Security Patrol Robots — The 2026 Buyer's Guide for Commercial Facilities | AOMAN FUTURE"}],["$","meta","4",{"property":"og:description","content":"Complete procurement guide to autonomous security patrol robots for commercial facilities. Covers SLAM-based navigation, thermal anomaly detection, CCTV/VMS integration, 24/7 patrol vs human guard cost comparison, and a 10-point evaluation checklist for security directors and facility managers."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/service-robots-security-surveillance-commercial-facilities-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/images/home/cadebot-l100.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Autonomous Security Patrol Robots — The 2026 Buyer's Guide for Commercial Facilities | AOMAN FUTURE"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
