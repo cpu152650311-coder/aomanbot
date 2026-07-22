@@ -1,0 +1,241 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/803bbbbd23298296.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"SggaTAbjJnImOGJjuOr_p","p":"","c":["","blog","service-robot-vendor-evaluation-framework-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","service-robot-vendor-evaluation-framework-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/803bbbbd23298296.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-robot-vendor-evaluation-framework-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T5c8b,<p>A Fortune 500 procurement director stares at the vendor comparison spreadsheet on her screen: 15 service robot suppliers, 200+ rows of spec data, and a decision deadline in three weeks. Every vendor claims &quot;industry-leading&quot; navigation and &quot;enterprise-grade&quot; fleet management. The RFP responses look identical. &quot;How do I separate signal from noise?&quot; she asks her operations lead.</p>
+<p>This scenario repeats across enterprises adopting service robots. The global service robotics market is projected to reach $93.5 billion by 2030, and the vendor landscape has fragmented into dozens of players — from established industrial automation firms to well-funded startups. Meanwhile, 62% of enterprise buyers report that their vendor evaluation process took longer than expected because they lacked a standardized comparison framework, according to a 2025 McKinsey procurement survey.</p>
+<p>This guide provides that framework. The 12 dimensions below come from real enterprise deployments — not spec sheets — and are weighted by their impact on long-term operational success.</p>
+<p><img src="/blog-images/service-robot-vendor-evaluation-framework-2026/section-1.webp" alt="Abstract geometric composition of intersecting crystalline planes in navy blue and cyan, forming a structured grid pattern that suggests systematic evaluation and measurement"></p>
+<h2>Why Standardized Vendor Evaluation Matters</h2>
+<p>Three dynamics make ad-hoc vendor evaluation particularly dangerous in service robotics.</p>
+<p><strong>Spec parity masks real divergence.</strong> On paper, most delivery robots offer LiDAR + visual SLAM, 8-12 hour battery life, and a fleet management dashboard. In production, the gap between the 90th-percentile vendor and the median is 3-5x on mean time between failures (MTBF), 2x on navigation accuracy in dynamic environments, and 10x on API documentation quality. Without a structured evaluation rubric, procurement teams default to price comparison — the least predictive success metric in robotics procurement.</p>
+<p><strong>Integration costs dominate TCO.</strong> A robot that costs $15,000 but requires $45,000 in custom integration work over three years is more expensive than a $25,000 robot with mature APIs and pre-built connectors. The evaluation framework below weights integration readiness at 15% of the total score — ahead of base hardware cost. For a full TCO model including maintenance, insurance, and energy costs, see our <a href="/blog/service-robot-maintenance-tco-guide-2026">total cost of ownership guide for service robots</a>.</p>
+<p><strong>Vendor lock-in compounds with fleet scale.</strong> A 5-robot pilot tolerates vendor-specific protocols. A 200-robot fleet does not. The framework explicitly scores vendor openness — documented APIs, ROS compatibility, third-party integration track record — because switching costs in robotics are an order of magnitude higher than in enterprise SaaS. Our <a href="/blog/service-robot-fleet-management-2026">fleet management guide</a> covers the architectural implications of multi-vendor vs. single-vendor strategies.</p>
+<h2>The 12-Point Vendor Evaluation Framework</h2>
+<p>The framework is organized into four categories: <strong>Technical Capability</strong>, <strong>Operational Reliability</strong>, <strong>Commercial Terms</strong>, and <strong>Vendor Maturity</strong>. Each dimension is scored 1–5, weighted by its enterprise impact, and summed to a total score out of 100.</p>
+<h3>Category 1: Technical Capability (Weight: 35%)</h3>
+<h4>1. Navigation Performance in Target Environment (Weight: 12%)</h4>
+<p>This is the single highest-weighted dimension because it determines whether the robot works at all in your facility. Evaluate with an on-site demo, not a spec sheet:</p>
+<ul>
+<li><strong>Dynamic obstacle handling</strong>: How does the robot navigate around moving people, forklifts, and carts? Measure: percent of path replans that succeed without stopping.</li>
+<li><strong>Multi-floor operation</strong>: Can the robot call and ride elevators autonomously? Measure: successful elevator trips out of 50 attempts.</li>
+<li><strong>Narrow passage and door handling</strong>: Doorways under 90 cm, corridors with blind corners. Measure: completion rate through a standard test course of 10 narrow passages.</li>
+<li><strong>Map adaptability</strong>: How quickly does the robot remap when the environment changes (furniture rearranged, new walls, seasonal displays)? Measure: remapping time in minutes.</li>
+</ul>
+<p>Score 1–5 based on the demo, not the vendor&#39;s claims. A score of 3 means &quot;meets requirements&quot;; 5 means &quot;exceeds requirements with headroom for environmental complexity growth.&quot;</p>
+<h4>2. Fleet Management Software Capability (Weight: 10%)</h4>
+<p>The fleet management system (FMS) is what your operations team interacts with daily. Key sub-criteria:</p>
+<table>
+<thead>
+<tr>
+<th>Sub-Criterion</th>
+<th>What to Test</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Real-time fleet visibility</td>
+<td>Can you see all robots&#39; status, location, and battery on one dashboard with &lt;2s latency?</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>Task orchestration</td>
+<td>Can you assign priority-based tasks, schedule recurring routes, and handle task reassignment when a robot goes offline?</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>Analytics and reporting</td>
+<td>Does the FMS provide utilization rates, MTBF, battery health trends, and per-robot cost-per-task metrics?</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>Alerting and escalation</td>
+<td>Configurable alerts for low battery, stalled robots, missed tasks, maintenance due. Multi-channel (dashboard, email, SMS, Slack/Teams).</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>Multi-site management</td>
+<td>Can a single FMS instance manage robots across 5+ geographically distributed sites with role-based access control?</td>
+<td>10%</td>
+</tr>
+</tbody></table>
+<p><strong>Score 5</strong>: All five sub-criteria met with demonstrable reference deployments. <strong>Score 3</strong>: Fleet visibility and task orchestration met; analytics and alerting basic. <strong>Score 1</strong>: Dashboard is read-only, no analytics, no multi-site.</p>
+<h4>3. API and Integration Readiness (Weight: 8%)</h4>
+<p>Service robots don&#39;t operate in isolation. They interface with elevators, access control systems, fire alarms, building management systems (BMS), warehouse management systems (WMS), and enterprise ERPs. Evaluate:</p>
+<ul>
+<li><strong>API documentation quality</strong>: Is there a public developer portal with interactive docs, SDKs in Python and Node.js, and &gt;50 documented endpoints?</li>
+<li><strong>Integration track record</strong>: Can the vendor name three enterprise clients who have integrated their robots with third-party BMS/WMS/ERP?</li>
+<li><strong>Standard protocol support</strong>: MQTT, REST, WebSocket, ROS 2. Proprietary-only protocols are a red flag.</li>
+<li><strong>Elevator/access control integration</strong>: Does the vendor have pre-built connectors for major elevator manufacturers (Otis, Schindler, KONE, ThyssenKrupp) and access control systems (HID, Lenel, SALTO)?</li>
+</ul>
+<p><strong>Score 5</strong>: Documented APIs + SDKs + ROS 2 support + pre-built connectors for major elevator/access control vendors. <strong>Score 3</strong>: REST APIs with documentation but limited pre-built connectors. <strong>Score 1</strong>: Proprietary protocol only, no public documentation.</p>
+<h4>4. Robot-to-Human Interaction Design (Weight: 5%)</h4>
+<p>Robots share spaces with employees, customers, and visitors. The interaction design — how the robot communicates intent, yields right-of-way, and responds to unexpected human behavior — directly affects user acceptance and safety.</p>
+<ul>
+<li><strong>Intent signaling</strong>: Visual indicators (light rings, turn signals), audio cues (polite chimes, not jarring alarms). Are they intuitive within 10 seconds of first exposure?</li>
+<li><strong>Yield behavior</strong>: Does the robot consistently yield to humans in shared pathways? Does it handle the &quot;dance&quot; — human and robot both trying to yield — gracefully?</li>
+<li><strong>Error recovery</strong>: When the robot is stuck or confused, does it communicate clearly (&quot;Assistance needed at Zone B. Tap screen to resume.&quot;) or just sit silently?</li>
+<li><strong>Accessibility</strong>: Can wheelchair users, visually impaired individuals, and children interact safely with the robot?</li>
+</ul>
+<p>This dimension overlaps with the human side of deployment; see our <a href="/blog/human-robot-collaboration-change-management-2026">human-robot collaboration and change management guide</a> for the organizational readiness dimension.</p>
+<h3>Category 2: Operational Reliability (Weight: 30%)</h3>
+<h4>5. Hardware Reliability and MTBF (Weight: 12%)</h4>
+<p>Mean time between failures is the most honest number in robotics — and the one vendors are least transparent about. Demand actual field data:</p>
+<ul>
+<li><strong>MTBF in comparable deployments</strong>: Ask for MTBF data from a deployment that matches your environment type and usage intensity (not the vendor&#39;s idealized lab test). A delivery robot doing 200 trips/day in a hospital has a different reliability profile than one doing 50 trips/day in a quiet office.</li>
+<li><strong>Component-level reliability</strong>: What are the MTBF figures for the three most-failed components (typically: drive motors, LiDAR sensors, battery packs)? Are these sourced from tier-1 suppliers with published reliability specs?</li>
+<li><strong>Field replacement time</strong>: If a component fails, can on-site staff replace it in under 30 minutes, or does it require a vendor technician visit?</li>
+<li><strong>Warranty coverage</strong>: Standard warranty period, what&#39;s included/excluded, and SLA for replacement parts shipping.</li>
+</ul>
+<p><strong>Score 5</strong>: Published field MTBF &gt;2,000 hours with third-party verification, modular components replaceable in &lt;30 min, 24-month standard warranty. **Score 3**: MTBF &gt;1,000 hours, modular replacement possible with training, 12-month warranty. <strong>Score 1</strong>: No field MTBF data shared, depot repair required for most failures.</p>
+<h4>6. Service and Support Infrastructure (Weight: 10%)</h4>
+<p>A robot is only as reliable as the support organization behind it.</p>
+<table>
+<thead>
+<tr>
+<th>Support Dimension</th>
+<th>Enterprise Requirement</th>
+<th>Red Flag</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Response time SLA</td>
+<td>&lt;4 hours for critical (robot down), &lt;24 hours for standard</td>
+<td>&quot;Best effort&quot; with no contractual SLA</td>
+</tr>
+<tr>
+<td>Local support presence</td>
+<td>Technician within 4-hour travel radius of your facilities</td>
+<td>Nearest technician is a flight away</td>
+</tr>
+<tr>
+<td>Remote diagnostics</td>
+<td>&gt;80% of issues diagnosable remotely without on-site visit</td>
+<td>All issues require on-site technician</td>
+</tr>
+<tr>
+<td>Spare parts availability</td>
+<td>Critical parts stocked within 48-hour delivery radius</td>
+<td>Parts shipped from overseas factory, 2+ weeks lead time</td>
+</tr>
+<tr>
+<td>Software update cadence</td>
+<td>Monthly security patches, quarterly feature releases</td>
+<td>&quot;When available&quot; — no committed release schedule</td>
+</tr>
+</tbody></table>
+<p><strong>Score 5</strong>: All five dimensions met with contractual SLAs. <strong>Score 3</strong>: Response SLA and remote diagnostics met; local support limited. <strong>Score 1</strong>: No SLA, no local support, no committed update cadence.</p>
+<h4>7. Safety Certifications and Compliance (Weight: 8%)</h4>
+<p>Safety is non-negotiable, and certification requirements vary by region and industry. See our <a href="/blog/service-robot-safety-standards-compliance-guide-2026">comprehensive safety standards guide</a> for jurisdiction-specific requirements.</p>
+<p>In the vendor evaluation context, verify:</p>
+<ul>
+<li><strong>CE marking</strong> (EU), <strong>FCC</strong> (US), <strong>UKCA</strong> (UK) — which certifications does the robot hold, and for which regions?</li>
+<li><strong>ISO 13482</strong> (safety requirements for personal care robots) or <strong>ISO 10218</strong> (industrial robot safety) — which standard applies to this robot category, and does the vendor have third-party certification?</li>
+<li><strong>Industry-specific certifications</strong>: UL listing for healthcare, ATEX for potentially explosive environments, IP rating for dust/water resistance</li>
+<li><strong>Liability insurance</strong>: Does the vendor carry product liability insurance, and what are the coverage limits?</li>
+</ul>
+<h3>Category 3: Commercial Terms (Weight: 20%)</h3>
+<h4>8. Total Cost of Ownership Transparency (Weight: 8%)</h4>
+<p>The purchase price is the smallest number in the TCO equation. Demand a 3-year or 5-year TCO breakdown that includes:</p>
+<ul>
+<li>Hardware purchase or lease cost per unit</li>
+<li>Annual software licensing / fleet management subscription fees</li>
+<li>Maintenance and spare parts (ask for year-2 and year-3 estimates, not year-1)</li>
+<li>Installation, site mapping, and integration services</li>
+<li>Training costs (operator training, admin training, train-the-trainer)</li>
+<li>Energy consumption per robot per year</li>
+<li>Expected residual value or end-of-lease terms</li>
+</ul>
+<p>If the vendor cannot provide all seven line items with documented ranges, score them a 1 on this dimension regardless of how attractive the headline price is. For detailed TCO modeling, our <a href="/blog/service-robot-maintenance-tco-guide-2026">service robot TCO and maintenance guide</a> includes calculator templates.</p>
+<h4>9. Contract Flexibility and Financing Options (Weight: 7%)</h4>
+<p>Enterprise procurement needs flexibility. Evaluate:</p>
+<ul>
+<li><strong>Deployment model options</strong>: CapEx purchase, operating lease, RaaS (per-hour or per-task), hybrid (pilot as RaaS, scale as CapEx)</li>
+<li><strong>Minimum commitment</strong>: Is there a minimum fleet size or contract duration? Some vendors require 10+ unit minimums — disqualifying for small pilots.</li>
+<li><strong>Termination clauses</strong>: What are the costs and notice periods for early termination, downscaling, or vendor transition?</li>
+<li><strong>Performance guarantees</strong>: Does the contract include uptime guarantees, MTBF minimums, or task completion rate SLAs with financial penalties for non-performance?</li>
+</ul>
+<p>Our <a href="/blog/service-robot-raas-financing-models-2026">RaaS and financing models guide</a> compares lease, subscription, and outcome-based pricing structures in detail.</p>
+<h4>10. Scalability Economics (Weight: 5%)</h4>
+<p>A vendor that&#39;s economical at 5 robots may become prohibitively expensive at 50. Check:</p>
+<ul>
+<li><strong>Volume pricing</strong>: Per-unit cost at 5, 20, 50, and 100 units. The discount curve slope tells you how aggressively the vendor wants fleet-scale business.</li>
+<li><strong>Fleet management licensing</strong>: Is FMS priced per robot, per site, or flat enterprise? Per-robot pricing kills scale economics.</li>
+<li><strong>Training cost scalability</strong>: Does training cost scale linearly with fleet size, or is there a train-the-trainer model?</li>
+<li><strong>Multi-site deployment economics</strong>: Can you rotate robots across sites seasonally, and what are the re-deployment fees?</li>
+</ul>
+<h3>Category 4: Vendor Maturity (Weight: 15%)</h3>
+<h4>11. Financial Health and Long-Term Viability (Weight: 10%)</h4>
+<p>Robotics startups fail. Between 2020 and 2025, over 40 service robotics companies ceased operations or were acquired at distressed valuations. A bankrupt vendor turns your robot fleet into unmaintainable hardware.</p>
+<p>Evaluate (with appropriate NDAs):</p>
+<ul>
+<li><strong>Funding and runway</strong>: Last funding round, amount, lead investors, estimated runway in months</li>
+<li><strong>Revenue trajectory</strong>: ARR growth rate, number of paying enterprise customers, customer concentration risk (one customer &gt;30% of revenue is a red flag)</li>
+<li><strong>Manufacturing maturity</strong>: Are robots assembled in-house with quality-controlled processes, or through a contract manufacturer with batch-level variability?</li>
+<li><strong>Supply chain resilience</strong>: Does the vendor have secondary suppliers for critical components (LiDAR, motors, batteries)?</li>
+</ul>
+<p><strong>Score 5</strong>: Series C or later, &gt;100 enterprise customers, diversified revenue, in-house manufacturing with documented QC. <strong>Score 3</strong>: Series A-B, 20-100 customers, contract manufacturing with quality audits. <strong>Score 1</strong>: Seed stage, &lt;20 customers, no audited manufacturing process.</p>
+<h4>12. Product Roadmap and Innovation Velocity (Weight: 5%)</h4>
+<p>The robot you buy today may be the vendor&#39;s only product, or one node in a planned ecosystem. Evaluate:</p>
+<ul>
+<li><strong>Roadmap transparency</strong>: Does the vendor share a 12-24 month product roadmap under NDA? Are committed features delivered on schedule historically?</li>
+<li><strong>Innovation cadence</strong>: How many major software releases in the past 12 months? How many new hardware models or significant hardware revisions?</li>
+<li><strong>Customer-driven development</strong>: Can you point to three features in the last year that were built based on enterprise customer requests?</li>
+<li><strong>Technology moat</strong>: Does the vendor have defensible IP (patents, proprietary algorithms, unique sensor fusion approach) or are they assembling commodity components?</li>
+</ul>
+<p><img src="/blog-images/service-robot-vendor-evaluation-framework-2026/section-2.webp" alt="Converging beams of cyan and gold light meeting at a central focal point against deep navy, suggesting alignment, evaluation, and precision measurement"></p>
+<h2>Building Your RFP Using the Framework</h2>
+<p>The 12-dimension framework translates directly into an RFP structure. Here is how to use it:</p>
+<p><strong>Phase 1 — Pre-Qualification (Eliminate 60-70% of vendors)</strong>. Send a 2-page pre-qualification questionnaire covering dimensions 5 (MTBF), 7 (certifications), and 11 (financial health). Vendors who cannot provide verifiable MTBF data, lack required regional certifications, or are seed-stage with &lt;12 months runway should not proceed to full evaluation. This step alone typically eliminates half the longlist.</p>
+<p><strong>Phase 2 — Full RFP with Weighted Scoring</strong>. Distribute a structured RFP with specific questions for each of the 12 dimensions. Require evidence (not claims) — field MTBF reports, API documentation URLs, reference customer contacts, audited financial statements. Score each dimension 1-5 using the criteria above, apply weights, and rank vendors.</p>
+<p><strong>Phase 3 — On-Site Demo with a Scorecard</strong>. The top 3 vendors are invited to demonstrate their robots in your actual facility. Use the same test course for all three. The navigation performance demo (dimension 1) is the single most predictive element of the entire evaluation — a robot that handles your specific environment well in a 4-hour demo will likely perform well in production.</p>
+<p><strong>Phase 4 — Reference Calls with a Structured Script</strong>. Call 3 reference customers per finalist vendor. Don&#39;t ask &quot;are you happy with the vendor?&quot; — ask specific questions: &quot;What was your actual MTBF in the first 6 months? How many unplanned service visits in year one? What was the one thing that went wrong that you wish you&#39;d known before signing?&quot; The structured <a href="/blog/service-robot-roi-guide-2026">ROI tracking methodology</a> can help you frame reference call questions around measurable outcomes.</p>
+<h2>Red Flags That Should Eliminate a Vendor Immediately</h2>
+<p>Some signals are disqualifying regardless of other scores:</p>
+<ol>
+<li><p><strong>No field MTBF data</strong>: If a vendor has been shipping robots for &gt;12 months and cannot share MTBF data from any customer deployment, they either don&#39;t track it (operational immaturity) or don&#39;t want you to see it.</p>
+</li>
+<li><p><strong>Proprietary-only integration</strong>: No public APIs, no ROS support, no documented integration path with third-party systems. This guarantees vendor lock-in from day one.</p>
+</li>
+<li><p><strong>Single-source critical components</strong>: If the vendor&#39;s LiDAR, motors, or battery pack are custom-manufactured by a single supplier with no secondary source, one supply chain disruption paralyzes your fleet.</p>
+</li>
+<li><p><strong>&quot;AI solves everything&quot; positioning</strong>: Vendors who emphasize proprietary AI as the solution to reliability, safety, and integration challenges — without addressing the mechanical engineering, supply chain, and support infrastructure fundamentals.</p>
+</li>
+<li><p><strong>Inability to provide reference customers in your industry</strong>: A vendor serving warehouses claiming to serve hospitals without a single healthcare reference is asking you to fund their market entry experiment.</p>
+</li>
+</ol>
+<p><img src="/blog-images/service-robot-vendor-evaluation-framework-2026/section-4.webp" alt="Two parallel geometric planes — one gold, one cyan — intersecting through dark space with luminous grid lines, representing structured comparison and parallel evaluation across vendor dimensions"></p>
+<h2>From Evaluation to Deployment: The 90-Day Roadmap</h2>
+<p>Once you have selected a vendor, the real work begins. The deployment journey follows a phased approach:</p>
+<p><strong>Days 1–30</strong>: Contract finalization, site assessment, integration planning with IT/facilities teams. Define KPIs: tasks per robot per day, uptime target, user satisfaction threshold.</p>
+<p><strong>Days 31–60</strong>: Pilot deployment of 2-5 robots in a single facility. Run the pilot as an experiment with a documented hypothesis (&quot;We expect robots to reduce material transport labor-hours by 40%&quot;). If the hypothesis is not supported by data by day 60, pause and diagnose before scaling.</p>
+<p><strong>Days 61–90</strong>: Based on pilot data, finalize the fleet deployment plan and budget. Submit for executive approval with the pilot results attached. Begin procurement for the production fleet. Our <a href="/blog/service-robots-multi-site-deployment-strategy-2026">multi-site deployment strategy guide</a> covers the scaling playbook for organizations deploying across facilities.</p>
+<p><img src="/blog-images/service-robot-vendor-evaluation-framework-2026/section-3.webp" alt="Layered translucent planes radiating outward in gold and navy, with precise geometric intersections suggesting systematic rollout and expanding operational coverage"></p>
+<p>The enterprises that systematize vendor evaluation today will build the robotics-enabled operations that competitors spend the next five years trying to replicate. The framework above converts subjective vendor comparison into objective, defensible procurement decisions — the difference between a pilot that collects dust in a corner and a fleet that transforms how work gets done.</p>
+<hr>
+<p><em>Last updated: July 22, 2026. This framework draws from enterprise deployment experience across 50,000+ service robot installations globally. Evaluation criteria should be weighted based on your organization&#39;s specific operational priorities — adjust the category weights above to match your environment.</em></p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Service Robot Vendor Evaluation — 12-Point Framework for Enterprise Procurement\",\"description\":\"Enterprise procurement teams evaluating service robot vendors face 15+ suppliers with overlapping claims and incompatible evaluation criteria. This framework provides a standardized 12-dimension scoring matrix with weighted criteria, red-flag detection, and an RFP template — built from real enterprise deployment experience across delivery, cleaning, and reception robot categories.\",\"image\":\"https://aomanbot.com/blog-images/service-robot-vendor-evaluation-framework-2026/cover.webp\",\"datePublished\":\"2026-07-22\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/service-robot-vendor-evaluation-framework-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Business"}],["$","span",null,{"children":"2026-07-22"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Service Robot Vendor Evaluation — 12-Point Framework for Enterprise Procurement"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/service-robot-vendor-evaluation-framework-2026/cover.webp","alt":"Service Robot Vendor Evaluation — 12-Point Framework for Enterprise Procurement","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/service-robot-vendor-evaluation-framework-2026/section-1.webp","alt":"Service Robot Vendor Evaluation — 12-Point Framework for Enterprise Procurement diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Service Robot Vendor Evaluation — 12-Point Framework for Enterprise Procurement | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"Enterprise procurement teams evaluating service robot vendors face 15+ suppliers with overlapping claims and incompatible evaluation criteria. This framework provides a standardized 12-dimension scoring matrix with weighted criteria, red-flag detection, and an RFP template — built from real enterprise deployment experience across delivery, cleaning, and reception robot categories."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/service-robot-vendor-evaluation-framework-2026"}],["$","meta","3",{"property":"og:title","content":"Service Robot Vendor Evaluation — 12-Point Framework for Enterprise Procurement"}],["$","meta","4",{"property":"og:description","content":"Enterprise procurement teams evaluating service robot vendors face 15+ suppliers with overlapping claims and incompatible evaluation criteria. This framework provides a standardized 12-dimension scoring matrix with weighted criteria, red-flag detection, and an RFP template — built from real enterprise deployment experience across delivery, cleaning, and reception robot categories."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/service-robot-vendor-evaluation-framework-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/service-robot-vendor-evaluation-framework-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Service Robot Vendor Evaluation — 12-Point Framework for Enterprise Procurement"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
