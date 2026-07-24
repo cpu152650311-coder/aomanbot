@@ -1,0 +1,328 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/ef2dc40c80c91088.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"02Zvc-_JCBK_ntcxrOmeF","p":"","c":["","blog","service-robot-budget-planning-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","service-robot-budget-planning-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ef2dc40c80c91088.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-robot-budget-planning-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T417,{"@context":"https://schema.org","@type":"BlogPosting","headline":"Service Robot Budget Planning 2026: Real Cost Calculator by Facility Size and Robot Type","description":"Budget planning for service robots is broken in two directions: vendors lowball the upfront numbers by omitting integration, training, and facility modification costs, while internal procurement teams overestimate by treating robots as capital equipment rather than as labor-substitution assets with definable unit economics. This guide provides actual cost ranges, a budget-planning template by facility size, and the line items that separate a realistic budget from a vendor quote.","image":"https://aomanbot.com/images/home/solution-commercial.webp","datePublished":"2026-07-25","author":{"@type":"Organization","name":"AOMAN FUTURE"},"publisher":{"@type":"Organization","name":"AOMAN FUTURE","logo":{"@type":"ImageObject","url":"https://aomanbot.com/logo.webp"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://aomanbot.com/blog/service-robot-budget-planning-2026"}}17:T369c,<p>When a hotel general manager asks &quot;what&#39;s the budget for delivery robots?&quot; the vendor answers &quot;$15,000 per unit.&quot; The actual first-year cost — including deployment, integration, training, facility modifications, software licensing, and the 0.5 FTE of staff time absorbed by robot management — is closer to $28,000-35,000 per unit. The vendor didn&#39;t lie. They answered the question you asked, not the question you meant.</p>
+<p>This gap between quoted price and operationalized cost is the single largest source of budget overruns in service robot deployments. Procurement teams budget against the vendor quote, discover the gap during implementation, and either request supplemental funding (delaying deployment by 4-8 weeks) or reduce scope (deploying fewer units than the operation actually needs, creating a workload imbalance that degrades ROI).</p>
+<p>This guide provides the budget-planning framework used by facility managers who have already navigated this gap — with cost ranges drawn from actual deployments across hotels, hospitals, retail, and corporate campuses in 2025-2026.</p>
+<p><img src="/blog-images/service-robot-budget-planning-2026/section-1.webp" alt="Abstract financial visualization of layered translucent planes intersecting at precise angles against a dark gradient background with warm copper accent highlights"></p>
+<h2>The Budgeting Mistake That Costs 40%: Quoted Price vs. Deployed Cost</h2>
+<p>A service robot budget has seven line items. The vendor quote covers one of them — the hardware. Here is the full budget structure, with actual cost ranges for 2026:</p>
+<h3>Line 1: Hardware (Vendor-Quoted)</h3>
+<table>
+<thead>
+<tr>
+<th>Robot Type</th>
+<th>Unit Cost Range</th>
+<th>Typical Fleet Size</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Delivery robot (single cabin)</td>
+<td>$12,000–$18,000</td>
+<td>3–8 units</td>
+</tr>
+<tr>
+<td>Delivery robot (dual cabin)</td>
+<td>$18,000–$28,000</td>
+<td>2–5 units</td>
+</tr>
+<tr>
+<td>Indoor cleaning robot</td>
+<td>$22,000–$38,000</td>
+<td>2–4 units</td>
+</tr>
+<tr>
+<td>Outdoor cleaning robot</td>
+<td>$28,000–$45,000</td>
+<td>2–6 units</td>
+</tr>
+<tr>
+<td>Humanoid reception robot</td>
+<td>$25,000–$50,000</td>
+<td>1–3 units</td>
+</tr>
+</tbody></table>
+<p>These are 2026 price points for enterprise-grade service robots with industrial components (LIDAR sensors, industrial motors, replaceable batteries). Consumer-grade robots with shorter service lives and limited-duty cycles are cheaper but not comparable for commercial deployment.</p>
+<h3>Line 2: Deployment and Site Mapping ($2,000–$6,000 per site)</h3>
+<p>Every autonomous robot requires SLAM-based mapping of its operational environment. This is not a one-time upload of a floor plan — it is a physical process where the robot is walked through the facility to build a spatial map, identify no-go zones, and calibrate docking/charging stations. For multi-floor deployments, each floor requires separate mapping. The <a href="/blog/robot-navigation-slam-2026">navigation technology guide</a> covers the technical underpinnings — from a budgeting perspective, budget $500-800 per 10,000 sq ft of mapped space.</p>
+<h3>Line 3: Facility Modifications ($1,500–$15,000)</h3>
+<p>Robots interact with physical infrastructure in ways that human workers do not. Common modification costs:</p>
+<ul>
+<li><strong>Automatic door openers</strong>: If the robot traverses fire doors or security doors that lack automated openers, budget $1,200–$2,500 per door for retrofit. This is the single most commonly overlooked facility cost.</li>
+<li><strong>Elevator integration</strong>: For multi-floor deployments, the robot needs to call and ride elevators autonomously. Elevator IoT modules cost $3,000–$8,000 per elevator bank, plus integration labor.</li>
+<li><strong>Charging station electrical work</strong>: Each docking station requires a dedicated 110V/220V outlet within 6 feet of the docking location. If your facility lacks outlets in the designated docking zones, budget $400–$1,200 per station for electrical work.</li>
+<li><strong>Wi-Fi coverage assessment and remediation</strong>: Autonomous robots stream LIDAR and camera data for fleet management. Dead zones cause navigation failures. Budget $800–$2,000 for a site survey, plus any necessary access point additions.</li>
+</ul>
+<p>The <a href="/blog/service-robots-smart-office-buildings-corporate-campuses-2026">smart building integration guide</a> covers how modern facilities are designed for robot compatibility — but most existing facilities require retrofits in at least 2-3 of the above categories.</p>
+<h3>Line 4: Software and Fleet Management Licensing ($1,800–$6,000/year)</h3>
+<p>Fleet management platforms — the software layer that schedules tasks, monitors robot status, and provides analytics — is typically licensed per-robot per-year. Budget $50-120/month per robot for the fleet management layer, plus any integration middleware needed to connect the fleet platform to your facility management system (BMS, CMMS, or work-order system).</p>
+<h3>Line 5: Training and Change Management ($1,500–$5,000)</h3>
+<p>Staff training is not a one-hour vendor webinar. Budget for:</p>
+<ul>
+<li>Initial operator training: 2-4 hours per shift supervisor, plus 1-2 hours per frontline staff member who will interact with robots</li>
+<li>Ongoing training: 4-6 hours/year for new hires and refreshers</li>
+<li>Change management communications: internal announcements, FAQ documents, feedback mechanisms</li>
+</ul>
+<p>The <a href="/blog/human-robot-collaboration-change-management-2026">change management playbook</a> details the soft costs of workforce integration — from a budget perspective, the hard cost is modest ($1,500-5,000) but the operational cost of getting this wrong (staff sabotage, bypass behavior, low utilization) can erase the entire ROI.</p>
+<h3>Line 6: Contingency (15-20% of Lines 1-5)</h3>
+<p>Service robot deployments encounter unexpected costs with near-certainty. Common contingencies that materialize: a docking station needs to be relocated after deployment (the original location turned out to be in a high-traffic blind corner), an additional robot is needed because the pilot-validated throughput doesn&#39;t scale linearly to full deployment, or a software integration with the facility&#39;s legacy access-control system requires custom API development. Budget 15-20% contingency. If you don&#39;t spend it, it drops to the bottom line. If you didn&#39;t budget it and need it, your deployment stalls.</p>
+<h3>Line 7: Annual Recurring Costs (Year 2+)</h3>
+<p>The <a href="/blog/service-robot-maintenance-tco-guide-2026">TCO guide</a> covers lifetime cost modeling in detail. For budget-planning purposes, the key recurring line items are:</p>
+<table>
+<thead>
+<tr>
+<th>Cost Category</th>
+<th>Annual Estimate</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Maintenance contract</td>
+<td>8-12% of hardware cost</td>
+<td>Post-warranty; warranty typically 12-24 months</td>
+</tr>
+<tr>
+<td>Battery replacement</td>
+<td>$400-900/unit</td>
+<td>Every 18-24 months for lithium-ion</td>
+</tr>
+<tr>
+<td>Consumables (cleaning)</td>
+<td>$300-800/unit/year</td>
+<td>Solution, filters, brushes, mop pads</td>
+</tr>
+<tr>
+<td>Software licensing</td>
+<td>$600-1,440/unit/year</td>
+<td>Fleet management platform</td>
+</tr>
+<tr>
+<td>Staff labor (robot management)</td>
+<td>0.3-0.5 FTE per 5 robots</td>
+<td>Filling, emptying, clearing obstructions, basic troubleshooting</td>
+</tr>
+</tbody></table>
+<h2>Budget Scenarios by Facility Size</h2>
+<h3>Small Facility (50,000-150,000 sq ft): 3-5 Robots</h3>
+<p>Typical: A boutique hotel (120 rooms), a single-floor corporate office, a medium-sized supermarket.</p>
+<table>
+<thead>
+<tr>
+<th>Line Item</th>
+<th>Low</th>
+<th>High</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hardware (3 units)</td>
+<td>$36,000</td>
+<td>$75,000</td>
+</tr>
+<tr>
+<td>Deployment + Mapping</td>
+<td>$2,000</td>
+<td>$4,000</td>
+</tr>
+<tr>
+<td>Facility Modifications</td>
+<td>$1,500</td>
+<td>$6,000</td>
+</tr>
+<tr>
+<td>Software Licensing (Year 1)</td>
+<td>$1,800</td>
+<td>$4,000</td>
+</tr>
+<tr>
+<td>Training</td>
+<td>$1,500</td>
+<td>$3,000</td>
+</tr>
+<tr>
+<td>Contingency (15%)</td>
+<td>$6,400</td>
+<td>$13,800</td>
+</tr>
+<tr>
+<td><strong>Year 1 Total</strong></td>
+<td><strong>$49,200</strong></td>
+<td><strong>$105,800</strong></td>
+</tr>
+<tr>
+<td>Annual Recurring (Year 2+)</td>
+<td>$5,000</td>
+<td>$12,000</td>
+</tr>
+</tbody></table>
+<h3>Medium Facility (150,000-500,000 sq ft): 6-12 Robots</h3>
+<p>Typical: A 300-room full-service hotel, a mid-size hospital (200-400 beds), a regional shopping mall.</p>
+<table>
+<thead>
+<tr>
+<th>Line Item</th>
+<th>Low</th>
+<th>High</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hardware (8 units, mixed types)</td>
+<td>$120,000</td>
+<td>$240,000</td>
+</tr>
+<tr>
+<td>Deployment + Mapping</td>
+<td>$4,000</td>
+<td>$8,000</td>
+</tr>
+<tr>
+<td>Facility Modifications</td>
+<td>$5,000</td>
+<td>$15,000</td>
+</tr>
+<tr>
+<td>Software Licensing (Year 1)</td>
+<td>$4,800</td>
+<td>$9,600</td>
+</tr>
+<tr>
+<td>Training</td>
+<td>$3,000</td>
+<td>$5,000</td>
+</tr>
+<tr>
+<td>Contingency (15%)</td>
+<td>$20,500</td>
+<td>$41,600</td>
+</tr>
+<tr>
+<td><strong>Year 1 Total</strong></td>
+<td><strong>$157,300</strong></td>
+<td><strong>$319,200</strong></td>
+</tr>
+<tr>
+<td>Annual Recurring (Year 2+)</td>
+<td>$18,000</td>
+<td>$35,000</td>
+</tr>
+</tbody></table>
+<h3>Large Facility (500,000+ sq ft): 12-25 Robots</h3>
+<p>Typical: A 1,000-room convention hotel, a major hospital (600+ beds), a large corporate campus with multiple buildings.</p>
+<table>
+<thead>
+<tr>
+<th>Line Item</th>
+<th>Low</th>
+<th>High</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hardware (15 units, mixed types)</td>
+<td>$250,000</td>
+<td>$500,000</td>
+</tr>
+<tr>
+<td>Deployment + Mapping</td>
+<td>$8,000</td>
+<td>$15,000</td>
+</tr>
+<tr>
+<td>Facility Modifications</td>
+<td>$10,000</td>
+<td>$30,000</td>
+</tr>
+<tr>
+<td>Software Licensing (Year 1)</td>
+<td>$9,000</td>
+<td>$18,000</td>
+</tr>
+<tr>
+<td>Training</td>
+<td>$5,000</td>
+<td>$8,000</td>
+</tr>
+<tr>
+<td>Contingency (15%)</td>
+<td>$42,300</td>
+<td>$85,700</td>
+</tr>
+<tr>
+<td><strong>Year 1 Total</strong></td>
+<td><strong>$324,300</strong></td>
+<td><strong>$656,700</strong></td>
+</tr>
+<tr>
+<td>Annual Recurring (Year 2+)</td>
+<td>$35,000</td>
+<td>$70,000</td>
+</tr>
+</tbody></table>
+<p>These ranges reflect the variance between facilities that are &quot;robot-ready&quot; (modern construction, good Wi-Fi, automated doors) and those requiring significant retrofitting. The <a href="/blog/service-robot-raas-financing-models-2026">RaaS financing guide</a> covers how to convert these CapEx figures into OpEx subscriptions — which is how most medium and small facilities are acquiring robots in 2026.</p>
+<h2>The Budget Comparison: Robot Labor vs. Human Labor</h2>
+<p>The budget makes sense only when compared to the alternative. At 2026 wage rates in developed markets:</p>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Human Annual Cost (fully loaded)</th>
+<th>Robot Annual Cost (TCO)</th>
+<th>Breakeven</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hotel delivery (1 shift)</td>
+<td>$38,000–$52,000</td>
+<td>$12,000–$16,000</td>
+<td>4-6 months</td>
+</tr>
+<tr>
+<td>Floor cleaning (1 shift, 50K sq ft)</td>
+<td>$42,000–$58,000</td>
+<td>$18,000–$24,000</td>
+<td>6-9 months</td>
+</tr>
+<tr>
+<td>Reception/concierge (1 shift)</td>
+<td>$45,000–$65,000</td>
+<td>$20,000–$28,000</td>
+<td>7-11 months</td>
+</tr>
+</tbody></table>
+<p>Human labor costs include wages, benefits (25-35% burden), training, turnover (hospitality turnover averages 73% annually — each replacement costs $3,000-5,000 in recruiting and training), and the productivity loss during vacancy periods. Robot costs are the fully burdened Year 1 total divided by expected service life (typically 5-7 years for industrial-grade units).</p>
+<p>The <a href="/blog/service-robots-multi-site-deployment-strategy-2026">multi-site deployment guide</a> covers how these economics compound across portfolios — the real budget advantage of service robots is not in single-site savings but in the elimination of variable labor costs across facilities that share the same operational template.</p>
+<h2>Budgeting for the Hidden 0.5 FTE</h2>
+<p>Every service robot deployment absorbs approximately 0.3-0.5 FTE of existing staff time — not for operating the robots, but for managing them. This role (&quot;robot coordinator,&quot; &quot;automation specialist,&quot; or absorbed into an existing facilities supervisor role) handles:</p>
+<ul>
+<li>Morning checkout: verifying all robots are charged, operational, and at their starting positions</li>
+<li>Obstruction clearing: removing items that block robot paths (misplaced carts, delivery boxes, event setup debris)</li>
+<li>Consumable replenishment: filling cleaning solution tanks, replacing mop pads, emptying collection bins</li>
+<li>Basic troubleshooting: resolving the 80% of stoppages that are environmental (blocked path, closed door, poor Wi-Fi) rather than mechanical</li>
+<li>Vendor coordination: scheduling maintenance, applying software updates, logging warranty claims</li>
+</ul>
+<p>Budget for this headcount explicitly. If you absorb it into an existing role without reducing that person&#39;s other responsibilities, you are under-resourcing the deployment. The most common post-deployment complaint — &quot;the robots keep stopping and nobody fixes them&quot; — traces directly to unbudgeted robot-management labor.</p>
+<p>The <a href="/blog/service-robot-fleet-management-2026">fleet management guide</a> covers the software layer that reduces this labor — automated scheduling, remote diagnostics, predictive maintenance alerts — but even with the best fleet management platform, a human still needs to physically clear obstructions and refill consumables. Budget the 0.5 FTE from Day 1, and treat any reduction below that as upside, not baseline.</p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Business"}],["$","span",null,{"children":"2026-07-25"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Service Robot Budget Planning 2026: Real Cost Calculator by Facility Size and Robot Type"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/images/home/solution-commercial.webp","alt":"Service Robot Budget Planning 2026: Real Cost Calculator by Facility Size and Robot Type","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]}]}]}],"$L19"]}]
+1a:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+18:["$","img",null,{"src":"/blog-images/service-robot-budget-planning-2026/section-1.webp","alt":"Service Robot Budget Planning 2026: Real Cost Calculator by Facility Size and Robot Type diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+19:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L1a",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1b:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Service Robot Budget Planning 2026: Real Cost Calculator by Facility Size and Robot Type | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"Budget planning for service robots is broken in two directions: vendors lowball the upfront numbers by omitting integration, training, and facility modification costs, while internal procurement teams overestimate by treating robots as capital equipment rather than as labor-substitution assets with definable unit economics. This guide provides actual cost ranges, a budget-planning template by facility size, and the line items that separate a realistic budget from a vendor quote."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/service-robot-budget-planning-2026"}],["$","meta","3",{"property":"og:title","content":"Service Robot Budget Planning 2026: Real Cost Calculator by Facility Size and Robot Type"}],["$","meta","4",{"property":"og:description","content":"Budget planning for service robots is broken in two directions: vendors lowball the upfront numbers by omitting integration, training, and facility modification costs, while internal procurement teams overestimate by treating robots as capital equipment rather than as labor-substitution assets with definable unit economics. This guide provides actual cost ranges, a budget-planning template by facility size, and the line items that separate a realistic budget from a vendor quote."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/service-robot-budget-planning-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/images/home/solution-commercial.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Service Robot Budget Planning 2026: Real Cost Calculator by Facility Size and Robot Type"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1b","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
