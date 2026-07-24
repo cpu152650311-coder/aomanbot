@@ -300,4 +300,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://aomanbot.com/blog/service-robots-cold-chain-cold-storage-logistics-2026</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aomanbot.com/blog/service-robots-cinemas-movie-theaters-2026</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aomanbot.com/blog/service-robots-coworking-spaces-flexible-offices-2026</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
