@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[1402,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],""]
+3:I[9766,[],""]
+4:I[960,["0","static/chunks/0-662476c4b7ee794e.js","39","static/chunks/app/error-ad1db78543aa9a30.js"],"default"]
+5:I[8924,[],""]
+6:I[2619,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],""]
+7:I[8720,["23","static/chunks/23-fb79db990b8641fe.js","177","static/chunks/app/layout-d9f111970c5c6a02.js"],"Toaster"]
+8:I[1398,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+9:I[8455,["0","static/chunks/0-662476c4b7ee794e.js","356","static/chunks/356-9980b0c7558f4347.js","767","static/chunks/767-bfa000e17564b985.js","76","static/chunks/app/(main)/layout-7948688c466de717.js"],"default"]
+a:I[3767,["767","static/chunks/767-bfa000e17564b985.js","90","static/chunks/app/(standalone)/layout-95237ebd12ab1140.js"],"default"]
+c:I[4431,[],"OutletBoundary"]
+e:I[5278,[],"AsyncMetadataOutlet"]
+10:I[4431,[],"ViewportBoundary"]
+12:I[4431,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/3f8623af298af76f.css","style"]
+:HL["/_next/static/css/081a0afca5a9bd20.css","style"]
+0:{"P":null,"b":"cTK4GP5f4w9Fr2jww7OIT","p":"","c":["","blog","service-robots-petrol-stations-highway-service-areas-2026"],"i":false,"f":[[["",{"children":["(main)",{"children":["blog",{"children":[["slug","service-robots-petrol-stations-highway-service-areas-2026","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3f8623af298af76f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/081a0afca5a9bd20.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_f367f3","children":[["$","head",null,{"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=AW-18040004274","strategy":"beforeInteractive"}],["$","$L2",null,{"id":"google-ads-gtag","strategy":"beforeInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'AW-18040004274');\n          "}]]}],["$","body",null,{"className":"bg-[#F8FAFB] overflow-x-hidden font-[Inter,sans-serif]","children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"min-h-screen flex items-center justify-center bg-[#F8FAFB] text-gray-900","children":["$","div",null,{"className":"text-center px-6","children":[["$","span",null,{"className":"text-8xl font-bold text-[#0066FF]/20","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-bold","children":"Page Not Found"}],["$","p",null,{"className":"mt-3 text-gray-500 max-w-md mx-auto","children":"The page you are looking for might have been moved or doesn't exist."}],["$","div",null,{"className":"mt-8 flex gap-4 justify-center","children":[["$","$L6",null,{"href":"/","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-white bg-[#0066FF] hover:bg-[#0052CC] transition-colors","children":"Back to Home"}],["$","$L6",null,{"href":"/products","className":"px-6 py-2.5 rounded-lg text-sm font-semibold text-[#0066FF] border border-[#0066FF] hover:bg-[#0066FF]/5 transition-colors","children":"Explore Products"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{"position":"top-center","richColors":true}]]}]]}]]}],{"children":["(main)",["$","$1","c",{"children":[null,[["$","$L8",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}],["$","$La",null,{}]]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-robots-petrol-stations-highway-service-areas-2026","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+16:T33c5,<p>The global fuel retail industry operates 350,000+ petrol stations, and the modern highway service area has evolved far beyond fuel pumps and a convenience kiosk. Today&#39;s &quot;mobility hubs&quot; combine fuel, EV charging, quick-service restaurants, grocery retail, restroom facilities, and overnight truck parking — all operating 24/7 across networks that span hundreds of locations. Labor availability at these distributed sites is the industry&#39;s fastest-growing operational constraint.</p>
+<p>Service robots have already transformed shopping malls, supermarkets, and transportation hubs. Petrol stations and highway service areas combine elements of all three environments with a critical differentiator: outdoor forecourt operations that must function in rain, fuel spills, and vehicle traffic. This guide examines how fuel retail operators are deploying autonomous robots across their site networks.</p>
+<p><img src="/blog-images/service-robots-petrol-stations-highway-service-areas-2026/section-1.webp" alt="Abstract composition of cyan geometric light patterns and reflective surfaces emerging from darkness, evoking the organized illumination of a modern highway service area at night"></p>
+<h2>Why Petrol Stations Are the Next Automation Frontier</h2>
+<p>Three structural shifts are converging on fuel retail faster than most operators expect.</p>
+<p><strong>Staffing distributed sites is getting harder.</strong> A petrol station chain operating 200+ locations needs 1,600–2,400 shift workers to cover 24/7 operations. In most developed markets, these roles — forecourt attendant, c-store clerk, restroom cleaner — compete for labor against warehousing, delivery driving, and retail jobs that pay similarly but don&#39;t require working alone at 3 AM. Chains report 60–80% annual turnover in forecourt and cleaning roles, with 12–18% of positions unfilled at any given time.</p>
+<p><strong>Customer expectations have shifted.</strong> EV drivers spending 20–40 minutes charging expect the same service level as a highway rest stop restaurant — clean facilities, stocked c-store shelves, and available assistance. A petrol station that fails the restroom cleanliness test loses not just that customer but potentially their fuel spend too: 34% of highway travelers in a 2025 industry survey said they choose service areas based primarily on restroom and facility condition.</p>
+<p><strong>Operational margins demand technology leverage.</strong> Fuel retail margins average 3–5% on petrol and 25–30% on c-store items. Every hour of labor redirected from cleaning to revenue-generating tasks — food preparation, customer assistance, inventory management — directly improves the site&#39;s profitability. A single site that automates 60% of its cleaning hours and reallocates those hours to c-store operations typically sees a 7–12% lift in in-store revenue.</p>
+<p>For calculating the full financial picture, see our <a href="/blog/service-robot-roi-guide-2026">service robot ROI guide</a> with the ROI model that works across varied deployment scenarios.</p>
+<h2>Three Robot Applications for Highway Service Areas</h2>
+<h3>Autonomous Forecourt &amp; Facility Cleaning</h3>
+<p>Petrol station forecourts present a unique cleaning challenge: fuel and oil spills, tire rubber deposits, food wrappers from passing traffic, and leaves/debris that accumulate within hours of the last manual sweep. Traditional solutions — pressure washing at 2 AM or sending a cleaning crew every 4 hours — are either too slow or too expensive.</p>
+<p>The <a href="/products/cleinbot-cc201">CLEINBOT CC201</a> covers 3,000 sq m per hour on forecourt surfaces, detecting and spot-cleaning fuel spills within 90 seconds of occurrence. The robot&#39;s IP67-rated chassis handles direct rain exposure, and its chemical-resistant tires withstand contact with diesel and petrol residue that would degrade standard rubber compounds within weeks.</p>
+<p>For indoor areas — c-store floors, restroom approaches, restaurant seating zones — the <a href="/products/cleinbot-m79">CLEINBOT M79</a> handles 1,200 sq m per hour. A typical mid-size service area (800 sq m c-store + 400 sq m restaurant seating + 200 sq m restroom corridors) receives complete coverage every 70 minutes during operating hours, maintaining consistent cleanliness without the peaks and valleys of manual cleaning schedules.</p>
+<p>For comparison with other demanding outdoor cleaning environments, see how the same technology performs in <a href="/blog/outdoor-autonomous-cleaning-robots-2026">large-scale facilities</a>.</p>
+<p><img src="/blog-images/service-robots-petrol-stations-highway-service-areas-2026/section-2.webp" alt="Abstract composition of golden light trails sweeping across a dark reflective surface, evoking the continuous movement of automated cleaning across a fuel station forecourt at dawn"></p>
+<h3>Convenience Store Replenishment &amp; Logistics</h3>
+<p>C-stores at highway service areas face inventory challenges that urban convenience stores don&#39;t: delivery trucks arrive once or twice daily, not on-demand. When the 11 PM shelf restock reveals that energy drinks sold out at 9 PM, those are lost sales that can&#39;t be recovered until the next delivery 14 hours later.</p>
+<p>The CADEBOT L100, with its 70L dual-cabin capacity, handles back-of-store to shelf replenishment during operating hours — moving cases of beverages, snack boxes, and automotive supplies from the stockroom to the sales floor without disrupting customer traffic. At larger service areas with attached quick-service restaurants, the same robot transports food supplies from central receiving to kitchen prep areas, eliminating the 60–90 minutes per shift that kitchen staff spend on supply runs.</p>
+<p>For a broader perspective on delivery robot applications across retail environments, see our <a href="/blog/delivery-robot-selection-guide-2026">delivery robot selection guide</a> and our guide to <a href="/blog/service-robots-supermarkets-grocery-stores-2026">service robots in supermarkets and grocery stores</a>.</p>
+<h3>Interactive Wayfinding &amp; Customer Service</h3>
+<p>Highway service areas serve a rotating customer base — drivers who may never visit that particular location again. They need fast answers to predictable questions: where are the restrooms, which restaurant has the shortest queue, how far to the next EV charger with availability, what time does the truck wash close.</p>
+<p>The CRUZR humanoid service robot, positioned at the entrance or central atrium, answers these questions in multiple languages while reducing the load on human staff who should be focused on food service and checkout. At a pilot deployment in a major European highway service area chain, the CRUZR handled 340–380 passenger interactions per day — 82% were wayfinding queries that previously consumed 4–6 staff hours daily across the front desk and information counter.</p>
+<p>For customer-facing robot deployment strategies, see <a href="/blog/reception-concierge-robots-corporate-lobbies-2026">reception and concierge robots in corporate environments</a>.</p>
+<h2>Multi-Site Fleet Management Across Highway Networks</h2>
+<p>The operational model that makes petrol station automation viable at scale is centralized fleet management. A single operations center monitors and orchestrates robot fleets across 50–200 sites, handling firmware updates, route optimization, cleaning schedule adjustments, and exception alerts from a single dashboard.</p>
+<p>This is fundamentally different from deploying robots at one warehouse or one hotel. The fleet management system must handle site-specific floor plans (every service area has a unique layout), variable cleaning priorities (a site near a construction zone needs 3x the forecourt cleaning of a rural location), and equipment sharing across nearby sites during peak seasons.</p>
+<p>For the architecture that enables multi-site deployment, see our <a href="/blog/service-robots-multi-site-deployment-strategy-2026">multi-site deployment strategy guide</a> and <a href="/blog/service-robot-fleet-management-2026">fleet management systems</a>.</p>
+<p>Centralized fleet management delivers a critical advantage: the operations center can re-allocate cleaning and replenishment resources in real time based on traffic data. When highway sensors show a 40% traffic spike approaching a particular service area, cleaning frequency increases automatically before the customers arrive — not an hour after the mess accumulates.</p>
+<h2>Environmental &amp; Safety Compliance</h2>
+<p>Fuel retail environments trigger safety requirements beyond typical commercial deployments. The ATEX directive in Europe and NFPA 30A in North America govern electrical equipment operating near fuel dispensing areas. Robots deployed on forecourts must be certified for Zone 2 operation — areas where flammable atmospheres are not normally present but could occur briefly during fuel delivery or spill incidents.</p>
+<p>AOMAN&#39;s forecourt-deployed robots use intrinsically safe battery systems with sealed connectors, anti-static chassis grounding, and gas-detection sensors that trigger automatic shutdown and operator alerting if hydrocarbon vapor concentrations exceed 10% of the lower explosive limit. The robot&#39;s navigation system maps ATEX zone boundaries and automatically routes around Zone 1 areas (within 1 meter of fuel dispenser nozzles) during active refueling periods.</p>
+<p>For the full safety certification framework, see our <a href="/blog/service-robot-safety-standards-compliance-guide-2026">service robot safety standards and compliance guide</a>.</p>
+<h2>12-Month ROI: Highway Service Area Chain</h2>
+<p>A 50-site highway service area chain deploying robots across its network:</p>
+<table>
+<thead>
+<tr>
+<th>Cost Category</th>
+<th>Per Site (Annual)</th>
+<th>Network Total (Annual)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Robot fleet (2 cleaning + 1 delivery, lease)</td>
+<td>$54,000</td>
+<td>$2,700,000</td>
+</tr>
+<tr>
+<td>Installation &amp; site mapping</td>
+<td>$8,500</td>
+<td>$425,000</td>
+</tr>
+<tr>
+<td>Central fleet management platform</td>
+<td>$3,600</td>
+<td>$180,000</td>
+</tr>
+<tr>
+<td>Maintenance &amp; support</td>
+<td>$5,200</td>
+<td>$260,000</td>
+</tr>
+<tr>
+<td><strong>Total cost</strong></td>
+<td><strong>$71,300</strong></td>
+<td><strong>$3,565,000</strong></td>
+</tr>
+<tr>
+<td>Labor reallocation (4.5 FTE/site × $34,000)</td>
+<td>$153,000</td>
+<td>$7,650,000</td>
+</tr>
+<tr>
+<td>C-store revenue uplift (8% × $1.2M avg/site)</td>
+<td>$96,000</td>
+<td>$4,800,000</td>
+</tr>
+<tr>
+<td>Turnover reduction &amp; training savings</td>
+<td>$18,500</td>
+<td>$925,000</td>
+</tr>
+<tr>
+<td><strong>Total benefit</strong></td>
+<td><strong>$267,500</strong></td>
+<td><strong>$13,375,000</strong></td>
+</tr>
+<tr>
+<td><strong>Net return</strong></td>
+<td><strong>+$196,200/site</strong></td>
+<td><strong>+$9,810,000</strong></td>
+</tr>
+</tbody></table>
+<p>Break-even occurs in month 5 per site. The network effect is significant: centralized fleet management means the per-site cost decreases as the network grows, while the c-store revenue uplift scales linearly with site count.</p>
+<p>For alternative capital structures that reduce upfront costs across large deployments, see our <a href="/blog/service-robot-raas-financing-models-2026">RaaS and financing models guide</a>.</p>
+<h2>Implementation Roadmap for Fuel Retail Operators</h2>
+<p><strong>Phase 1 (Months 1–3): Pilot at 3 Sites.</strong> Deploy 2 cleaning robots per site on forecourt and indoor cleaning. Map each site to 3 cm accuracy. Collect 90 days of operational data: cleaning coverage, intervention frequency, customer feedback, and labor hour reallocation.</p>
+<p><strong>Phase 2 (Months 4–8): Expand to 15 Sites, Add Delivery.</strong> Roll out to 12 additional sites representing the network&#39;s diversity — urban, rural, highway, and neighborhood locations. Add CADEBOT L100 for c-store replenishment at the 5 highest-volume sites. Implement centralized fleet management dashboard.</p>
+<p><strong>Phase 3 (Months 9–12): Network-Wide Deployment.</strong> Deploy to remaining 35 sites. Add CRUZR interactive kiosks at 20 highest-traffic locations. Integrate fleet management with site-level traffic sensors for demand-driven cleaning and replenishment scheduling.</p>
+<p><strong>Critical factor: site power and connectivity.</strong> Robots need overnight charging stations and reliable Wi-Fi across the full site footprint, including forecourt areas that may have been designed before wireless coverage was a consideration. Sites requiring power infrastructure upgrades add $3,500–$7,000 to Phase 1 deployment costs. Budget for this in site selection — prioritizing sites with existing outdoor power and strong Wi-Fi coverage reduces Phase 1 costs by 25%.</p>
+<p>Petrol station chains that deploy robot fleets across their networks before 2028 will operate with a structural cost advantage. The labor math is simple: robots cover the midnight-to-dawn cleaning shift that no human wants, while trained staff focus on the customer-facing, revenue-generating work that makes service areas profitable.</p>
+b:["$","main",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Service Robots for Petrol Stations & Highway Service Areas — Automation Guide 2026\",\"description\":\"How petrol station chains and highway service area operators deploy service robots for forecourt cleaning, convenience store restocking, and customer service. Covers CLEINBOT CC201 outdoor fuel-spill response, CADEBOT L100 c-store shelf replenishment, CRUZR interactive wayfinding, multi-site fleet management across highway networks, and ROI data for fuel retail operators.\",\"image\":\"https://aomanbot.com/blog-images/service-robots-petrol-stations-highway-service-areas-2026/cover.webp\",\"datePublished\":\"2026-07-24\",\"author\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"AOMAN FUTURE\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://aomanbot.com/logo.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://aomanbot.com/blog/service-robots-petrol-stations-highway-service-areas-2026\"}}"}}],["$","section",null,{"style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"className":"pt-32 pb-16 md:pt-40 md:pb-20","children":["$","div",null,{"className":"container mx-auto px-6","children":[["$","$L6",null,{"href":"/blog","className":"inline-flex items-center gap-1.5 text-sm text-white/70 hover:text-white mb-6 transition-colors","children":"← Back to Blog"}],["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-white/60 mb-4","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-full font-medium","style":{"background":"rgba(255,255,255,0.15)","color":"#fff"},"children":"Retail & Transportation"}],["$","span",null,{"children":"2026-07-24"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight","children":"Service Robots for Petrol Stations & Highway Service Areas — Automation Guide 2026"}]]}]]}]}],["$","article",null,{"className":"bg-white py-16 md:py-24","children":["$","div",null,{"className":"container mx-auto px-6 max-w-3xl","children":["$","div",null,{"className":"prose prose-gray prose-lg max-w-none","children":[["$","img",null,{"src":"/blog-images/service-robots-petrol-stations-highway-service-areas-2026/cover.webp","alt":"Service Robots for Petrol Stations & Highway Service Areas — Automation Guide 2026","className":"w-full rounded-xl mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"]}]}]}],"$L18"]}]
+19:I[1204,["0","static/chunks/0-662476c4b7ee794e.js","912","static/chunks/app/(main)/blog/%5Bslug%5D/page-84918baabf9f1cdb.js"],"default"]
+17:["$","img",null,{"src":"/blog-images/service-robots-petrol-stations-highway-service-areas-2026/section-1.webp","alt":"Service Robots for Petrol Stations & Highway Service Areas — Automation Guide 2026 diagram","className":"w-full rounded-xl my-8","loading":"lazy"}]
+18:["$","section",null,{"className":"py-16","style":{"background":"linear-gradient(135deg, #0066FF 0%, #0044AA 100%)"},"children":["$","div",null,{"className":"container mx-auto px-6 text-center","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold text-white mb-3","children":"Ready to Automate?"}],["$","p",null,{"className":"text-white/80 mb-6 max-w-xl mx-auto","children":"Get a free consultation on the right robot solution for your business."}],["$","$L19",null,{"className":"inline-flex items-center gap-2 bg-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer","style":{"color":"#0066FF"},"children":"Contact Us →"}]]}]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+1a:I[622,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"Service Robots for Petrol Stations & Highway Service Areas — Automation Guide 2026 | AOMAN FUTURE"}],["$","meta","1",{"name":"description","content":"How petrol station chains and highway service area operators deploy service robots for forecourt cleaning, convenience store restocking, and customer service. Covers CLEINBOT CC201 outdoor fuel-spill response, CADEBOT L100 c-store shelf replenishment, CRUZR interactive wayfinding, multi-site fleet management across highway networks, and ROI data for fuel retail operators."}],["$","link","2",{"rel":"canonical","href":"https://aomanbot.com/blog/service-robots-petrol-stations-highway-service-areas-2026"}],["$","meta","3",{"property":"og:title","content":"Service Robots for Petrol Stations & Highway Service Areas — Automation Guide 2026"}],["$","meta","4",{"property":"og:description","content":"How petrol station chains and highway service area operators deploy service robots for forecourt cleaning, convenience store restocking, and customer service. Covers CLEINBOT CC201 outdoor fuel-spill response, CADEBOT L100 c-store shelf replenishment, CRUZR interactive wayfinding, multi-site fleet management across highway networks, and ROI data for fuel retail operators."}],["$","meta","5",{"property":"og:url","content":"https://aomanbot.com/blog/service-robots-petrol-stations-highway-service-areas-2026"}],["$","meta","6",{"property":"og:site_name","content":"AOMAN FUTURE"}],["$","meta","7",{"property":"og:image","content":"https://aomanbot.com/blog-images/service-robots-petrol-stations-highway-service-areas-2026/cover.webp"}],["$","meta","8",{"property":"og:image:width","content":"1280"}],["$","meta","9",{"property":"og:image:height","content":"720"}],["$","meta","10",{"property":"og:image:alt","content":"Service Robots for Petrol Stations & Highway Service Areas — Automation Guide 2026"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AOMAN FUTURE | Humanoid & Smart Service Robots"}],["$","meta","14",{"name":"twitter:description","content":"AOMAN FUTURE - Global leader in humanoid robots and intelligent service robots. Explore CADEBOT, CLEINBOT, CRUZR solutions."}],["$","meta","15",{"name":"twitter:image","content":"https://aomanbot.com/images/home/hero-robot.webp"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","17",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","$L1a","18",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
